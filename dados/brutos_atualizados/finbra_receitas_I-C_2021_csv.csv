@@ -1,0 +1,476 @@
+Exercício: 2021
+Escopo: Municípios do Estado - PA
+Tabela: Receitas Orçamentárias (Anexo I-C)
+Instituição;Cod.IBGE;UF;População;Coluna;Conta;Identificador da Conta;Valor
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";"siconfi-cor_ReceitasExcetoIntraOrcamentarias";1001672588,71
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RO1.0.0.0.00.0.0";925309602,24
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria";"siconfi-cor_RO1.1.0.0.00.0.0";125528580,63
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.0.00.0.0 - Impostos";"siconfi-cor_RO1.1.1.0.00.0.0";115336069,11
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza";"siconfi-cor_RO1.1.1.3.00.0.0";11765286,05
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte";"siconfi-cor_RO1.1.1.3.03.0.0";11765286,05
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho";"siconfi-cor_RO1.1.1.3.03.1.0";8459243,65
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos";"siconfi-cor_RO1.1.1.3.03.4.0";3306042,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios";"siconfi-cor_RO1.1.1.8.00.0.0";103570783,06
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios";"siconfi-cor_RO1.1.1.8.01.0.0";31263125,25
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana";"siconfi-cor_RO1.1.1.8.01.1.0";22283528,63
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis";"siconfi-cor_RO1.1.1.8.01.4.0";8979596,62
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços";"siconfi-cor_RO1.1.1.8.02.0.0";72307657,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza";"siconfi-cor_RO1.1.1.8.02.3.0";72307657,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.2.0.00.0.0 - Taxas";"siconfi-cor_RO1.1.2.0.00.0.0";10192511,52
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia";"siconfi-cor_RO1.1.2.1.00.0.0";876257,13
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental";"siconfi-cor_RO1.1.2.1.04.0.0";876257,13
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços";"siconfi-cor_RO1.1.2.2.00.0.0";3149938,41
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços";"siconfi-cor_RO1.1.2.2.01.0.0";3149938,41
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.1.2.8.00.0.0";6166315,98
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização";"siconfi-cor_RO1.1.2.8.01.0.0";6166315,98
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras";"siconfi-cor_RO1.1.2.8.01.9.0";6166315,98
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.2.0.0.00.0.0 - Contribuições";"siconfi-cor_RO1.2.0.0.00.0.0";68234676,48
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.2.1.0.00.0.0 - Contribuições Sociais";"siconfi-cor_RO1.2.1.0.00.0.0";16913402,11
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.2.1.5.00.0.0 - Contribuição para o Plano de Seguridade Social do Servidor Público - CPSSS";"siconfi-cor_RO1.2.1.5.00.0.0";16913402,11
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.2.1.5.01.0.0 - CPSSS - Servidor Civil";"siconfi-cor_RO1.2.1.5.01.0.0";16913402,11
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.2.1.5.01.1.0 - CPSSS - Servidor Civil Ativo";"siconfi-cor_RO1.2.1.5.01.1.0";16913402,11
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública";"siconfi-cor_RO1.2.4.0.00.0.0";51321274,37
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.3.0.0.00.0.0 - Receita Patrimonial";"siconfi-cor_RO1.3.0.0.00.0.0";24947051,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.3.2.0.00.0.0 - Valores Mobiliários";"siconfi-cor_RO1.3.2.0.00.0.0";24947051,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.3.2.1.00.0.0 - Juros e Correções Monetárias";"siconfi-cor_RO1.3.2.1.00.0.0";24947051,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários";"siconfi-cor_RO1.3.2.1.00.1.0";8138342,92
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS";"siconfi-cor_RO1.3.2.1.00.4.0";16808708,84
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.6.0.0.00.0.0 - Receita de Serviços";"siconfi-cor_RO1.6.0.0.00.0.0";283505,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais";"siconfi-cor_RO1.6.1.0.00.0.0";283505,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais";"siconfi-cor_RO1.6.1.0.01.0.0";283505,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.0.0.00.0.0 - Transferências Correntes";"siconfi-cor_RO1.7.0.0.00.0.0";705003129,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.0.00.0.0 - Transferências da União e de suas Entidades";"siconfi-cor_RO1.7.1.0.00.0.0";415184841,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.1.8.00.0.0";415184841,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.01.0.0 - Participação na Receita da União";"siconfi-cor_RO1.7.1.8.01.0.0";110587695,34
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal";"siconfi-cor_RO1.7.1.8.01.2.0";102152975,52
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro";"siconfi-cor_RO1.7.1.8.01.3.0";4477489,64
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho";"siconfi-cor_RO1.7.1.8.01.4.0";3955179,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural";"siconfi-cor_RO1.7.1.8.01.5.0";2050,69
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais";"siconfi-cor_RO1.7.1.8.02.0.0";2005818,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM";"siconfi-cor_RO1.7.1.8.02.2.0";31147,52
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP";"siconfi-cor_RO1.7.1.8.02.6.0";1974670,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde";"siconfi-cor_RO1.7.1.8.03.0.0";202104108,33
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária";"siconfi-cor_RO1.7.1.8.03.1.0";59971189,84
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada";"siconfi-cor_RO1.7.1.8.03.2.0";129074261,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde";"siconfi-cor_RO1.7.1.8.03.3.0";9878128,69
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica";"siconfi-cor_RO1.7.1.8.03.4.0";3130528,2
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS";"siconfi-cor_RO1.7.1.8.03.5.0";50000,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE";"siconfi-cor_RO1.7.1.8.05.0.0";6813733,2
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.05.1.0 - Transferências do Salário-Educação";"siconfi-cor_RO1.7.1.8.05.1.0";3019508,1
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE";"siconfi-cor_RO1.7.1.8.05.3.0";3776313,2
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE";"siconfi-cor_RO1.7.1.8.05.4.0";17911,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB";"siconfi-cor_RO1.7.1.8.09.0.0";86784154,06
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades";"siconfi-cor_RO1.7.1.8.10.0.0";280000,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.10.3.0 - Transferências de Convênios da União Destinadas a Programas de Assistência Social";"siconfi-cor_RO1.7.1.8.10.3.0";280000,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS";"siconfi-cor_RO1.7.1.8.12.0.0";3866712,28
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.1.8.99.0.0 - Outras Transferências da União";"siconfi-cor_RO1.7.1.8.99.0.0";2742619,8
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO1.7.2.0.00.0.0";180176334,32
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.2.8.00.0.0";180176334,32
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.2.8.01.0.0 - Participação na Receita dos Estados";"siconfi-cor_RO1.7.2.8.01.0.0";165260288,37
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.2.8.01.1.0 - Cota-Parte do ICMS";"siconfi-cor_RO1.7.2.8.01.1.0";129868175,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.2.8.01.2.0 - Cota-Parte do IPVA";"siconfi-cor_RO1.7.2.8.01.2.0";30780406,41
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios";"siconfi-cor_RO1.7.2.8.01.3.0";4460180,63
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico";"siconfi-cor_RO1.7.2.8.01.4.0";151526,25
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo";"siconfi-cor_RO1.7.2.8.03.0.0";14831607,95
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social";"siconfi-cor_RO1.7.2.8.07.0.0";84438,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas";"siconfi-cor_RO1.7.5.0.00.0.0";109641954,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.5.8.00.0.0";109641954,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB";"siconfi-cor_RO1.7.5.8.01.0.0";109641954,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.0.0.00.0.0 - Outras Receitas Correntes";"siconfi-cor_RO1.9.0.0.00.0.0";1312658,88
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais";"siconfi-cor_RO1.9.1.0.00.0.0";222096,01
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica";"siconfi-cor_RO1.9.1.0.01.0.0";222096,01
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos";"siconfi-cor_RO1.9.2.0.00.0.0";1032417,78
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.2.2.00.0.0 - Restituições";"siconfi-cor_RO1.9.2.2.00.0.0";1032417,78
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.2.2.03.0.0 - Restituição de Benefícios Previdenciários";"siconfi-cor_RO1.9.2.2.03.0.0";1032417,78
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.9.0.00.0.0 - Demais Receitas Correntes";"siconfi-cor_RO1.9.9.0.00.0.0";58145,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.9.0.99.0.0 - Outras Receitas";"siconfi-cor_RO1.9.9.0.99.0.0";58145,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.9.0.99.1.0 - Outras Receitas - Primárias";"siconfi-cor_RO1.9.9.0.99.1.0";54207,26
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"1.9.9.0.99.2.0 - Outras Receitas - Financeiras";"siconfi-cor_RO1.9.9.0.99.2.0";3937,83
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.0.0.0.00.0.0 - Receitas de Capital";"siconfi-cor_RO2.0.0.0.00.0.0";76362986,47
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.1.0.0.00.0.0 - Operações de Crédito";"siconfi-cor_RO2.1.0.0.00.0.0";49340936,47
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno";"siconfi-cor_RO2.1.1.0.00.0.0";49340936,47
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.1.1.2.00.0.0 - Operações de Crédito Contratuais - Mercado Interno";"siconfi-cor_RO2.1.1.2.00.0.0";49340936,47
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.2.0.0.00.0.0 - Alienação de Bens";"siconfi-cor_RO2.2.0.0.00.0.0";290,37
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.2.2.0.00.0.0 - Alienação de Bens Imóveis";"siconfi-cor_RO2.2.2.0.00.0.0";290,37
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.0.0.00.0.0 - Transferências de Capital";"siconfi-cor_RO2.4.0.0.00.0.0";26997321,32
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.1.0.00.0.0 - Transferências da União e de suas Entidades";"siconfi-cor_RO2.4.1.0.00.0.0";4243553,57
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios";"siconfi-cor_RO2.4.1.8.00.0.0";4243553,57
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde";"siconfi-cor_RO2.4.1.8.04.0.0";100000,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária";"siconfi-cor_RO2.4.1.8.04.1.0";100000,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades";"siconfi-cor_RO2.4.1.8.10.0.0";2437303,57
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.1.8.10.5.0 - Transferências de Convênios da União destinadas a Programas de Saneamento Básico";"siconfi-cor_RO2.4.1.8.10.5.0";400266,43
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.1.8.10.9.0 - Outras Transferências de Convênios da União";"siconfi-cor_RO2.4.1.8.10.9.0";2037037,14
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.1.8.99.0.0 - Outras Transferências da União";"siconfi-cor_RO2.4.1.8.99.0.0";1706250,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO2.4.2.0.00.0.0";22753767,75
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades";"siconfi-cor_RO2.4.2.8.00.0.0";22753767,75
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO2.4.2.8.10.0.0";22753767,75
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.2.8.10.1.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS";"siconfi-cor_RO2.4.2.8.10.1.0";6086168,87
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.2.8.10.5.0 - Transferências de Convênios dos Estados destinadas a Programas de Saneamento Básico";"siconfi-cor_RO2.4.2.8.10.5.0";13590621,91
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados";"siconfi-cor_RO2.4.2.8.10.9.0";3076976,97
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.9.0.0.00.0.0 - Outras Receitas de Capital";"siconfi-cor_RO2.9.0.0.00.0.0";24438,31
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.9.9.0.00.0.0 - Demais Receitas de Capital";"siconfi-cor_RO2.9.9.0.00.0.0";24438,31
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"2.9.9.0.00.1.0 - Demais Receitas de Capital";"siconfi-cor_RO2.9.9.0.00.1.0";24438,31
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";"siconfi-cor_ReceitasIntraOrcamentarias";53233669,13
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RI7.0.0.0.00.0.0";53233669,13
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.2.0.0.00.0.0 - Contribuições";"siconfi-cor_RI7.2.0.0.00.0.0";33377535,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.2.1.0.00.0.0 - Contribuições Sociais";"siconfi-cor_RI7.2.1.0.00.0.0";33377535,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e   Municípios";"siconfi-cor_RI7.2.1.8.00.0.0";30719388,39
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN";"siconfi-cor_RI7.2.1.8.03.0.0";20333766,38
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo";"siconfi-cor_RI7.2.1.8.03.1.0";20333766,38
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.2.1.8.04.0.0 - CPSSS Patronal - Parcelamentos - Específico de EST/DF/MUN";"siconfi-cor_RI7.2.1.8.04.0.0";10385622,01
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.2.1.8.04.1.0 - CPSSS Patronal - Parcelamentos - Servidor Civil Ativo";"siconfi-cor_RI7.2.1.8.04.1.0";10385622,01
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.2.1.9.00.0.0 - Outras Contribuições Sociais";"siconfi-cor_RI7.2.1.9.00.0.0";2658147,17
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.9.0.0.00.0.0 - Outras Receitas Correntes";"siconfi-cor_RI7.9.0.0.00.0.0";19856133,57
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.9.9.0.00.0.0 - Demais Receitas Correntes";"siconfi-cor_RI7.9.9.0.00.0.0";19856133,57
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"7.9.9.0.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do RPPS";"siconfi-cor_RI7.9.9.0.01.0.0";19856133,57
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Receitas Brutas Realizadas";"TOTAL DAS RECEITAS (III) = (I + II)";"siconfi-cor_TotalReceitas";1054906257,84
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";"siconfi-cor_ReceitasExcetoIntraOrcamentarias";55979344,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RO1.0.0.0.00.0.0";55979344,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.0.0.00.0.0 - Transferências Correntes";"siconfi-cor_RO1.7.0.0.00.0.0";55979344,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.1.0.00.0.0 - Transferências da União e de suas Entidades";"siconfi-cor_RO1.7.1.0.00.0.0";22957591,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.1.8.00.0.0";22957591,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.1.8.01.0.0 - Participação na Receita da União";"siconfi-cor_RO1.7.1.8.01.0.0";20431004,55
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal";"siconfi-cor_RO1.7.1.8.01.2.0";20430594,47
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural";"siconfi-cor_RO1.7.1.8.01.5.0";410,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB";"siconfi-cor_RO1.7.1.8.09.0.0";2526587,01
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO1.7.2.0.00.0.0";33021753,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.2.8.00.0.0";33021753,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.2.8.01.0.0 - Participação na Receita dos Estados";"siconfi-cor_RO1.7.2.8.01.0.0";33021753,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.2.8.01.1.0 - Cota-Parte do ICMS";"siconfi-cor_RO1.7.2.8.01.1.0";25973635,24
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.2.8.01.2.0 - Cota-Parte do IPVA";"siconfi-cor_RO1.7.2.8.01.2.0";6156081,62
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios";"siconfi-cor_RO1.7.2.8.01.3.0";892036,14
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Deduções - FUNDEB";"TOTAL DAS RECEITAS (III) = (I + II)";"siconfi-cor_TotalReceitas";55979344,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Outras Deduções da Receita";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";"siconfi-cor_ReceitasExcetoIntraOrcamentarias";4427747,48
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Outras Deduções da Receita";"1.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RO1.0.0.0.00.0.0";4427747,48
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Outras Deduções da Receita";"1.7.0.0.00.0.0 - Transferências Correntes";"siconfi-cor_RO1.7.0.0.00.0.0";4427747,48
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Outras Deduções da Receita";"1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas";"siconfi-cor_RO1.7.5.0.00.0.0";4427747,48
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Outras Deduções da Receita";"1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.5.8.00.0.0";4427747,48
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Outras Deduções da Receita";"1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB";"siconfi-cor_RO1.7.5.8.01.0.0";4427747,48
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;535547;"Outras Deduções da Receita";"TOTAL DAS RECEITAS (III) = (I + II)";"siconfi-cor_TotalReceitas";4427747,48
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";"siconfi-cor_ReceitasExcetoIntraOrcamentarias";1298143024,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RO1.0.0.0.00.0.0";1270329865,32
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria";"siconfi-cor_RO1.1.0.0.00.0.0";215068044,95
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.0.00.0.0 - Impostos";"siconfi-cor_RO1.1.1.0.00.0.0";203446709,98
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza";"siconfi-cor_RO1.1.1.3.00.0.0";33377343,84
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte";"siconfi-cor_RO1.1.1.3.03.0.0";33377343,84
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho";"siconfi-cor_RO1.1.1.3.03.1.0";33377343,84
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios";"siconfi-cor_RO1.1.1.8.00.0.0";170069366,14
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios";"siconfi-cor_RO1.1.1.8.01.0.0";16161219,04
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana";"siconfi-cor_RO1.1.1.8.01.1.0";11624090,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis";"siconfi-cor_RO1.1.1.8.01.4.0";4537129,04
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços";"siconfi-cor_RO1.1.1.8.02.0.0";153908147,1
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza";"siconfi-cor_RO1.1.1.8.02.3.0";153908147,1
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.2.0.00.0.0 - Taxas";"siconfi-cor_RO1.1.2.0.00.0.0";11621334,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.1.2.8.00.0.0";11621334,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização";"siconfi-cor_RO1.1.2.8.01.0.0";8526288,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária";"siconfi-cor_RO1.1.2.8.01.1.0";1396613,23
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras";"siconfi-cor_RO1.1.2.8.01.9.0";7129675,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.2.8.02.0.0 - Taxas pela Prestação de Serviços";"siconfi-cor_RO1.1.2.8.02.0.0";3095046,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.1.2.8.02.9.0 - Taxas pela Prestação de Serviços - Outras";"siconfi-cor_RO1.1.2.8.02.9.0";3095046,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.2.0.0.00.0.0 - Contribuições";"siconfi-cor_RO1.2.0.0.00.0.0";74018425,94
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.2.1.0.00.0.0 - Contribuições Sociais";"siconfi-cor_RO1.2.1.0.00.0.0";46684909,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.2.1.8.00.0.0";46684909,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN";"siconfi-cor_RO1.2.1.8.01.0.0";46684050,8
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo";"siconfi-cor_RO1.2.1.8.01.1.0";46684050,8
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN";"siconfi-cor_RO1.2.1.8.03.0.0";859,1
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo";"siconfi-cor_RO1.2.1.8.03.1.0";859,1
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública";"siconfi-cor_RO1.2.4.0.00.0.0";27333516,04
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.0.0.00.0.0 - Receita Patrimonial";"siconfi-cor_RO1.3.0.0.00.0.0";71866827,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado";"siconfi-cor_RO1.3.1.0.00.0.0";1140349,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação";"siconfi-cor_RO1.3.1.0.01.0.0";1140349,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação";"siconfi-cor_RO1.3.1.0.01.2.0";1140349,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.2.0.00.0.0 - Valores Mobiliários";"siconfi-cor_RO1.3.2.0.00.0.0";70026930,2
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.2.1.00.0.0 - Juros e Correções Monetárias";"siconfi-cor_RO1.3.2.1.00.0.0";69572407,47
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários";"siconfi-cor_RO1.3.2.1.00.1.0";8438160,14
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS";"siconfi-cor_RO1.3.2.1.00.4.0";61134247,33
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.2.2.00.0.0 - Dividendos";"siconfi-cor_RO1.3.2.2.00.0.0";65508,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.2.9.00.0.0 - Outros Valores Mobiliários";"siconfi-cor_RO1.3.2.9.00.0.0";389014,27
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.3.9.0.00.0.0 - Demais Receitas Patrimoniais";"siconfi-cor_RO1.3.9.0.00.0.0";699548,12
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.6.0.0.00.0.0 - Receita de Serviços";"siconfi-cor_RO1.6.0.0.00.0.0";264389,34
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.6.2.0.00.0.0 - Serviços e Atividades Referentes à Navegação e ao Transporte";"siconfi-cor_RO1.6.2.0.00.0.0";263815,84
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.6.2.0.02.0.0 - Serviços de Transporte";"siconfi-cor_RO1.6.2.0.02.0.0";263815,84
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.6.9.0.00.0.0 - Outros Serviços";"siconfi-cor_RO1.6.9.0.00.0.0";573,5
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.6.9.0.99.0.0 - Outros Serviços";"siconfi-cor_RO1.6.9.0.99.0.0";573,5
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.0.0.00.0.0 - Transferências Correntes";"siconfi-cor_RO1.7.0.0.00.0.0";903412771,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.0.00.0.0 - Transferências da União e de suas Entidades";"siconfi-cor_RO1.7.1.0.00.0.0";202187023,03
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.1.8.00.0.0";202187023,03
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.01.0.0 - Participação na Receita da União";"siconfi-cor_RO1.7.1.8.01.0.0";111322332,99
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal";"siconfi-cor_RO1.7.1.8.01.2.0";110585644,65
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural";"siconfi-cor_RO1.7.1.8.01.5.0";736688,34
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais";"siconfi-cor_RO1.7.1.8.02.0.0";3007247,8
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.02.1.0 - Cota-parte da Compensação Financeira de Recursos Hídricos";"siconfi-cor_RO1.7.1.8.02.1.0";1032577,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP";"siconfi-cor_RO1.7.1.8.02.6.0";1974670,56
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde";"siconfi-cor_RO1.7.1.8.03.0.0";61837824,22
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária";"siconfi-cor_RO1.7.1.8.03.1.0";19518672,61
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada";"siconfi-cor_RO1.7.1.8.03.2.0";34531171,04
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde";"siconfi-cor_RO1.7.1.8.03.3.0";3697605,3
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica";"siconfi-cor_RO1.7.1.8.03.4.0";2199847,34
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo";"siconfi-cor_RO1.7.1.8.03.9.0";1890527,93
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde";"siconfi-cor_RO1.7.1.8.04.0.0";1012568,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária";"siconfi-cor_RO1.7.1.8.04.1.0";9736,05
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Especializada";"siconfi-cor_RO1.7.1.8.04.2.0";2832,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Vigilância em Saúde";"siconfi-cor_RO1.7.1.8.04.3.0";1000000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE";"siconfi-cor_RO1.7.1.8.05.0.0";11894058,4
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.05.1.0 - Transferências do Salário-Educação";"siconfi-cor_RO1.7.1.8.05.1.0";4216096,2
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE";"siconfi-cor_RO1.7.1.8.05.2.0";20160,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE";"siconfi-cor_RO1.7.1.8.05.3.0";6559324,2
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE";"siconfi-cor_RO1.7.1.8.05.4.0";1098478,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades";"siconfi-cor_RO1.7.1.8.10.0.0";3432113,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.10.9.0 - Outras Transferências de Convênios da União";"siconfi-cor_RO1.7.1.8.10.9.0";3432113,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS";"siconfi-cor_RO1.7.1.8.12.0.0";2030164,58
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.1.8.99.0.0 - Outras Transferências da União";"siconfi-cor_RO1.7.1.8.99.0.0";7650713,32
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO1.7.2.0.00.0.0";439400240,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.2.8.00.0.0";439400240,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.01.0.0 - Participação na Receita dos Estados";"siconfi-cor_RO1.7.2.8.01.0.0";276515120,49
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.01.1.0 - Cota-Parte do ICMS";"siconfi-cor_RO1.7.2.8.01.1.0";244336033,34
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.01.2.0 - Cota-Parte do IPVA";"siconfi-cor_RO1.7.2.8.01.2.0";24189963,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios";"siconfi-cor_RO1.7.2.8.01.3.0";7891716,67
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico";"siconfi-cor_RO1.7.2.8.01.4.0";97407,2
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.02.0.0 - Transferência da Cota-parte da Compensação Financeira (25%)";"siconfi-cor_RO1.7.2.8.02.0.0";157854419,61
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM";"siconfi-cor_RO1.7.2.8.02.2.0";157854419,61
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo";"siconfi-cor_RO1.7.2.8.03.0.0";4262179,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades";"siconfi-cor_RO1.7.2.8.10.0.0";579787,48
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação";"siconfi-cor_RO1.7.2.8.10.2.0";541962,79
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.10.9.0 - Outras Transferências de Convênio dos Estados";"siconfi-cor_RO1.7.2.8.10.9.0";37824,69
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.2.8.99.0.0 - Outras Transferências dos Estados";"siconfi-cor_RO1.7.2.8.99.0.0";188732,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.4.0.00.0.0 - Transferências de Instituições Privadas";"siconfi-cor_RO1.7.4.0.00.0.0";3493368,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.4.8.00.0.0 - Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.4.8.00.0.0";3493368,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.4.8.10.0.0 - Outras Transferência de Instituições Privadas para EST/DF/MUN - Não Especificadas Anteriormente";"siconfi-cor_RO1.7.4.8.10.0.0";3493368,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas";"siconfi-cor_RO1.7.5.0.00.0.0";258332140,53
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.5.8.00.0.0";258332140,53
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB";"siconfi-cor_RO1.7.5.8.01.0.0";156583951,08
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.7.5.8.99.0.0 - Outras Transferências Multigovernamentais";"siconfi-cor_RO1.7.5.8.99.0.0";101748189,45
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.0.0.00.0.0 - Outras Receitas Correntes";"siconfi-cor_RO1.9.0.0.00.0.0";5699405,51
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais";"siconfi-cor_RO1.9.1.0.00.0.0";4497994,95
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica";"siconfi-cor_RO1.9.1.0.01.0.0";481953,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.1.0.04.0.0 - Multas Previstas na Legislação sobre Defesa dos Direitos Difusos";"siconfi-cor_RO1.9.1.0.04.0.0";522104,99
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.1.0.06.0.0 - Multas por Danos Ambientais";"siconfi-cor_RO1.9.1.0.06.0.0";124269,49
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.1.0.06.1.0 - Multas Administrativas por Danos Ambientais";"siconfi-cor_RO1.9.1.0.06.1.0";124269,49
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas";"siconfi-cor_RO1.9.1.0.07.0.0";1826,72
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.1.0.09.0.0 - Multas e Juros Previstos em Contratos";"siconfi-cor_RO1.9.1.0.09.0.0";3367840,51
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos";"siconfi-cor_RO1.9.2.0.00.0.0";906011,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.2.2.00.0.0 - Restituições";"siconfi-cor_RO1.9.2.2.00.0.0";906011,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.2.2.99.0.0 - Outras Restituições";"siconfi-cor_RO1.9.2.2.99.0.0";906011,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.9.0.00.0.0 - Demais Receitas Correntes";"siconfi-cor_RO1.9.9.0.00.0.0";295399,32
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores";"siconfi-cor_RO1.9.9.0.03.0.0";83820,48
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.9.0.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência";"siconfi-cor_RO1.9.9.0.12.0.0";99823,63
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.9.0.12.2.0 - Ônus de Sucumbência";"siconfi-cor_RO1.9.9.0.12.2.0";99823,63
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.9.0.99.0.0 - Outras Receitas";"siconfi-cor_RO1.9.9.0.99.0.0";111755,21
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.9.0.99.1.0 - Outras Receitas - Primárias";"siconfi-cor_RO1.9.9.0.99.1.0";14358,15
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"1.9.9.0.99.2.0 - Outras Receitas - Financeiras";"siconfi-cor_RO1.9.9.0.99.2.0";97397,06
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.0.0.0.00.0.0 - Receitas de Capital";"siconfi-cor_RO2.0.0.0.00.0.0";27813158,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.1.0.0.00.0.0 - Operações de Crédito";"siconfi-cor_RO2.1.0.0.00.0.0";1217028,33
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno";"siconfi-cor_RO2.1.1.0.00.0.0";1217028,33
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.1.1.9.00.0.0 - Outras Operações de Crédito - Mercado Interno";"siconfi-cor_RO2.1.1.9.00.0.0";1217028,33
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.0.0.00.0.0 - Transferências de Capital";"siconfi-cor_RO2.4.0.0.00.0.0";26596130,59
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.1.0.00.0.0 - Transferências da União e de suas Entidades";"siconfi-cor_RO2.4.1.0.00.0.0";390783,91
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios";"siconfi-cor_RO2.4.1.8.00.0.0";390783,91
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades";"siconfi-cor_RO2.4.1.8.10.0.0";390783,91
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.1.8.10.9.0 - Outras Transferências de Convênios da União";"siconfi-cor_RO2.4.1.8.10.9.0";390783,91
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO2.4.2.0.00.0.0";25000000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades";"siconfi-cor_RO2.4.2.8.00.0.0";25000000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO2.4.2.8.10.0.0";25000000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.2.8.10.7.0 - Transferências de Convênios dos Estados destinadas a Programas de Infraestrutura em Transporte";"siconfi-cor_RO2.4.2.8.10.7.0";25000000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.4.0.00.0.0 - Transferências de Instituições Privadas";"siconfi-cor_RO2.4.4.0.00.0.0";1205346,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.4.8.00.0.0 - Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios";"siconfi-cor_RO2.4.4.8.00.0.0";1205346,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"2.4.4.8.10.0.0 - Outras Transferências de Instituições Privadas";"siconfi-cor_RO2.4.4.8.10.0.0";1205346,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";"siconfi-cor_ReceitasIntraOrcamentarias";61019396,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"7.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RI7.0.0.0.00.0.0";61019396,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"7.2.0.0.00.0.0 - Contribuições";"siconfi-cor_RI7.2.0.0.00.0.0";61019396,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"7.2.1.0.00.0.0 - Contribuições Sociais";"siconfi-cor_RI7.2.1.0.00.0.0";61019396,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"7.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e   Municípios";"siconfi-cor_RI7.2.1.8.00.0.0";61019396,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN";"siconfi-cor_RI7.2.1.8.03.0.0";61019396,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo";"siconfi-cor_RI7.2.1.8.03.1.0";61019396,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Receitas Brutas Realizadas";"TOTAL DAS RECEITAS (III) = (I + II)";"siconfi-cor_TotalReceitas";1359162420,7
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";"siconfi-cor_ReceitasExcetoIntraOrcamentarias";75861475,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RO1.0.0.0.00.0.0";75861475,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.0.0.00.0.0 - Transferências Correntes";"siconfi-cor_RO1.7.0.0.00.0.0";75861475,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.1.0.00.0.0 - Transferências da União e de suas Entidades";"siconfi-cor_RO1.7.1.0.00.0.0";20577932,03
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.1.8.00.0.0";20577932,03
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.1.8.01.0.0 - Participação na Receita da União";"siconfi-cor_RO1.7.1.8.01.0.0";20577932,03
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal";"siconfi-cor_RO1.7.1.8.01.2.0";20430594,47
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural";"siconfi-cor_RO1.7.1.8.01.5.0";147337,56
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO1.7.2.0.00.0.0";55283543,15
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.2.8.00.0.0";55283543,15
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.2.8.01.0.0 - Participação na Receita dos Estados";"siconfi-cor_RO1.7.2.8.01.0.0";55283543,15
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.2.8.01.1.0 - Cota-Parte do ICMS";"siconfi-cor_RO1.7.2.8.01.1.0";48867206,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.2.8.01.2.0 - Cota-Parte do IPVA";"siconfi-cor_RO1.7.2.8.01.2.0";4837992,89
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios";"siconfi-cor_RO1.7.2.8.01.3.0";1578343,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;283542;"Deduções - FUNDEB";"TOTAL DAS RECEITAS (III) = (I + II)";"siconfi-cor_TotalReceitas";75861475,18
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";"siconfi-cor_ReceitasExcetoIntraOrcamentarias";3736447757,11
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RO1.0.0.0.00.0.0";3689592386,91
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria";"siconfi-cor_RO1.1.0.0.00.0.0";1005050283,27
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.0.00.0.0 - Impostos";"siconfi-cor_RO1.1.1.0.00.0.0";892774430,95
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza";"siconfi-cor_RO1.1.1.3.00.0.0";124274552,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte";"siconfi-cor_RO1.1.1.3.03.0.0";124274552,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho";"siconfi-cor_RO1.1.1.3.03.1.0";119112860,09
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos";"siconfi-cor_RO1.1.1.3.03.4.0";5161691,92
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios";"siconfi-cor_RO1.1.1.8.00.0.0";768499878,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios";"siconfi-cor_RO1.1.1.8.01.0.0";264843719,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana";"siconfi-cor_RO1.1.1.8.01.1.0";219639257,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis";"siconfi-cor_RO1.1.1.8.01.4.0";45204461,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços";"siconfi-cor_RO1.1.1.8.02.0.0";503656159,93
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza";"siconfi-cor_RO1.1.1.8.02.3.0";503656159,93
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.2.0.00.0.0 - Taxas";"siconfi-cor_RO1.1.2.0.00.0.0";112275852,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia";"siconfi-cor_RO1.1.2.1.00.0.0";47264376,28
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização";"siconfi-cor_RO1.1.2.1.01.0.0";42689490,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental";"siconfi-cor_RO1.1.2.1.04.0.0";4574885,66
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços";"siconfi-cor_RO1.1.2.2.00.0.0";65011476,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços";"siconfi-cor_RO1.1.2.2.01.0.0";65011476,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.0.0.00.0.0 - Contribuições";"siconfi-cor_RO1.2.0.0.00.0.0";247259465,63
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.0.00.0.0 - Contribuições Sociais";"siconfi-cor_RO1.2.1.0.00.0.0";87049045,21
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.6.00.0.0 - Contribuição para Fundos de Assistência Médica";"siconfi-cor_RO1.2.1.6.00.0.0";5838082,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.6.03.0.0 - Contribuição para Fundos de Assistência Médica - Servidores Civis";"siconfi-cor_RO1.2.1.6.03.0.0";5838082,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.6.03.1.0 - Contribuição para Fundos de Assistência Médica - Servidores Civis";"siconfi-cor_RO1.2.1.6.03.1.0";5838082,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.2.1.8.00.0.0";81210962,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN";"siconfi-cor_RO1.2.1.8.01.0.0";2822529,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo";"siconfi-cor_RO1.2.1.8.01.1.0";2822529,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN";"siconfi-cor_RO1.2.1.8.03.0.0";78388432,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo";"siconfi-cor_RO1.2.1.8.03.1.0";75287475,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.8.03.2.0 - CPSSS Patronal - Servidor Civil Inativo";"siconfi-cor_RO1.2.1.8.03.2.0";2364915,7
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.1.8.03.3.0 - CPSSS Patronal - Servidor Civil - Pensionistas";"siconfi-cor_RO1.2.1.8.03.3.0";736041,27
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública";"siconfi-cor_RO1.2.4.0.00.0.0";160210420,42
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.3.0.0.00.0.0 - Receita Patrimonial";"siconfi-cor_RO1.3.0.0.00.0.0";30413812,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado";"siconfi-cor_RO1.3.1.0.00.0.0";1180936,57
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação";"siconfi-cor_RO1.3.1.0.01.0.0";48,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.3.1.0.01.1.0 - Aluguéis e Arrendamentos";"siconfi-cor_RO1.3.1.0.01.1.0";48,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.3.1.0.99.0.0 - Outras Receitas Imobiliárias";"siconfi-cor_RO1.3.1.0.99.0.0";1180887,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.3.2.0.00.0.0 - Valores Mobiliários";"siconfi-cor_RO1.3.2.0.00.0.0";29232875,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.3.2.1.00.0.0 - Juros e Correções Monetárias";"siconfi-cor_RO1.3.2.1.00.0.0";29232875,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários";"siconfi-cor_RO1.3.2.1.00.1.0";29232875,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.0.0.00.0.0 - Receita de Serviços";"siconfi-cor_RO1.6.0.0.00.0.0";62131422,95
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais";"siconfi-cor_RO1.6.1.0.00.0.0";7842091,17
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais";"siconfi-cor_RO1.6.1.0.01.0.0";3503323,23
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos";"siconfi-cor_RO1.6.1.0.02.0.0";4338767,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.2.0.00.0.0 - Serviços e Atividades Referentes à Navegação e ao Transporte";"siconfi-cor_RO1.6.2.0.00.0.0";4044883,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.2.0.02.0.0 - Serviços de Transporte";"siconfi-cor_RO1.6.2.0.02.0.0";4044883,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde";"siconfi-cor_RO1.6.3.0.00.0.0";50244050,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.3.0.02.0.0 - Serviços de Assistência à Saúde de Servidores Civis e Militares";"siconfi-cor_RO1.6.3.0.02.0.0";50244050,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.3.0.02.1.0 - Serviços de Assistência à Saúde Suplementar do Servidor Civil";"siconfi-cor_RO1.6.3.0.02.1.0";50244050,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.4.0.00.0.0 - Serviços e Atividades Financeiras";"siconfi-cor_RO1.6.4.0.00.0.0";397,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.6.4.0.01.0.0 - Retorno de Operações, Juros e Encargos Financeiros";"siconfi-cor_RO1.6.4.0.01.0.0";397,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.0.0.00.0.0 - Transferências Correntes";"siconfi-cor_RO1.7.0.0.00.0.0";2282650669,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.0.00.0.0 - Transferências da União e de suas Entidades";"siconfi-cor_RO1.7.1.0.00.0.0";1304864171,46
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.1.8.00.0.0";1304864171,46
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.01.0.0 - Participação na Receita da União";"siconfi-cor_RO1.7.1.8.01.0.0";656664431,96
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal";"siconfi-cor_RO1.7.1.8.01.2.0";606577740,58
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro";"siconfi-cor_RO1.7.1.8.01.3.0";26587042,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho";"siconfi-cor_RO1.7.1.8.01.4.0";23485599,19
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural";"siconfi-cor_RO1.7.1.8.01.5.0";14049,25
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais";"siconfi-cor_RO1.7.1.8.02.0.0";11998727,25
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM";"siconfi-cor_RO1.7.1.8.02.2.0";69251,84
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP";"siconfi-cor_RO1.7.1.8.02.6.0";11929475,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde";"siconfi-cor_RO1.7.1.8.03.0.0";467523089,19
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária";"siconfi-cor_RO1.7.1.8.03.1.0";65826224,9
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada";"siconfi-cor_RO1.7.1.8.03.2.0";344173692,17
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde";"siconfi-cor_RO1.7.1.8.03.3.0";27147592,85
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica";"siconfi-cor_RO1.7.1.8.03.4.0";8807195,52
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo";"siconfi-cor_RO1.7.1.8.03.9.0";21568383,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE";"siconfi-cor_RO1.7.1.8.05.0.0";10845067,81
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.05.1.0 - Transferências do Salário-Educação";"siconfi-cor_RO1.7.1.8.05.1.0";5437696,13
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE";"siconfi-cor_RO1.7.1.8.05.2.0";966805,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE";"siconfi-cor_RO1.7.1.8.05.3.0";4377170,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE";"siconfi-cor_RO1.7.1.8.05.4.0";63396,52
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB";"siconfi-cor_RO1.7.1.8.09.0.0";137379594,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS";"siconfi-cor_RO1.7.1.8.12.0.0";8507825,17
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.1.8.99.0.0 - Outras Transferências da União";"siconfi-cor_RO1.7.1.8.99.0.0";11945435,52
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO1.7.2.0.00.0.0";764137714,36
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.2.8.00.0.0";764137714,36
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.8.01.0.0 - Participação na Receita dos Estados";"siconfi-cor_RO1.7.2.8.01.0.0";687355881,38
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.8.01.1.0 - Cota-Parte do ICMS";"siconfi-cor_RO1.7.2.8.01.1.0";565795173,28
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.8.01.2.0 - Cota-Parte do IPVA";"siconfi-cor_RO1.7.2.8.01.2.0";121051669,03
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico";"siconfi-cor_RO1.7.2.8.01.4.0";509039,07
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo";"siconfi-cor_RO1.7.2.8.03.0.0";34691179,28
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades";"siconfi-cor_RO1.7.2.8.10.0.0";22563622,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.8.10.9.0 - Outras Transferências de Convênio dos Estados";"siconfi-cor_RO1.7.2.8.10.9.0";22563622,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.2.8.99.0.0 - Outras Transferências dos Estados";"siconfi-cor_RO1.7.2.8.99.0.0";19527031,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas";"siconfi-cor_RO1.7.5.0.00.0.0";213483226,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.5.8.00.0.0";213483226,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB";"siconfi-cor_RO1.7.5.8.01.0.0";213483226,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.7.0.00.0.0 - Transferências de Pessoas Físicas";"siconfi-cor_RO1.7.7.0.00.0.0";165556,78
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.7.7.0.00.1.0 - Transferências de Pessoas Físicas";"siconfi-cor_RO1.7.7.0.00.1.0";165556,78
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.0.0.00.0.0 - Outras Receitas Correntes";"siconfi-cor_RO1.9.0.0.00.0.0";62086733,42
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais";"siconfi-cor_RO1.9.1.0.00.0.0";46438520,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica";"siconfi-cor_RO1.9.1.0.01.0.0";46438520,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos";"siconfi-cor_RO1.9.2.0.00.0.0";5104927,18
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.2.1.00.0.0 - Indenizações";"siconfi-cor_RO1.9.2.1.00.0.0";1000000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.2.1.01.0.0 - Indenizações por Danos Causados ao Patrimônio Público";"siconfi-cor_RO1.9.2.1.01.0.0";1000000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.2.2.00.0.0 - Restituições";"siconfi-cor_RO1.9.2.2.00.0.0";4104927,18
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.2.2.06.0.0 - Restituição de Despesas de Exercícios Anteriores";"siconfi-cor_RO1.9.2.2.06.0.0";316990,39
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.2.2.99.0.0 - Outras Restituições";"siconfi-cor_RO1.9.2.2.99.0.0";3787936,79
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.9.0.00.0.0 - Demais Receitas Correntes";"siconfi-cor_RO1.9.9.0.00.0.0";10543285,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.9.0.99.0.0 - Outras Receitas";"siconfi-cor_RO1.9.9.0.99.0.0";10543285,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"1.9.9.0.99.1.0 - Outras Receitas - Primárias";"siconfi-cor_RO1.9.9.0.99.1.0";10543285,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.0.0.0.00.0.0 - Receitas de Capital";"siconfi-cor_RO2.0.0.0.00.0.0";46855370,2
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.0.0.00.0.0 - Operações de Crédito";"siconfi-cor_RO2.1.0.0.00.0.0";41318008,18
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno";"siconfi-cor_RO2.1.1.0.00.0.0";35749088,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.1.8.00.0.0 - Operações de Crédito - Mercado Interno - Estados/DF/Municípios";"siconfi-cor_RO2.1.1.8.00.0.0";1744024,69
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.1.8.01.0.0 - Operações de Crédito Internas de Estados/DF/Municípios";"siconfi-cor_RO2.1.1.8.01.0.0";1744024,69
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.1.8.01.3.0 - Operações de Crédito Internas para Programas de Saneamento";"siconfi-cor_RO2.1.1.8.01.3.0";1744024,69
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.1.9.00.0.0 - Outras Operações de Crédito - Mercado Interno";"siconfi-cor_RO2.1.1.9.00.0.0";34005063,84
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.2.0.00.0.0 - Operações de Crédito - Mercado Externo";"siconfi-cor_RO2.1.2.0.00.0.0";5568919,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.2.8.00.0.0 - Operação de Crédito Externas - Estados/DF/Municípios";"siconfi-cor_RO2.1.2.8.00.0.0";5568919,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.2.8.01.0.0 - Operações de Crédito Externas - Estados/DF/ Municípios";"siconfi-cor_RO2.1.2.8.01.0.0";5568919,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.1.2.8.01.3.0 - Operações de Crédito Externas para Programas de Saneamento";"siconfi-cor_RO2.1.2.8.01.3.0";5568919,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.2.0.0.00.0.0 - Alienação de Bens";"siconfi-cor_RO2.2.0.0.00.0.0";1561858,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.2.2.0.00.0.0 - Alienação de Bens Imóveis";"siconfi-cor_RO2.2.2.0.00.0.0";1561858,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.3.0.0.00.0.0 - Amortização de Empréstimos";"siconfi-cor_RO2.3.0.0.00.0.0";1193843,46
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.3.0.0.06.0.0 - Amortização de Empréstimos Contratuais";"siconfi-cor_RO2.3.0.0.06.0.0";1193843,46
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.4.0.0.00.0.0 - Transferências de Capital";"siconfi-cor_RO2.4.0.0.00.0.0";2781660,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.4.1.0.00.0.0 - Transferências da União e de suas Entidades";"siconfi-cor_RO2.4.1.0.00.0.0";2781660,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios";"siconfi-cor_RO2.4.1.8.00.0.0";2781660,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde";"siconfi-cor_RO2.4.1.8.04.0.0";1272921,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária";"siconfi-cor_RO2.4.1.8.04.1.0";259264,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.4.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Especializada";"siconfi-cor_RO2.4.1.8.04.2.0";1013657,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades";"siconfi-cor_RO2.4.1.8.10.0.0";1508739,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"2.4.1.8.10.9.0 - Outras Transferências de Convênios da União";"siconfi-cor_RO2.4.1.8.10.9.0";1508739,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"RECEITAS (INTRA-ORÇAMENTÁRIAS) (II)";"siconfi-cor_ReceitasIntraOrcamentarias";173337950,26
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RI7.0.0.0.00.0.0";173337950,26
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.0.0.00.0.0 - Contribuições";"siconfi-cor_RI7.2.0.0.00.0.0";135222859,38
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.1.0.00.0.0 - Contribuições Sociais";"siconfi-cor_RI7.2.1.0.00.0.0";135222859,38
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.1.6.00.0.0 - Contribuição para Fundos de Assistência Médica";"siconfi-cor_RI7.2.1.6.00.0.0";24504802,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.1.6.03.0.0 - Contribuição para Fundos de Assistência Médica - Servidores Civis";"siconfi-cor_RI7.2.1.6.03.0.0";24504802,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.1.6.03.1.0 - Contribuição para Fundos de Assistência Médica - Servidores Civis";"siconfi-cor_RI7.2.1.6.03.1.0";24504802,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e   Municípios";"siconfi-cor_RI7.2.1.8.00.0.0";110718056,84
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN";"siconfi-cor_RI7.2.1.8.03.0.0";95095319,49
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo";"siconfi-cor_RI7.2.1.8.03.1.0";95095319,49
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.1.8.04.0.0 - CPSSS Patronal - Parcelamentos - Específico de EST/DF/MUN";"siconfi-cor_RI7.2.1.8.04.0.0";15622737,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.2.1.8.04.1.0 - CPSSS Patronal - Parcelamentos - Servidor Civil Ativo";"siconfi-cor_RI7.2.1.8.04.1.0";15622737,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.6.0.0.00.0.0 - Receita de Serviços";"siconfi-cor_RI7.6.0.0.00.0.0";38115090,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais";"siconfi-cor_RI7.6.1.0.00.0.0";7984282,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.6.1.0.04.0.0 - Serviços de Informação e Tecnologia";"siconfi-cor_RI7.6.1.0.04.0.0";7984282,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde";"siconfi-cor_RI7.6.3.0.00.0.0";30130808,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"7.6.3.0.01.0.0 - Serviços de Atendimento à Saúde";"siconfi-cor_RI7.6.3.0.01.0.0";30130808,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Receitas Brutas Realizadas";"TOTAL DAS RECEITAS (III) = (I + II)";"siconfi-cor_TotalReceitas";3909785707,37
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";"siconfi-cor_ReceitasExcetoIntraOrcamentarias";262572975,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RO1.0.0.0.00.0.0";262572975,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.0.0.00.0.0 - Transferências Correntes";"siconfi-cor_RO1.7.0.0.00.0.0";262572975,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.1.0.00.0.0 - Transferências da União e de suas Entidades";"siconfi-cor_RO1.7.1.0.00.0.0";121318357,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.1.8.00.0.0";121318357,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.1.8.01.0.0 - Participação na Receita da União";"siconfi-cor_RO1.7.1.8.01.0.0";121318357,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal";"siconfi-cor_RO1.7.1.8.01.2.0";121315547,8
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural";"siconfi-cor_RO1.7.1.8.01.5.0";2809,79
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades";"siconfi-cor_RO1.7.2.0.00.0.0";141254617,57
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios";"siconfi-cor_RO1.7.2.8.00.0.0";141254617,57
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.2.8.01.0.0 - Participação na Receita dos Estados";"siconfi-cor_RO1.7.2.8.01.0.0";141254617,57
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.2.8.01.1.0 - Cota-Parte do ICMS";"siconfi-cor_RO1.7.2.8.01.1.0";113159034,81
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.2.8.01.2.0 - Cota-Parte do IPVA";"siconfi-cor_RO1.7.2.8.01.2.0";24210334,05
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios";"siconfi-cor_RO1.7.2.8.01.3.0";3885248,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Deduções - FUNDEB";"TOTAL DAS RECEITAS (III) = (I + II)";"siconfi-cor_TotalReceitas";262572975,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I)";"siconfi-cor_ReceitasExcetoIntraOrcamentarias";88452,44
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.0.0.0.00.0.0 - Receitas Correntes";"siconfi-cor_RO1.0.0.0.00.0.0";88452,44
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria";"siconfi-cor_RO1.1.0.0.00.0.0";87778,78
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.1.0.00.0.0 - Impostos";"siconfi-cor_RO1.1.1.0.00.0.0";85439,9
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios";"siconfi-cor_RO1.1.1.8.00.0.0";85439,9
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios";"siconfi-cor_RO1.1.1.8.01.0.0";75271,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana";"siconfi-cor_RO1.1.1.8.01.1.0";24206,97
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis";"siconfi-cor_RO1.1.1.8.01.4.0";51064,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços";"siconfi-cor_RO1.1.1.8.02.0.0";10168,39
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza";"siconfi-cor_RO1.1.1.8.02.3.0";10168,39
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.2.0.00.0.0 - Taxas";"siconfi-cor_RO1.1.2.0.00.0.0";2338,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia";"siconfi-cor_RO1.1.2.1.00.0.0";2338,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização";"siconfi-cor_RO1.1.2.1.01.0.0";2338,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.6.0.0.00.0.0 - Receita de Serviços";"siconfi-cor_RO1.6.0.0.00.0.0";673,66
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais";"siconfi-cor_RO1.6.1.0.00.0.0";673,66
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais";"siconfi-cor_RO1.6.1.0.01.0.0";673,66
+Prefeitura Municipal de Belém - PA;1501402;PA;1499641;"Outras Deduções da Receita";"TOTAL DAS RECEITAS (III) = (I + II)";"siconfi-cor_TotalReceitas";88452,44

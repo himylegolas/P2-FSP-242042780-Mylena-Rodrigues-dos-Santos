@@ -1,0 +1,34 @@
+tabela,ano,municipios_no_arquivo_original,arquivo
+I-C receitas orçamentárias,2015,114,finbra_receitas_I-C_2015_csv.csv
+I-C receitas orçamentárias,2016,114,finbra_receitas_I-C_2016_csv.csv
+I-C receitas orçamentárias,2017,141,finbra_receitas_I-C_2017_csv.csv
+I-C receitas orçamentárias,2018,142,finbra_receitas_I-C_2018_csv.csv
+I-C receitas orçamentárias,2019,143,finbra_receitas_I-C_2019_csv.csv
+I-C receitas orçamentárias,2020,143,finbra_receitas_I-C_2020_csv.csv
+I-C receitas orçamentárias,2021,144,finbra_receitas_I-C_2021_csv.csv
+I-C receitas orçamentárias,2022,144,finbra_receitas_I-C_2022_csv.csv
+I-C receitas orçamentárias,2023,143,finbra_receitas_I-C_2023_csv.csv
+I-C receitas orçamentárias,2024,140,finbra_receitas_I-C_2024_csv.csv
+I-C receitas orçamentárias,2025,132,finbra_receitas_I-C_2025_csv.csv
+I-D despesas orçamentárias,2015,114,finbra_despesas_orcamentarias_I-D_2015_csv.csv
+I-D despesas orçamentárias,2016,114,finbra_despesas_orcamentarias_I-D_2016_csv.csv
+I-D despesas orçamentárias,2017,141,finbra_despesas_orcamentarias_I-D_2017_csv.csv
+I-D despesas orçamentárias,2018,142,finbra_despesas_orcamentarias_I-D_2018_csv.csv
+I-D despesas orçamentárias,2019,143,finbra_despesas_orcamentarias_I-D_2019_csv.csv
+I-D despesas orçamentárias,2020,143,finbra_despesas_orcamentarias_I-D_2020_csv.csv
+I-D despesas orçamentárias,2021,144,finbra_despesas_orcamentarias_I-D_2021_csv.csv
+I-D despesas orçamentárias,2022,144,finbra_despesas_orcamentarias_I-D_2022_csv_1.csv
+I-D despesas orçamentárias,2023,143,finbra_despesas_orcamentarias_I-D_2023_csv.csv
+I-D despesas orçamentárias,2024,140,finbra_despesas_orcamentarias_I-D_2024_csv.csv
+I-D despesas orçamentárias,2025,132,finbra_despesas_orcamentarias_I-D_2025_csv.csv
+I-E despesas por função,2015,114,finbra_despesas_funcao_I-E_2015_csv.csv
+I-E despesas por função,2016,114,finbra_despesas_funcao_I-E_2016_csv.csv
+I-E despesas por função,2017,141,finbra_despesas_funcao_I-E_2017_csv.csv
+I-E despesas por função,2018,142,finbra_despesas_funcao_I-E_2018_csv.csv
+I-E despesas por função,2019,143,finbra_despesas_funcao_I-E_2019_csv.csv
+I-E despesas por função,2020,143,finbra_despesas_funcao_I-E_2020_csv.csv
+I-E despesas por função,2021,144,finbra_despesas_funcao_I-E_2021_csv.csv
+I-E despesas por função,2022,144,finbra_despesas_funcao_I-E_2022_csv.csv
+I-E despesas por função,2023,143,finbra_despesas_funcao_I-E_2023_csv.csv
+I-E despesas por função,2024,140,finbra_despesas_funcao_I-E_2024_csv.csv
+I-E despesas por função,2025,132,finbra_despesas_funcao_I-E_2025_csv.csv

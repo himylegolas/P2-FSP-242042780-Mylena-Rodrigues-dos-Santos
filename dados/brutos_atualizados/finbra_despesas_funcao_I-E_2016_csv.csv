@@ -1,0 +1,880 @@
+Exercício: 2016
+Escopo: Municípios do Estado - PA
+Tabela: Despesas por Função (Anexo I-E)
+Instituição;Cod.IBGE;UF;População;Coluna;Conta;Identificador da Conta;Valor
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";580896469,32
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"01 - Legislativa";"siconfi-cor_TotalDespesas";13091372,67
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"01.122 - Administração Geral";"siconfi-cor_TotalDespesas";13091372,67
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"03 - Essencial à Justiça";"siconfi-cor_TotalDespesas";2682328,3
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"03.122 - Administração Geral";"siconfi-cor_TotalDespesas";2664913,06
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"03.999 - Demais Subfunções Essencial à Justiça";"siconfi-cor_TotalDespesas";17415,24
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"04 - Administração";"siconfi-cor_TotalDespesas";44627212,1
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";2177886,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";42014158,69
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"04.131 - Comunicação Social";"siconfi-cor_TotalDespesas";435166,51
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";7590037,74
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"06.181 - Policiamento";"siconfi-cor_TotalDespesas";7590037,74
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"08 - Assistência Social";"siconfi-cor_TotalDespesas";20803380,29
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";122459,05
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";7059480,07
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";13388316,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"08.999 - Demais Subfunções Assistência Social";"siconfi-cor_TotalDespesas";233125,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"09 - Previdência Social";"siconfi-cor_TotalDespesas";23560550,03
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"09.271 - Previdência Básica";"siconfi-cor_TotalDespesas";15980015,52
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";7580534,51
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"10 - Saúde";"siconfi-cor_TotalDespesas";196365352,65
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";52367047,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";102317573,74
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";3589261,89
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";94489,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";7816278,26
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";28645934,94
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"10.999 - Demais Subfunções Saúde";"siconfi-cor_TotalDespesas";1534766,16
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"12 - Educação";"siconfi-cor_TotalDespesas";160419999,97
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";130608333,93
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"12.363 - Ensino Profissional";"siconfi-cor_TotalDespesas";1567658,65
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";1473179,27
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";420650,21
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";26350177,91
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"13 - Cultura";"siconfi-cor_TotalDespesas";1209146,85
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";1209146,85
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"15 - Urbanismo";"siconfi-cor_TotalDespesas";37012026,77
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";37012026,77
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"16 - Habitação";"siconfi-cor_TotalDespesas";456841,86
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";456841,86
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"17 - Saneamento";"siconfi-cor_TotalDespesas";55292708,13
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"17.512 - Saneamento Básico Urbano";"siconfi-cor_TotalDespesas";48971414,78
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"17.122 - Administração Geral";"siconfi-cor_TotalDespesas";6321293,35
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";2493428,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";32875,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";2390553,31
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"18.999 - Demais Subfunções Gestão Ambiental";"siconfi-cor_TotalDespesas";70000,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"19 - Ciência e Tecnologia";"siconfi-cor_TotalDespesas";1055593,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"19.122 - Administração Geral";"siconfi-cor_TotalDespesas";807713,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"19.999 - Demais Subfunções Ciência e Tecnologia";"siconfi-cor_TotalDespesas";247880,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"20 - Agricultura";"siconfi-cor_TotalDespesas";258607,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"20.122 - Administração Geral";"siconfi-cor_TotalDespesas";258607,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";414415,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"27.811 - Desporto de Rendimento";"siconfi-cor_TotalDespesas";339452,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";74963,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";13563466,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"28.843 - Serviço da Dívida Interna";"siconfi-cor_TotalDespesas";13303936,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";259530,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Empenhadas";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";15613259,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";580248852,59
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"01 - Legislativa";"siconfi-cor_TotalDespesas";13091372,67
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"01.122 - Administração Geral";"siconfi-cor_TotalDespesas";13091372,67
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"03 - Essencial à Justiça";"siconfi-cor_TotalDespesas";2682328,3
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"03.122 - Administração Geral";"siconfi-cor_TotalDespesas";2664913,06
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"03.999 - Demais Subfunções Essencial à Justiça";"siconfi-cor_TotalDespesas";17415,24
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"04 - Administração";"siconfi-cor_TotalDespesas";44521762,58
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";2177886,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";41908709,17
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"04.131 - Comunicação Social";"siconfi-cor_TotalDespesas";435166,51
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";7440967,74
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"06.181 - Policiamento";"siconfi-cor_TotalDespesas";7440967,74
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"08 - Assistência Social";"siconfi-cor_TotalDespesas";20803380,29
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";122459,05
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";7059480,07
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";13388316,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"08.999 - Demais Subfunções Assistência Social";"siconfi-cor_TotalDespesas";233125,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"09 - Previdência Social";"siconfi-cor_TotalDespesas";23492389,32
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"09.271 - Previdência Básica";"siconfi-cor_TotalDespesas";15980015,52
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";7512373,8
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"10 - Saúde";"siconfi-cor_TotalDespesas";196365352,65
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";52367047,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";102317573,74
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";3589261,89
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";94489,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";7816278,26
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";28645934,94
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"10.999 - Demais Subfunções Saúde";"siconfi-cor_TotalDespesas";1534766,16
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"12 - Educação";"siconfi-cor_TotalDespesas";160413943,37
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";130603234,33
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"12.363 - Ensino Profissional";"siconfi-cor_TotalDespesas";1567658,65
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";1473179,27
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";420650,21
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";26349220,91
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"13 - Cultura";"siconfi-cor_TotalDespesas";1209146,85
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";1209146,85
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"15 - Urbanismo";"siconfi-cor_TotalDespesas";37012026,77
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";37012026,77
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"16 - Habitação";"siconfi-cor_TotalDespesas";456841,86
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";456841,86
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"17 - Saneamento";"siconfi-cor_TotalDespesas";54973828,23
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"17.512 - Saneamento Básico Urbano";"siconfi-cor_TotalDespesas";48652534,88
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"17.122 - Administração Geral";"siconfi-cor_TotalDespesas";6321293,35
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";2493428,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";32875,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";2390553,31
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"18.999 - Demais Subfunções Gestão Ambiental";"siconfi-cor_TotalDespesas";70000,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"19 - Ciência e Tecnologia";"siconfi-cor_TotalDespesas";1055593,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"19.122 - Administração Geral";"siconfi-cor_TotalDespesas";807713,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"19.999 - Demais Subfunções Ciência e Tecnologia";"siconfi-cor_TotalDespesas";247880,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"20 - Agricultura";"siconfi-cor_TotalDespesas";258607,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"20.122 - Administração Geral";"siconfi-cor_TotalDespesas";258607,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";414415,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"27.811 - Desporto de Rendimento";"siconfi-cor_TotalDespesas";339452,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";74963,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";13563466,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"28.843 - Serviço da Dívida Interna";"siconfi-cor_TotalDespesas";13303936,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";259530,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Liquidadas";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";15613259,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";568553045,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"01 - Legislativa";"siconfi-cor_TotalDespesas";13091372,67
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"01.122 - Administração Geral";"siconfi-cor_TotalDespesas";13091372,67
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"03 - Essencial à Justiça";"siconfi-cor_TotalDespesas";2673122,68
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"03.122 - Administração Geral";"siconfi-cor_TotalDespesas";2655707,44
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"03.999 - Demais Subfunções Essencial à Justiça";"siconfi-cor_TotalDespesas";17415,24
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"04 - Administração";"siconfi-cor_TotalDespesas";44026656,65
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";2177886,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";41413603,24
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"04.131 - Comunicação Social";"siconfi-cor_TotalDespesas";435166,51
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";7355517,2
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"06.181 - Policiamento";"siconfi-cor_TotalDespesas";7355517,2
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"08 - Assistência Social";"siconfi-cor_TotalDespesas";20772746,3
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";122459,05
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";7029093,47
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";13388068,7
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"08.999 - Demais Subfunções Assistência Social";"siconfi-cor_TotalDespesas";233125,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"09 - Previdência Social";"siconfi-cor_TotalDespesas";23492269,42
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"09.271 - Previdência Básica";"siconfi-cor_TotalDespesas";15980015,52
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";7512253,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"10 - Saúde";"siconfi-cor_TotalDespesas";191139453,04
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";50766050,3
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";100683289,17
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";3561425,8
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";94489,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";7714288,92
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";26787321,08
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"10.999 - Demais Subfunções Saúde";"siconfi-cor_TotalDespesas";1532587,87
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"12 - Educação";"siconfi-cor_TotalDespesas";156261122,03
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";127548425,17
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"12.363 - Ensino Profissional";"siconfi-cor_TotalDespesas";1567658,65
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";1473179,27
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";420650,21
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";25251208,73
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"13 - Cultura";"siconfi-cor_TotalDespesas";1209146,85
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";1209146,85
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"15 - Urbanismo";"siconfi-cor_TotalDespesas";36331490,22
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";36331490,22
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"16 - Habitação";"siconfi-cor_TotalDespesas";456841,86
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";456841,86
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"17 - Saneamento";"siconfi-cor_TotalDespesas";53973981,63
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"17.512 - Saneamento Básico Urbano";"siconfi-cor_TotalDespesas";47682170,98
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"17.122 - Administração Geral";"siconfi-cor_TotalDespesas";6291810,65
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";2493428,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";32875,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";2390553,31
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"18.999 - Demais Subfunções Gestão Ambiental";"siconfi-cor_TotalDespesas";70000,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"19 - Ciência e Tecnologia";"siconfi-cor_TotalDespesas";1055593,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"19.122 - Administração Geral";"siconfi-cor_TotalDespesas";807713,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"19.999 - Demais Subfunções Ciência e Tecnologia";"siconfi-cor_TotalDespesas";247880,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"20 - Agricultura";"siconfi-cor_TotalDespesas";258607,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"20.122 - Administração Geral";"siconfi-cor_TotalDespesas";258607,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";414415,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"27.811 - Desporto de Rendimento";"siconfi-cor_TotalDespesas";339452,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";74963,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";13547279,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"28.843 - Serviço da Dívida Interna";"siconfi-cor_TotalDespesas";13303936,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";243343,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Despesas Pagas";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";5758213,88
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";647616,73
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"04 - Administração";"siconfi-cor_TotalDespesas";105449,52
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";105449,52
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";149070,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"06.181 - Policiamento";"siconfi-cor_TotalDespesas";149070,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"09 - Previdência Social";"siconfi-cor_TotalDespesas";68160,71
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";68160,71
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"12 - Educação";"siconfi-cor_TotalDespesas";6056,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";5099,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";957,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"17 - Saneamento";"siconfi-cor_TotalDespesas";318879,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Não Processados";"17.512 - Saneamento Básico Urbano";"siconfi-cor_TotalDespesas";318879,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";11695806,99
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"03 - Essencial à Justiça";"siconfi-cor_TotalDespesas";9205,62
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"03.122 - Administração Geral";"siconfi-cor_TotalDespesas";9205,62
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"04 - Administração";"siconfi-cor_TotalDespesas";495105,93
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";495105,93
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";85450,54
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"06.181 - Policiamento";"siconfi-cor_TotalDespesas";85450,54
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"08 - Assistência Social";"siconfi-cor_TotalDespesas";30633,99
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";30386,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";247,39
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"09 - Previdência Social";"siconfi-cor_TotalDespesas";119,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";119,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"10 - Saúde";"siconfi-cor_TotalDespesas";5225899,61
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";1600997,46
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";1634284,57
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";27836,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";101989,34
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";1858613,86
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"10.999 - Demais Subfunções Saúde";"siconfi-cor_TotalDespesas";2178,29
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"12 - Educação";"siconfi-cor_TotalDespesas";4152821,34
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";3054809,16
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";1098012,18
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"15 - Urbanismo";"siconfi-cor_TotalDespesas";680536,55
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";680536,55
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"17 - Saneamento";"siconfi-cor_TotalDespesas";999846,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"17.512 - Saneamento Básico Urbano";"siconfi-cor_TotalDespesas";970363,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"17.122 - Administração Geral";"siconfi-cor_TotalDespesas";29482,7
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";16186,91
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";16186,91
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;505404;"Inscrição de RP Processados";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";9855045,78
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";2598611212,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"01 - Legislativa";"siconfi-cor_TotalDespesas";72964810,42
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"01.031 - Ação Legislativa";"siconfi-cor_TotalDespesas";72334286,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"01.122 - Administração Geral";"siconfi-cor_TotalDespesas";624553,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"01.999 - Demais Subfunções Legislativa";"siconfi-cor_TotalDespesas";5970,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"03 - Essencial à Justiça";"siconfi-cor_TotalDespesas";15439400,97
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"03.122 - Administração Geral";"siconfi-cor_TotalDespesas";15439400,97
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"04 - Administração";"siconfi-cor_TotalDespesas";117920108,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";4342988,77
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";83256695,47
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"04.123 - Administração Financeira";"siconfi-cor_TotalDespesas";26363073,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"04.124 - Controle Interno";"siconfi-cor_TotalDespesas";723864,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"04.129 - Administração de Receitas";"siconfi-cor_TotalDespesas";3233486,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";91724421,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"06.182 - Defesa Civil";"siconfi-cor_TotalDespesas";4400,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"06.122 - Administração Geral";"siconfi-cor_TotalDespesas";91720021,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"08 - Assistência Social";"siconfi-cor_TotalDespesas";63344105,14
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";2386223,79
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";10627341,13
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";49901676,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"08.999 - Demais Subfunções Assistência Social";"siconfi-cor_TotalDespesas";428863,81
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"09 - Previdência Social";"siconfi-cor_TotalDespesas";15016109,92
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";15016109,92
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"10 - Saúde";"siconfi-cor_TotalDespesas";830175131,38
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";129782297,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";450422642,47
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";14370871,34
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";708931,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";23635687,87
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";211254701,69
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"11 - Trabalho";"siconfi-cor_TotalDespesas";22006202,37
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"11.334 - Fomento ao Trabalho";"siconfi-cor_TotalDespesas";811557,83
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"11.122 - Administração Geral";"siconfi-cor_TotalDespesas";18460510,17
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"11.999 - Demais Subfunções Trabalho";"siconfi-cor_TotalDespesas";2734134,37
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"12 - Educação";"siconfi-cor_TotalDespesas";446080850,07
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";316125562,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";55363661,52
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";4904967,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"12.367 - Educação Especial";"siconfi-cor_TotalDespesas";36000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";61248269,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"12.999 - Demais Subfunções Educação";"siconfi-cor_TotalDespesas";8402389,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"13 - Cultura";"siconfi-cor_TotalDespesas";11888295,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"13.391 - Patrimônio Histórico, Artístico e Arqueológico";"siconfi-cor_TotalDespesas";30650,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";7038169,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"13.122 - Administração Geral";"siconfi-cor_TotalDespesas";4819475,7
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"15 - Urbanismo";"siconfi-cor_TotalDespesas";96753790,38
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";25254665,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"15.452 - Serviços Urbanos";"siconfi-cor_TotalDespesas";56505125,14
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"15.122 - Administração Geral";"siconfi-cor_TotalDespesas";14386198,92
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"15.999 - Demais Subfunções Urbanismo";"siconfi-cor_TotalDespesas";607800,57
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"16 - Habitação";"siconfi-cor_TotalDespesas";6150825,18
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";3272591,72
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"16.122 - Administração Geral";"siconfi-cor_TotalDespesas";2878233,46
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"17 - Saneamento";"siconfi-cor_TotalDespesas";222883854,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"17.122 - Administração Geral";"siconfi-cor_TotalDespesas";33426671,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"17.999 - Demais Subfunções Saneamento";"siconfi-cor_TotalDespesas";189457182,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";15144652,28
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";3300739,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"18.542 - Controle Ambiental";"siconfi-cor_TotalDespesas";26025,68
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";11817886,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"19 - Ciência e Tecnologia";"siconfi-cor_TotalDespesas";21228320,87
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"19.122 - Administração Geral";"siconfi-cor_TotalDespesas";20011913,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"19.999 - Demais Subfunções Ciência e Tecnologia";"siconfi-cor_TotalDespesas";1216407,11
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"23 - Comércio e Serviços";"siconfi-cor_TotalDespesas";2336131,92
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"23.691 - Promoção Comercial";"siconfi-cor_TotalDespesas";3600,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"23.695 - Turismo";"siconfi-cor_TotalDespesas";1795466,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"23.999 - Demais Subfunções Comércio e Serviços";"siconfi-cor_TotalDespesas";537065,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"24 - Comunicações";"siconfi-cor_TotalDespesas";8962898,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"24.122 - Administração Geral";"siconfi-cor_TotalDespesas";2020241,36
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"24.999 - Demais Subfunções Comunicações";"siconfi-cor_TotalDespesas";6942656,96
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"26 - Transporte";"siconfi-cor_TotalDespesas";190147294,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"26.784 - Transporte Hidroviário";"siconfi-cor_TotalDespesas";686131,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"26.122 - Administração Geral";"siconfi-cor_TotalDespesas";28029381,2
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"26.999 - Demais Subfunções Transporte";"siconfi-cor_TotalDespesas";161431782,52
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";3450844,24
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";20721,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"27.813 - Lazer";"siconfi-cor_TotalDespesas";88080,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"27.122 - Administração Geral";"siconfi-cor_TotalDespesas";3342042,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";344993164,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"28.843 - Serviço da Dívida Interna";"siconfi-cor_TotalDespesas";65504446,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"28.844 - Serviço da Dívida Externa";"siconfi-cor_TotalDespesas";17641646,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";240320284,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"28.999 - Demais Subfunções Encargos Especiais";"siconfi-cor_TotalDespesas";21526786,25
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Empenhadas";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";101873487,2
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";2594403652,5
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"01 - Legislativa";"siconfi-cor_TotalDespesas";72964810,42
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"01.031 - Ação Legislativa";"siconfi-cor_TotalDespesas";72334286,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"01.122 - Administração Geral";"siconfi-cor_TotalDespesas";624553,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"01.999 - Demais Subfunções Legislativa";"siconfi-cor_TotalDespesas";5970,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"03 - Essencial à Justiça";"siconfi-cor_TotalDespesas";15439400,97
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"03.122 - Administração Geral";"siconfi-cor_TotalDespesas";15439400,97
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"04 - Administração";"siconfi-cor_TotalDespesas";117920108,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";4342988,77
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";83256695,47
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"04.123 - Administração Financeira";"siconfi-cor_TotalDespesas";26363073,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"04.124 - Controle Interno";"siconfi-cor_TotalDespesas";723864,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"04.129 - Administração de Receitas";"siconfi-cor_TotalDespesas";3233486,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";91724421,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"06.182 - Defesa Civil";"siconfi-cor_TotalDespesas";4400,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"06.122 - Administração Geral";"siconfi-cor_TotalDespesas";91720021,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"08 - Assistência Social";"siconfi-cor_TotalDespesas";63344105,14
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";2386223,79
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";10627341,13
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";49901676,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"08.999 - Demais Subfunções Assistência Social";"siconfi-cor_TotalDespesas";428863,81
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"09 - Previdência Social";"siconfi-cor_TotalDespesas";15016109,92
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";15016109,92
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"10 - Saúde";"siconfi-cor_TotalDespesas";825967571,26
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";129291711,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";449276953,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";12449888,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";693519,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";23000796,47
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";211254701,69
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"11 - Trabalho";"siconfi-cor_TotalDespesas";22006202,37
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"11.334 - Fomento ao Trabalho";"siconfi-cor_TotalDespesas";811557,83
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"11.122 - Administração Geral";"siconfi-cor_TotalDespesas";18460510,17
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"11.999 - Demais Subfunções Trabalho";"siconfi-cor_TotalDespesas";2734134,37
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"12 - Educação";"siconfi-cor_TotalDespesas";446080850,07
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";316125562,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";55363661,52
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";4904967,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"12.367 - Educação Especial";"siconfi-cor_TotalDespesas";36000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";61248269,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"12.999 - Demais Subfunções Educação";"siconfi-cor_TotalDespesas";8402389,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"13 - Cultura";"siconfi-cor_TotalDespesas";11888295,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"13.391 - Patrimônio Histórico, Artístico e Arqueológico";"siconfi-cor_TotalDespesas";30650,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";7038169,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"13.122 - Administração Geral";"siconfi-cor_TotalDespesas";4819475,7
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"15 - Urbanismo";"siconfi-cor_TotalDespesas";96753790,38
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";25254665,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"15.452 - Serviços Urbanos";"siconfi-cor_TotalDespesas";56505125,14
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"15.122 - Administração Geral";"siconfi-cor_TotalDespesas";14386198,92
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"15.999 - Demais Subfunções Urbanismo";"siconfi-cor_TotalDespesas";607800,57
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"16 - Habitação";"siconfi-cor_TotalDespesas";6150825,18
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";3272591,72
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"16.122 - Administração Geral";"siconfi-cor_TotalDespesas";2878233,46
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"17 - Saneamento";"siconfi-cor_TotalDespesas";222883854,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"17.122 - Administração Geral";"siconfi-cor_TotalDespesas";33426671,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"17.999 - Demais Subfunções Saneamento";"siconfi-cor_TotalDespesas";189457182,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";15144652,28
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";3300739,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"18.542 - Controle Ambiental";"siconfi-cor_TotalDespesas";26025,68
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";11817886,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"19 - Ciência e Tecnologia";"siconfi-cor_TotalDespesas";21228320,87
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"19.122 - Administração Geral";"siconfi-cor_TotalDespesas";20011913,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"19.999 - Demais Subfunções Ciência e Tecnologia";"siconfi-cor_TotalDespesas";1216407,11
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"23 - Comércio e Serviços";"siconfi-cor_TotalDespesas";2336131,92
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"23.691 - Promoção Comercial";"siconfi-cor_TotalDespesas";3600,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"23.695 - Turismo";"siconfi-cor_TotalDespesas";1795466,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"23.999 - Demais Subfunções Comércio e Serviços";"siconfi-cor_TotalDespesas";537065,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"24 - Comunicações";"siconfi-cor_TotalDespesas";8962898,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"24.122 - Administração Geral";"siconfi-cor_TotalDespesas";2020241,36
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"24.999 - Demais Subfunções Comunicações";"siconfi-cor_TotalDespesas";6942656,96
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"26 - Transporte";"siconfi-cor_TotalDespesas";190147294,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"26.784 - Transporte Hidroviário";"siconfi-cor_TotalDespesas";686131,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"26.122 - Administração Geral";"siconfi-cor_TotalDespesas";28029381,2
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"26.999 - Demais Subfunções Transporte";"siconfi-cor_TotalDespesas";161431782,52
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";3450844,24
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";20721,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"27.813 - Lazer";"siconfi-cor_TotalDespesas";88080,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"27.122 - Administração Geral";"siconfi-cor_TotalDespesas";3342042,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";344993164,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"28.843 - Serviço da Dívida Interna";"siconfi-cor_TotalDespesas";65504446,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"28.844 - Serviço da Dívida Externa";"siconfi-cor_TotalDespesas";17641646,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";240320284,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"28.999 - Demais Subfunções Encargos Especiais";"siconfi-cor_TotalDespesas";21526786,25
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Liquidadas";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";101873487,2
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";2521079356,66
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"01 - Legislativa";"siconfi-cor_TotalDespesas";72963148,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"01.031 - Ação Legislativa";"siconfi-cor_TotalDespesas";72332624,82
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"01.122 - Administração Geral";"siconfi-cor_TotalDespesas";624553,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"01.999 - Demais Subfunções Legislativa";"siconfi-cor_TotalDespesas";5970,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"03 - Essencial à Justiça";"siconfi-cor_TotalDespesas";15037755,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"03.122 - Administração Geral";"siconfi-cor_TotalDespesas";15037755,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"04 - Administração";"siconfi-cor_TotalDespesas";114303596,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";4274687,8
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";80645107,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"04.123 - Administração Financeira";"siconfi-cor_TotalDespesas";25448755,15
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"04.124 - Controle Interno";"siconfi-cor_TotalDespesas";721512,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"04.129 - Administração de Receitas";"siconfi-cor_TotalDespesas";3213534,22
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";87204803,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"06.182 - Defesa Civil";"siconfi-cor_TotalDespesas";4400,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"06.122 - Administração Geral";"siconfi-cor_TotalDespesas";87200403,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"08 - Assistência Social";"siconfi-cor_TotalDespesas";59881177,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";2366229,21
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";9870849,68
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";47215234,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"08.999 - Demais Subfunções Assistência Social";"siconfi-cor_TotalDespesas";428863,81
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"09 - Previdência Social";"siconfi-cor_TotalDespesas";15006796,84
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";15006796,84
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"10 - Saúde";"siconfi-cor_TotalDespesas";794570199,93
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";129282559,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";443221838,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";12430896,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";693519,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";22834709,18
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";186106676,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"11 - Trabalho";"siconfi-cor_TotalDespesas";20738775,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"11.334 - Fomento ao Trabalho";"siconfi-cor_TotalDespesas";807504,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"11.122 - Administração Geral";"siconfi-cor_TotalDespesas";17488646,95
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"11.999 - Demais Subfunções Trabalho";"siconfi-cor_TotalDespesas";2442624,34
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"12 - Educação";"siconfi-cor_TotalDespesas";436684349,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";310237254,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";54320640,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";4904967,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"12.367 - Educação Especial";"siconfi-cor_TotalDespesas";36000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";59367553,63
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"12.999 - Demais Subfunções Educação";"siconfi-cor_TotalDespesas";7817933,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"13 - Cultura";"siconfi-cor_TotalDespesas";10874336,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"13.391 - Patrimônio Histórico, Artístico e Arqueológico";"siconfi-cor_TotalDespesas";28410,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";6224504,02
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"13.122 - Administração Geral";"siconfi-cor_TotalDespesas";4621422,1
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"15 - Urbanismo";"siconfi-cor_TotalDespesas";95296559,36
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";24352221,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"15.452 - Serviços Urbanos";"siconfi-cor_TotalDespesas";56417477,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"15.122 - Administração Geral";"siconfi-cor_TotalDespesas";13919059,5
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"15.999 - Demais Subfunções Urbanismo";"siconfi-cor_TotalDespesas";607800,57
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"16 - Habitação";"siconfi-cor_TotalDespesas";5903660,78
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";3224380,43
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"16.122 - Administração Geral";"siconfi-cor_TotalDespesas";2679280,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"17 - Saneamento";"siconfi-cor_TotalDespesas";209835709,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"17.122 - Administração Geral";"siconfi-cor_TotalDespesas";32177117,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"17.999 - Demais Subfunções Saneamento";"siconfi-cor_TotalDespesas";177658592,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";14047748,81
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";2608768,86
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"18.542 - Controle Ambiental";"siconfi-cor_TotalDespesas";26025,68
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";11412954,27
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"19 - Ciência e Tecnologia";"siconfi-cor_TotalDespesas";21166455,85
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"19.122 - Administração Geral";"siconfi-cor_TotalDespesas";20006608,74
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"19.999 - Demais Subfunções Ciência e Tecnologia";"siconfi-cor_TotalDespesas";1159847,11
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"23 - Comércio e Serviços";"siconfi-cor_TotalDespesas";2078669,34
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"23.695 - Turismo";"siconfi-cor_TotalDespesas";1782029,13
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"23.999 - Demais Subfunções Comércio e Serviços";"siconfi-cor_TotalDespesas";296640,21
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"24 - Comunicações";"siconfi-cor_TotalDespesas";8950461,21
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"24.122 - Administração Geral";"siconfi-cor_TotalDespesas";2007804,25
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"24.999 - Demais Subfunções Comunicações";"siconfi-cor_TotalDespesas";6942656,96
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"26 - Transporte";"siconfi-cor_TotalDespesas";188324705,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"26.784 - Transporte Hidroviário";"siconfi-cor_TotalDespesas";674207,63
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"26.122 - Administração Geral";"siconfi-cor_TotalDespesas";27999817,2
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"26.999 - Demais Subfunções Transporte";"siconfi-cor_TotalDespesas";159650680,77
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";3280751,85
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";7971,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"27.813 - Lazer";"siconfi-cor_TotalDespesas";48490,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"27.122 - Administração Geral";"siconfi-cor_TotalDespesas";3224290,55
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";344929695,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"28.843 - Serviço da Dívida Interna";"siconfi-cor_TotalDespesas";65504446,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"28.844 - Serviço da Dívida Externa";"siconfi-cor_TotalDespesas";17641646,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";240256815,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"28.999 - Demais Subfunções Encargos Especiais";"siconfi-cor_TotalDespesas";21526786,25
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Despesas Pagas";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";101873487,2
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Não Processados";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";4207560,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Não Processados";"10 - Saúde";"siconfi-cor_TotalDespesas";4207560,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Não Processados";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";490585,49
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Não Processados";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";1145688,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Não Processados";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";1920982,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Não Processados";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";15412,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Não Processados";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";634891,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";73324295,84
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"01 - Legislativa";"siconfi-cor_TotalDespesas";1662,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"01.031 - Ação Legislativa";"siconfi-cor_TotalDespesas";1662,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"03 - Essencial à Justiça";"siconfi-cor_TotalDespesas";401645,26
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"03.122 - Administração Geral";"siconfi-cor_TotalDespesas";401645,26
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"04 - Administração";"siconfi-cor_TotalDespesas";3616511,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";68300,97
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";2611587,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"04.123 - Administração Financeira";"siconfi-cor_TotalDespesas";914318,5
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"04.124 - Controle Interno";"siconfi-cor_TotalDespesas";2352,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"04.129 - Administração de Receitas";"siconfi-cor_TotalDespesas";19952,26
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";4519618,49
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"06.122 - Administração Geral";"siconfi-cor_TotalDespesas";4519618,49
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"08 - Assistência Social";"siconfi-cor_TotalDespesas";3462927,73
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";19994,58
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";756491,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";2686441,7
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"09 - Previdência Social";"siconfi-cor_TotalDespesas";9313,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";9313,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"10 - Saúde";"siconfi-cor_TotalDespesas";31397371,33
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";9152,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";6055114,94
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";18992,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";166087,29
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";25148024,7
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"11 - Trabalho";"siconfi-cor_TotalDespesas";1267427,07
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"11.334 - Fomento ao Trabalho";"siconfi-cor_TotalDespesas";4053,82
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"11.122 - Administração Geral";"siconfi-cor_TotalDespesas";971863,22
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"11.999 - Demais Subfunções Trabalho";"siconfi-cor_TotalDespesas";291510,03
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"12 - Educação";"siconfi-cor_TotalDespesas";9396500,47
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";5888308,22
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";1043020,87
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";1880715,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"12.999 - Demais Subfunções Educação";"siconfi-cor_TotalDespesas";584455,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"13 - Cultura";"siconfi-cor_TotalDespesas";1013959,2
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"13.391 - Patrimônio Histórico, Artístico e Arqueológico";"siconfi-cor_TotalDespesas";2240,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";813665,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"13.122 - Administração Geral";"siconfi-cor_TotalDespesas";198053,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"15 - Urbanismo";"siconfi-cor_TotalDespesas";1457231,02
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";902444,34
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"15.452 - Serviços Urbanos";"siconfi-cor_TotalDespesas";87647,26
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"15.122 - Administração Geral";"siconfi-cor_TotalDespesas";467139,42
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"16 - Habitação";"siconfi-cor_TotalDespesas";247164,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";48211,29
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"16.122 - Administração Geral";"siconfi-cor_TotalDespesas";198953,11
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"17 - Saneamento";"siconfi-cor_TotalDespesas";13048144,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"17.122 - Administração Geral";"siconfi-cor_TotalDespesas";1249554,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"17.999 - Demais Subfunções Saneamento";"siconfi-cor_TotalDespesas";11798590,87
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";1096903,47
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";691970,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";404932,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"19 - Ciência e Tecnologia";"siconfi-cor_TotalDespesas";61865,02
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"19.122 - Administração Geral";"siconfi-cor_TotalDespesas";5305,02
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"19.999 - Demais Subfunções Ciência e Tecnologia";"siconfi-cor_TotalDespesas";56560,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"23 - Comércio e Serviços";"siconfi-cor_TotalDespesas";257462,58
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"23.691 - Promoção Comercial";"siconfi-cor_TotalDespesas";3600,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"23.695 - Turismo";"siconfi-cor_TotalDespesas";13437,28
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"23.999 - Demais Subfunções Comércio e Serviços";"siconfi-cor_TotalDespesas";240425,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"24 - Comunicações";"siconfi-cor_TotalDespesas";12437,11
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"24.122 - Administração Geral";"siconfi-cor_TotalDespesas";12437,11
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"26 - Transporte";"siconfi-cor_TotalDespesas";1822589,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"26.784 - Transporte Hidroviário";"siconfi-cor_TotalDespesas";11923,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"26.122 - Administração Geral";"siconfi-cor_TotalDespesas";29564,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"26.999 - Demais Subfunções Transporte";"siconfi-cor_TotalDespesas";1781101,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";170092,39
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";12750,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"27.813 - Lazer";"siconfi-cor_TotalDespesas";39590,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"27.122 - Administração Geral";"siconfi-cor_TotalDespesas";117752,39
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";63469,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1439561;"Inscrição de RP Processados";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";63469,41
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";647126325,51
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"01 - Legislativa";"siconfi-cor_TotalDespesas";20860566,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"01.031 - Ação Legislativa";"siconfi-cor_TotalDespesas";20860566,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"04 - Administração";"siconfi-cor_TotalDespesas";38798160,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";1473036,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";20760161,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"04.123 - Administração Financeira";"siconfi-cor_TotalDespesas";3731037,82
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"04.124 - Controle Interno";"siconfi-cor_TotalDespesas";865338,57
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"04.128 - Formação de Recursos Humanos";"siconfi-cor_TotalDespesas";2097295,07
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"04.129 - Administração de Receitas";"siconfi-cor_TotalDespesas";4634802,99
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"04.131 - Comunicação Social";"siconfi-cor_TotalDespesas";1730962,48
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"04.999 - Demais Subfunções Administração";"siconfi-cor_TotalDespesas";3505526,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";8900359,03
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"06.181 - Policiamento";"siconfi-cor_TotalDespesas";4332362,89
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"06.122 - Administração Geral";"siconfi-cor_TotalDespesas";4567996,14
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"08 - Assistência Social";"siconfi-cor_TotalDespesas";9429330,58
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"08.241 - Assistência ao Idoso";"siconfi-cor_TotalDespesas";2000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"08.242 - Assistência ao Portador de Deficiência";"siconfi-cor_TotalDespesas";8402,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";1600151,98
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";1737128,42
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";6081648,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"09 - Previdência Social";"siconfi-cor_TotalDespesas";20282216,25
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"09.272 - Previdência do Regime Estatutário";"siconfi-cor_TotalDespesas";18212106,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";2070109,35
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"10 - Saúde";"siconfi-cor_TotalDespesas";154547599,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";41665927,12
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";77020956,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";5566385,57
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";2010494,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";5540329,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";22043760,84
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"10.999 - Demais Subfunções Saúde";"siconfi-cor_TotalDespesas";699744,73
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"11 - Trabalho";"siconfi-cor_TotalDespesas";559769,81
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"11.122 - Administração Geral";"siconfi-cor_TotalDespesas";549051,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"11.999 - Demais Subfunções Trabalho";"siconfi-cor_TotalDespesas";10718,38
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"12 - Educação";"siconfi-cor_TotalDespesas";228853710,72
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";179906580,08
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";26877880,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";3935663,62
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"12.367 - Educação Especial";"siconfi-cor_TotalDespesas";50390,23
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"12.368 - Educação Básica";"siconfi-cor_TotalDespesas";18670,51
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";13596285,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"12.999 - Demais Subfunções Educação";"siconfi-cor_TotalDespesas";4468239,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"13 - Cultura";"siconfi-cor_TotalDespesas";15696951,77
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"13.391 - Patrimônio Histórico, Artístico e Arqueológico";"siconfi-cor_TotalDespesas";8268753,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";4279065,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"13.122 - Administração Geral";"siconfi-cor_TotalDespesas";3149132,71
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"14 - Direitos da Cidadania";"siconfi-cor_TotalDespesas";2286954,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"14.999 - Demais Subfunções Direitos da Cidadania";"siconfi-cor_TotalDespesas";2286954,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"15 - Urbanismo";"siconfi-cor_TotalDespesas";93949873,11
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";7404075,81
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"15.452 - Serviços Urbanos";"siconfi-cor_TotalDespesas";36027371,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"15.122 - Administração Geral";"siconfi-cor_TotalDespesas";44719505,09
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"15.999 - Demais Subfunções Urbanismo";"siconfi-cor_TotalDespesas";5798920,53
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"16 - Habitação";"siconfi-cor_TotalDespesas";4481094,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";15500,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"16.122 - Administração Geral";"siconfi-cor_TotalDespesas";4465594,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"17 - Saneamento";"siconfi-cor_TotalDespesas";3376042,14
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"17.512 - Saneamento Básico Urbano";"siconfi-cor_TotalDespesas";3376042,14
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";2579780,3
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";54441,69
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";2391499,42
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"18.999 - Demais Subfunções Gestão Ambiental";"siconfi-cor_TotalDespesas";133839,19
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"20 - Agricultura";"siconfi-cor_TotalDespesas";3616964,25
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"20.608 - Promoção da Produção Agropecuária";"siconfi-cor_TotalDespesas";9033,42
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"20.122 - Administração Geral";"siconfi-cor_TotalDespesas";3607930,83
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"22 - Indústria";"siconfi-cor_TotalDespesas";665977,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"22.122 - Administração Geral";"siconfi-cor_TotalDespesas";665977,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"23 - Comércio e Serviços";"siconfi-cor_TotalDespesas";188499,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"23.695 - Turismo";"siconfi-cor_TotalDespesas";188499,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"25 - Energia";"siconfi-cor_TotalDespesas";12415282,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"25.752 - Energia Elétrica";"siconfi-cor_TotalDespesas";12415282,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"26 - Transporte";"siconfi-cor_TotalDespesas";10214373,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"26.999 - Demais Subfunções Transporte";"siconfi-cor_TotalDespesas";10214373,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";2400809,58
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"27.811 - Desporto de Rendimento";"siconfi-cor_TotalDespesas";14886,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";2000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"27.813 - Lazer";"siconfi-cor_TotalDespesas";364594,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"27.122 - Administração Geral";"siconfi-cor_TotalDespesas";2019328,98
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";13022008,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"28.843 - Serviço da Dívida Interna";"siconfi-cor_TotalDespesas";9138531,54
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";2728277,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"28.999 - Demais Subfunções Encargos Especiais";"siconfi-cor_TotalDespesas";1155199,64
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Empenhadas";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";16586138,59
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";636536365,59
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"01 - Legislativa";"siconfi-cor_TotalDespesas";20860566,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"01.031 - Ação Legislativa";"siconfi-cor_TotalDespesas";20860566,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"04 - Administração";"siconfi-cor_TotalDespesas";38798152,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";1473036,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";20760161,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"04.123 - Administração Financeira";"siconfi-cor_TotalDespesas";3731029,82
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"04.124 - Controle Interno";"siconfi-cor_TotalDespesas";865338,57
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"04.128 - Formação de Recursos Humanos";"siconfi-cor_TotalDespesas";2097295,07
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"04.129 - Administração de Receitas";"siconfi-cor_TotalDespesas";4634802,99
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"04.131 - Comunicação Social";"siconfi-cor_TotalDespesas";1730962,48
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"04.999 - Demais Subfunções Administração";"siconfi-cor_TotalDespesas";3505526,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";8900359,03
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"06.181 - Policiamento";"siconfi-cor_TotalDespesas";4332362,89
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"06.122 - Administração Geral";"siconfi-cor_TotalDespesas";4567996,14
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"08 - Assistência Social";"siconfi-cor_TotalDespesas";9429330,58
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"08.241 - Assistência ao Idoso";"siconfi-cor_TotalDespesas";2000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"08.242 - Assistência ao Portador de Deficiência";"siconfi-cor_TotalDespesas";8402,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";1600151,98
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";1737128,42
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";6081648,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"09 - Previdência Social";"siconfi-cor_TotalDespesas";20282216,25
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"09.272 - Previdência do Regime Estatutário";"siconfi-cor_TotalDespesas";18212106,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";2070109,35
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"10 - Saúde";"siconfi-cor_TotalDespesas";153252099,8
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";41537176,74
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";76066145,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";5566229,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";2010494,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";5540329,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";21832053,09
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"10.999 - Demais Subfunções Saúde";"siconfi-cor_TotalDespesas";699670,94
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"11 - Trabalho";"siconfi-cor_TotalDespesas";559769,81
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"11.122 - Administração Geral";"siconfi-cor_TotalDespesas";549051,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"11.999 - Demais Subfunções Trabalho";"siconfi-cor_TotalDespesas";10718,38
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"12 - Educação";"siconfi-cor_TotalDespesas";227897839,86
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";178950709,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";26877880,61
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";3935663,62
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"12.367 - Educação Especial";"siconfi-cor_TotalDespesas";50390,23
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"12.368 - Educação Básica";"siconfi-cor_TotalDespesas";18670,51
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";13596285,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"12.999 - Demais Subfunções Educação";"siconfi-cor_TotalDespesas";4468239,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"13 - Cultura";"siconfi-cor_TotalDespesas";7358370,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";4209636,57
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"13.122 - Administração Geral";"siconfi-cor_TotalDespesas";3148733,71
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"14 - Direitos da Cidadania";"siconfi-cor_TotalDespesas";2286954,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"14.999 - Demais Subfunções Direitos da Cidadania";"siconfi-cor_TotalDespesas";2286954,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"15 - Urbanismo";"siconfi-cor_TotalDespesas";93949873,11
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";7404075,81
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"15.452 - Serviços Urbanos";"siconfi-cor_TotalDespesas";36027371,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"15.122 - Administração Geral";"siconfi-cor_TotalDespesas";44719505,09
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"15.999 - Demais Subfunções Urbanismo";"siconfi-cor_TotalDespesas";5798920,53
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"16 - Habitação";"siconfi-cor_TotalDespesas";4481094,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";15500,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"16.122 - Administração Geral";"siconfi-cor_TotalDespesas";4465594,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"17 - Saneamento";"siconfi-cor_TotalDespesas";3376042,14
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"17.512 - Saneamento Básico Urbano";"siconfi-cor_TotalDespesas";3376042,14
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";2579780,3
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";54441,69
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";2391499,42
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"18.999 - Demais Subfunções Gestão Ambiental";"siconfi-cor_TotalDespesas";133839,19
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"20 - Agricultura";"siconfi-cor_TotalDespesas";3616964,25
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"20.608 - Promoção da Produção Agropecuária";"siconfi-cor_TotalDespesas";9033,42
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"20.122 - Administração Geral";"siconfi-cor_TotalDespesas";3607930,83
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"22 - Indústria";"siconfi-cor_TotalDespesas";665977,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"22.122 - Administração Geral";"siconfi-cor_TotalDespesas";665977,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"23 - Comércio e Serviços";"siconfi-cor_TotalDespesas";188499,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"23.695 - Turismo";"siconfi-cor_TotalDespesas";188499,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"25 - Energia";"siconfi-cor_TotalDespesas";12415282,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"25.752 - Energia Elétrica";"siconfi-cor_TotalDespesas";12415282,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"26 - Transporte";"siconfi-cor_TotalDespesas";10214373,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"26.999 - Demais Subfunções Transporte";"siconfi-cor_TotalDespesas";10214373,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";2400809,58
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"27.811 - Desporto de Rendimento";"siconfi-cor_TotalDespesas";14886,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";2000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"27.813 - Lazer";"siconfi-cor_TotalDespesas";364594,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"27.122 - Administração Geral";"siconfi-cor_TotalDespesas";2019328,98
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";13022008,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"28.843 - Serviço da Dívida Interna";"siconfi-cor_TotalDespesas";9138531,54
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";2728277,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"28.999 - Demais Subfunções Encargos Especiais";"siconfi-cor_TotalDespesas";1155199,64
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Liquidadas";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";16586138,59
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";563018382,4
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"01 - Legislativa";"siconfi-cor_TotalDespesas";20860566,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"01.031 - Ação Legislativa";"siconfi-cor_TotalDespesas";20860566,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"04 - Administração";"siconfi-cor_TotalDespesas";34499627,13
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";1302252,77
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";18449464,09
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"04.123 - Administração Financeira";"siconfi-cor_TotalDespesas";3720521,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"04.124 - Controle Interno";"siconfi-cor_TotalDespesas";705274,3
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"04.128 - Formação de Recursos Humanos";"siconfi-cor_TotalDespesas";1692200,47
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"04.129 - Administração de Receitas";"siconfi-cor_TotalDespesas";4137349,95
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"04.131 - Comunicação Social";"siconfi-cor_TotalDespesas";1298973,4
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"04.999 - Demais Subfunções Administração";"siconfi-cor_TotalDespesas";3193590,79
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";7906313,81
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"06.181 - Policiamento";"siconfi-cor_TotalDespesas";3387310,7
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"06.122 - Administração Geral";"siconfi-cor_TotalDespesas";4519003,11
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"08 - Assistência Social";"siconfi-cor_TotalDespesas";8076018,56
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"08.241 - Assistência ao Idoso";"siconfi-cor_TotalDespesas";2000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"08.242 - Assistência ao Portador de Deficiência";"siconfi-cor_TotalDespesas";8402,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";1323815,32
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";1571301,01
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";5170500,23
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"09 - Previdência Social";"siconfi-cor_TotalDespesas";20282216,25
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"09.272 - Previdência do Regime Estatutário";"siconfi-cor_TotalDespesas";18212106,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"09.122 - Administração Geral";"siconfi-cor_TotalDespesas";2070109,35
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"10 - Saúde";"siconfi-cor_TotalDespesas";128402848,71
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";34771472,52
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";63464012,47
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";4232415,26
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";1816392,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";4954634,71
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";18557096,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"10.999 - Demais Subfunções Saúde";"siconfi-cor_TotalDespesas";606824,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"11 - Trabalho";"siconfi-cor_TotalDespesas";553436,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"11.122 - Administração Geral";"siconfi-cor_TotalDespesas";542718,22
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"11.999 - Demais Subfunções Trabalho";"siconfi-cor_TotalDespesas";10718,38
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"12 - Educação";"siconfi-cor_TotalDespesas";201943742,23
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";159161166,95
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";23361990,32
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";3532303,21
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"12.367 - Educação Especial";"siconfi-cor_TotalDespesas";24649,27
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"12.368 - Educação Básica";"siconfi-cor_TotalDespesas";18670,51
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";11379611,76
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"12.999 - Demais Subfunções Educação";"siconfi-cor_TotalDespesas";4465350,21
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"13 - Cultura";"siconfi-cor_TotalDespesas";6907819,06
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";4105716,72
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"13.122 - Administração Geral";"siconfi-cor_TotalDespesas";2802102,34
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"14 - Direitos da Cidadania";"siconfi-cor_TotalDespesas";2065241,09
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"14.999 - Demais Subfunções Direitos da Cidadania";"siconfi-cor_TotalDespesas";2065241,09
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"15 - Urbanismo";"siconfi-cor_TotalDespesas";83839884,81
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"15.451 - Infraestrutura Urbana";"siconfi-cor_TotalDespesas";7404075,81
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"15.452 - Serviços Urbanos";"siconfi-cor_TotalDespesas";33258703,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"15.122 - Administração Geral";"siconfi-cor_TotalDespesas";37463572,2
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"15.999 - Demais Subfunções Urbanismo";"siconfi-cor_TotalDespesas";5713532,83
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"16 - Habitação";"siconfi-cor_TotalDespesas";3859017,74
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"16.482 - Habitação Urbana";"siconfi-cor_TotalDespesas";15500,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"16.122 - Administração Geral";"siconfi-cor_TotalDespesas";3843517,74
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"17 - Saneamento";"siconfi-cor_TotalDespesas";2810639,82
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"17.512 - Saneamento Básico Urbano";"siconfi-cor_TotalDespesas";2810639,82
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";2156861,39
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"18.541 - Preservação e Conservação Ambiental";"siconfi-cor_TotalDespesas";54441,69
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";2001347,85
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"18.999 - Demais Subfunções Gestão Ambiental";"siconfi-cor_TotalDespesas";101071,85
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"20 - Agricultura";"siconfi-cor_TotalDespesas";2933649,25
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"20.608 - Promoção da Produção Agropecuária";"siconfi-cor_TotalDespesas";9033,42
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"20.122 - Administração Geral";"siconfi-cor_TotalDespesas";2924615,83
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"22 - Indústria";"siconfi-cor_TotalDespesas";573508,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"22.122 - Administração Geral";"siconfi-cor_TotalDespesas";573508,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"23 - Comércio e Serviços";"siconfi-cor_TotalDespesas";175942,15
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"23.695 - Turismo";"siconfi-cor_TotalDespesas";175942,15
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"25 - Energia";"siconfi-cor_TotalDespesas";12415282,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"25.752 - Energia Elétrica";"siconfi-cor_TotalDespesas";12415282,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"26 - Transporte";"siconfi-cor_TotalDespesas";7937207,5
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"26.999 - Demais Subfunções Transporte";"siconfi-cor_TotalDespesas";7937207,5
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";2115909,65
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"27.811 - Desporto de Rendimento";"siconfi-cor_TotalDespesas";14886,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"27.812 - Desporto Comunitário";"siconfi-cor_TotalDespesas";2000,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"27.813 - Lazer";"siconfi-cor_TotalDespesas";364594,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"27.122 - Administração Geral";"siconfi-cor_TotalDespesas";1734429,05
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";12702648,48
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"28.843 - Serviço da Dívida Interna";"siconfi-cor_TotalDespesas";9138531,54
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"28.846 - Outros Encargos Especiais";"siconfi-cor_TotalDespesas";2728277,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"28.999 - Demais Subfunções Encargos Especiais";"siconfi-cor_TotalDespesas";835839,76
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Despesas Pagas";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";10784614,32
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";10589959,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"04 - Administração";"siconfi-cor_TotalDespesas";8,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"04.123 - Administração Financeira";"siconfi-cor_TotalDespesas";8,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"10 - Saúde";"siconfi-cor_TotalDespesas";1295499,57
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";128750,38
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";954811,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";156,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";211707,75
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"10.999 - Demais Subfunções Saúde";"siconfi-cor_TotalDespesas";73,79
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"12 - Educação";"siconfi-cor_TotalDespesas";955870,86
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";955870,79
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";0,07
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"13 - Cultura";"siconfi-cor_TotalDespesas";8338581,49
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"13.391 - Patrimônio Histórico, Artístico e Arqueológico";"siconfi-cor_TotalDespesas";8268753,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";69428,59
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Não Processados";"13.122 - Administração Geral";"siconfi-cor_TotalDespesas";399,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"Despesas (Exceto Intraorçamentárias)";"siconfi-cor_TotalDespesas";73517983,19
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"04 - Administração";"siconfi-cor_TotalDespesas";4298525,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"04.121 - Planejamento e Orçamento";"siconfi-cor_TotalDespesas";170783,23
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"04.122 - Administração Geral";"siconfi-cor_TotalDespesas";2310697,07
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"04.123 - Administração Financeira";"siconfi-cor_TotalDespesas";10508,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"04.124 - Controle Interno";"siconfi-cor_TotalDespesas";160064,27
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"04.128 - Formação de Recursos Humanos";"siconfi-cor_TotalDespesas";405094,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"04.129 - Administração de Receitas";"siconfi-cor_TotalDespesas";497453,04
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"04.131 - Comunicação Social";"siconfi-cor_TotalDespesas";431989,08
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"04.999 - Demais Subfunções Administração";"siconfi-cor_TotalDespesas";311935,49
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"06 - Segurança Pública";"siconfi-cor_TotalDespesas";994045,22
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"06.181 - Policiamento";"siconfi-cor_TotalDespesas";945052,19
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"06.122 - Administração Geral";"siconfi-cor_TotalDespesas";48993,03
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"08 - Assistência Social";"siconfi-cor_TotalDespesas";1353312,02
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"08.243 - Assistência à Criança e ao Adolescente";"siconfi-cor_TotalDespesas";276336,66
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"08.244 - Assistência Comunitária";"siconfi-cor_TotalDespesas";165827,41
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"08.122 - Administração Geral";"siconfi-cor_TotalDespesas";911147,95
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"10 - Saúde";"siconfi-cor_TotalDespesas";24849251,09
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"10.301 - Atenção Básica";"siconfi-cor_TotalDespesas";6765704,22
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"10.302 - Assistência Hospitalar e Ambulatorial";"siconfi-cor_TotalDespesas";12602133,13
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"10.303 - Suporte Profilático e Terapêutico";"siconfi-cor_TotalDespesas";1333814,03
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"10.304 - Vigilância Sanitária";"siconfi-cor_TotalDespesas";194101,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"10.305 - Vigilância Epidemiológica";"siconfi-cor_TotalDespesas";585694,75
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"10.122 - Administração Geral";"siconfi-cor_TotalDespesas";3274956,8
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"10.999 - Demais Subfunções Saúde";"siconfi-cor_TotalDespesas";92846,26
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"11 - Trabalho";"siconfi-cor_TotalDespesas";6333,21
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"11.122 - Administração Geral";"siconfi-cor_TotalDespesas";6333,21
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"12 - Educação";"siconfi-cor_TotalDespesas";25954097,63
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"12.361 - Ensino Fundamental";"siconfi-cor_TotalDespesas";19789542,34
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"12.365 - Educação Infantil";"siconfi-cor_TotalDespesas";3515890,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"12.366 - Educação de Jovens e Adultos";"siconfi-cor_TotalDespesas";403360,41
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"12.367 - Educação Especial";"siconfi-cor_TotalDespesas";25740,96
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"12.122 - Administração Geral";"siconfi-cor_TotalDespesas";2216674,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"12.999 - Demais Subfunções Educação";"siconfi-cor_TotalDespesas";2889,47
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"13 - Cultura";"siconfi-cor_TotalDespesas";450551,22
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"13.392 - Difusão Cultural";"siconfi-cor_TotalDespesas";103919,85
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"13.122 - Administração Geral";"siconfi-cor_TotalDespesas";346631,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"14 - Direitos da Cidadania";"siconfi-cor_TotalDespesas";221713,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"14.999 - Demais Subfunções Direitos da Cidadania";"siconfi-cor_TotalDespesas";221713,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"15 - Urbanismo";"siconfi-cor_TotalDespesas";10109988,3
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"15.452 - Serviços Urbanos";"siconfi-cor_TotalDespesas";2768667,71
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"15.122 - Administração Geral";"siconfi-cor_TotalDespesas";7255932,89
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"15.999 - Demais Subfunções Urbanismo";"siconfi-cor_TotalDespesas";85387,7
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"16 - Habitação";"siconfi-cor_TotalDespesas";622076,94
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"16.122 - Administração Geral";"siconfi-cor_TotalDespesas";622076,94
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"17 - Saneamento";"siconfi-cor_TotalDespesas";565402,32
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"17.512 - Saneamento Básico Urbano";"siconfi-cor_TotalDespesas";565402,32
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"18 - Gestão Ambiental";"siconfi-cor_TotalDespesas";422918,91
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"18.122 - Administração Geral";"siconfi-cor_TotalDespesas";390151,57
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"18.999 - Demais Subfunções Gestão Ambiental";"siconfi-cor_TotalDespesas";32767,34
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"20 - Agricultura";"siconfi-cor_TotalDespesas";683315,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"20.122 - Administração Geral";"siconfi-cor_TotalDespesas";683315,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"22 - Indústria";"siconfi-cor_TotalDespesas";92469,5
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"22.122 - Administração Geral";"siconfi-cor_TotalDespesas";92469,5
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"23 - Comércio e Serviços";"siconfi-cor_TotalDespesas";12557,22
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"23.695 - Turismo";"siconfi-cor_TotalDespesas";12557,22
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"26 - Transporte";"siconfi-cor_TotalDespesas";2277166,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"26.999 - Demais Subfunções Transporte";"siconfi-cor_TotalDespesas";2277166,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"27 - Desporto e Lazer";"siconfi-cor_TotalDespesas";284899,93
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"27.122 - Administração Geral";"siconfi-cor_TotalDespesas";284899,93
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"28 - Encargos Especiais";"siconfi-cor_TotalDespesas";319359,88
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"28.999 - Demais Subfunções Encargos Especiais";"siconfi-cor_TotalDespesas";319359,88
+Prefeitura Municipal de Marabá - PA;1504208;PA;262085;"Inscrição de RP Processados";"Despesas (Intraorçamentárias)";"siconfi-cor_TotalDespesas";5801524,27

@@ -1,0 +1,738 @@
+Exercício: 2015
+Escopo: Municípios do Estado - PA
+Tabela: Despesas Orçamentárias (Anexo I-D)
+Instituição;Cod.IBGE;UF;População;Coluna;Conta;Identificador da Conta;Valor
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";581349288,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";528512121,8
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";321994582,48
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";303341747,27
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";14441351,15
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";1542120,01
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";102115779,61
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.05.00.00 - Outros Benefícios Previdenciários do servidor ou do militar";"siconfi-cor_DO3.1.90.05.00.00";2024720,26
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";140659360,94
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";34274475,8
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.13.02.00 - Contribuições Previdenciárias - INSS";"siconfi-cor_DO3.1.90.13.02.00";32768258,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";1506217,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil";"siconfi-cor_DO3.1.90.16.00.00";208682,88
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";897226,73
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.1.90.92.00.00";7035399,39
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado";"siconfi-cor_DO3.1.90.96.00.00";142630,5
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";18652835,21
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";18648902,97
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária";"siconfi-cor_DI3.1.91.13.99.00";18648902,97
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.1.91.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DI3.1.91.92.00.00";3932,24
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";1062622,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";1062622,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";33179,95
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.22.00.00";1029442,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";205454916,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";1905868,34
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";203549048,22
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar";"siconfi-cor_DO3.3.90.08.00.00";3152,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.14.00.00 - Diárias - Civil";"siconfi-cor_DO3.3.90.14.00.00";103257,12
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";39623278,39
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita";"siconfi-cor_DO3.3.90.32.00.00";411223,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";1541152,05
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO3.3.90.35.00.00";667823,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";3440660,87
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";123929572,54
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.46.00.00 - Auxílio-Alimentação";"siconfi-cor_DO3.3.90.46.00.00";7130133,38
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";5762443,12
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";180340,99
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.59.00.00 - Pensões Especiais";"siconfi-cor_DO3.3.90.59.00.00";3940,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";109837,17
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.3.90.92.00.00";20047367,54
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";584225,39
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"3.3.90.95.00.00 - Indenização pela Execução de Trabalhos de Campo";"siconfi-cor_DO3.3.90.95.00.00";10640,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";52837166,29
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";42105626,68
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";42105626,68
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO4.4.90.39.00.00";309777,43
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.4.90.51.00.00 - Obras e Instalações";"siconfi-cor_DO4.4.90.51.00.00";24944337,93
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.4.90.51.99.00 - Demais Obras e Instalações";"siconfi-cor_DO4.4.90.51.99.00";24944337,93
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";3716832,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.4.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.4.90.92.00.00";12084958,37
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.4.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO4.4.90.93.00.00";1049720,19
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";10731539,61
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";10731539,61
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Empenhadas";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";10731539,61
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";581024964,33
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";528187798,04
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";321744515,19
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";303091679,98
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";14441351,15
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";1542120,01
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";102087674,17
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.05.00.00 - Outros Benefícios Previdenciários do servidor ou do militar";"siconfi-cor_DO3.1.90.05.00.00";2014974,26
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";140447145,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";34274475,8
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.13.02.00 - Contribuições Previdenciárias - INSS";"siconfi-cor_DO3.1.90.13.02.00";32768258,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";1506217,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil";"siconfi-cor_DO3.1.90.16.00.00";208682,88
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";897226,73
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.1.90.92.00.00";7035399,39
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado";"siconfi-cor_DO3.1.90.96.00.00";142630,5
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";18652835,21
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";18648902,97
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária";"siconfi-cor_DI3.1.91.13.99.00";18648902,97
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.1.91.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DI3.1.91.92.00.00";3932,24
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";1062622,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";1062622,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";33179,95
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.22.00.00";1029442,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";205380660,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";1905868,34
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";203474791,75
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar";"siconfi-cor_DO3.3.90.08.00.00";3152,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.14.00.00 - Diárias - Civil";"siconfi-cor_DO3.3.90.14.00.00";103257,12
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";39595898,39
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita";"siconfi-cor_DO3.3.90.32.00.00";411223,9
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";1541152,05
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO3.3.90.35.00.00";667823,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";3439327,54
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";123886829,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.46.00.00 - Auxílio-Alimentação";"siconfi-cor_DO3.3.90.46.00.00";7127333,38
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";5762443,12
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";180340,99
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.59.00.00 - Pensões Especiais";"siconfi-cor_DO3.3.90.59.00.00";3940,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";109837,17
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.3.90.92.00.00";20047367,54
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";584225,39
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"3.3.90.95.00.00 - Indenização pela Execução de Trabalhos de Campo";"siconfi-cor_DO3.3.90.95.00.00";10640,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";52837166,29
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";42105626,68
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";42105626,68
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO4.4.90.39.00.00";309777,43
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.4.90.51.00.00 - Obras e Instalações";"siconfi-cor_DO4.4.90.51.00.00";24944337,93
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.4.90.51.99.00 - Demais Obras e Instalações";"siconfi-cor_DO4.4.90.51.99.00";24944337,93
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";3716832,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.4.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.4.90.92.00.00";12084958,37
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.4.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO4.4.90.93.00.00";1049720,19
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";10731539,61
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";10731539,61
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Liquidadas";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";10731539,61
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";542441069,75
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";494176091,59
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";304056239,46
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";293725513,53
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";13855781,47
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";1538747,09
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";101218296,37
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.05.00.00 - Outros Benefícios Previdenciários do servidor ou do militar";"siconfi-cor_DO3.1.90.05.00.00";1888556,69
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";139650067,22
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";27751641,91
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.13.02.00 - Contribuições Previdenciárias - INSS";"siconfi-cor_DO3.1.90.13.02.00";26323439,42
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";1428202,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil";"siconfi-cor_DO3.1.90.16.00.00";206274,56
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";677664,07
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.1.90.92.00.00";6927869,95
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado";"siconfi-cor_DO3.1.90.96.00.00";10614,2
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";10330725,93
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";10326793,69
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária";"siconfi-cor_DI3.1.91.13.99.00";10326793,69
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.1.91.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DI3.1.91.92.00.00";3932,24
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";1062622,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";1062622,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";33179,95
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.22.00.00";1029442,81
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";189057229,37
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";1872868,34
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";187184361,03
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar";"siconfi-cor_DO3.3.90.08.00.00";3152,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.14.00.00 - Diárias - Civil";"siconfi-cor_DO3.3.90.14.00.00";100617,12
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";34758813,28
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita";"siconfi-cor_DO3.3.90.32.00.00";242438,2
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";1245248,18
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO3.3.90.35.00.00";631724,14
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";3113550,91
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";114350319,07
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.46.00.00 - Auxílio-Alimentação";"siconfi-cor_DO3.3.90.46.00.00";7111536,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";5408133,27
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";164817,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.59.00.00 - Pensões Especiais";"siconfi-cor_DO3.3.90.59.00.00";3152,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";81639,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.3.90.92.00.00";19545870,6
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";412708,44
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"3.3.90.95.00.00 - Indenização pela Execução de Trabalhos de Campo";"siconfi-cor_DO3.3.90.95.00.00";10640,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";48264978,16
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";37648845,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";37648845,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO4.4.90.39.00.00";219156,94
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.4.90.51.00.00 - Obras e Instalações";"siconfi-cor_DO4.4.90.51.00.00";21846560,74
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.4.90.51.99.00 - Demais Obras e Instalações";"siconfi-cor_DO4.4.90.51.99.00";21846560,74
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";2961287,71
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.4.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.4.90.92.00.00";11704598,02
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.4.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO4.4.90.93.00.00";917242,35
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";10616132,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";10616132,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Despesas Pagas";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";10616132,4
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";324323,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";324323,76
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";250067,29
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";250067,29
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";28105,44
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.1.90.05.00.00 - Outros Benefícios Previdenciários do servidor ou do militar";"siconfi-cor_DO3.1.90.05.00.00";9746,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";212215,85
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";74256,47
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";74256,47
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";27380,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";1333,33
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";42743,14
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Não Processados";"3.3.90.46.00.00 - Auxílio-Alimentação";"siconfi-cor_DO3.3.90.46.00.00";2800,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";38583894,58
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";34011706,45
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";17688275,73
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";9366166,45
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";585569,68
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";3372,92
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";869377,8
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.05.00.00 - Outros Benefícios Previdenciários do servidor ou do militar";"siconfi-cor_DO3.1.90.05.00.00";126417,57
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";797077,87
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";6522833,89
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.13.02.00 - Contribuições Previdenciárias - INSS";"siconfi-cor_DO3.1.90.13.02.00";6444818,98
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";78014,91
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil";"siconfi-cor_DO3.1.90.16.00.00";2408,32
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";219562,66
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.1.90.92.00.00";107529,44
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado";"siconfi-cor_DO3.1.90.96.00.00";132016,3
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";8322109,28
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";8322109,28
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária";"siconfi-cor_DI3.1.91.13.99.00";8322109,28
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";16323430,72
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";33000,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";16290430,72
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.14.00.00 - Diárias - Civil";"siconfi-cor_DO3.3.90.14.00.00";2640,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";4837085,11
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita";"siconfi-cor_DO3.3.90.32.00.00";168785,7
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";295903,87
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO3.3.90.35.00.00";36099,62
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";325776,63
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";9536510,33
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.46.00.00 - Auxílio-Alimentação";"siconfi-cor_DO3.3.90.46.00.00";15796,62
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";354309,85
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";15523,59
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.59.00.00 - Pensões Especiais";"siconfi-cor_DO3.3.90.59.00.00";788,00
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";28197,51
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.3.90.92.00.00";501496,94
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";171516,95
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";4572188,13
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";4456780,92
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";4456780,92
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO4.4.90.39.00.00";90620,49
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.4.90.51.00.00 - Obras e Instalações";"siconfi-cor_DO4.4.90.51.00.00";3097777,19
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.4.90.51.99.00 - Demais Obras e Instalações";"siconfi-cor_DO4.4.90.51.99.00";3097777,19
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";755545,05
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.4.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.4.90.92.00.00";380360,35
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.4.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO4.4.90.93.00.00";132477,84
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";115407,21
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";115407,21
+Prefeitura Municipal de Ananindeua - PA;1500800;PA;499776;"Inscrição de RP Processados";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";115407,21
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";718757112,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";625562659,44
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";356319738,73
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";331876753,26
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";11157495,95
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";3134823,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";53935839,76
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.05.00.00 - Outros Benefícios Previdenciários do servidor ou do militar";"siconfi-cor_DO3.1.90.05.00.00";400654,01
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";247364364,1
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";15865432,06
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";15865432,06
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";12228,72
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas";"siconfi-cor_DO3.1.90.94.00.00";5915,2
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";24442985,47
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";24442985,47
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária";"siconfi-cor_DI3.1.91.13.99.00";24442985,47
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";1619749,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";1619749,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";1619749,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";267623171,11
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";1246296,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";266376875,11
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar";"siconfi-cor_DO3.3.90.08.00.00";1959924,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.15.00.00 - Diárias - Militar";"siconfi-cor_DO3.3.90.15.00.00";1489200,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras";"siconfi-cor_DO3.3.90.31.00.00";70338797,31
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";430964,8
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização";"siconfi-cor_DO3.3.90.34.00.00";1795100,19
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";1005499,79
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";35316064,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.41.00.00 - Contribuições";"siconfi-cor_DO3.3.90.41.00.00";126468338,61
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";14531970,23
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";4901729,85
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.49.00.00 - Auxílio-Transporte";"siconfi-cor_DO3.3.90.49.00.00";871422,17
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.53.00.00 - Aposentadorias do RGPS - Área Rural";"siconfi-cor_DO3.3.90.53.00.00";6248512,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";53887,45
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";480327,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"3.3.90.99.00.00 - A Classificar";"siconfi-cor_DO3.3.90.99.00.00";485136,56
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";93194452,8
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";87863313,51
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";87863313,51
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";18510786,34
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"4.4.90.99.00.00 - A Classificar";"siconfi-cor_DO4.4.90.99.00.00";69352527,17
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";5331139,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";5331139,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Empenhadas";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";5331139,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";621481018,19
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";569488949,93
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";355665842,57
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";331846012,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";11157495,95
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";3134823,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";53924633,06
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.05.00.00 - Outros Benefícios Previdenciários do servidor ou do militar";"siconfi-cor_DO3.1.90.05.00.00";400654,01
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";247345962,31
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";15864299,75
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";15864299,75
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";12228,72
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas";"siconfi-cor_DO3.1.90.94.00.00";5915,2
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";23819830,11
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";23819830,11
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária";"siconfi-cor_DI3.1.91.13.99.00";23819830,11
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";1619749,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";1619749,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";1619749,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";212203357,76
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";1006366,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";211196991,76
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar";"siconfi-cor_DO3.3.90.08.00.00";1959924,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.15.00.00 - Diárias - Militar";"siconfi-cor_DO3.3.90.15.00.00";1482470,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras";"siconfi-cor_DO3.3.90.31.00.00";54466934,57
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";83783,76
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização";"siconfi-cor_DO3.3.90.34.00.00";1528571,1
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";1005499,79
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";34815912,74
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.41.00.00 - Contribuições";"siconfi-cor_DO3.3.90.41.00.00";88759580,32
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";14531970,23
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";4896024,01
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.49.00.00 - Auxílio-Transporte";"siconfi-cor_DO3.3.90.49.00.00";846869,13
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.53.00.00 - Aposentadorias do RGPS - Área Rural";"siconfi-cor_DO3.3.90.53.00.00";6243312,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";53887,45
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";37115,39
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"3.3.90.99.00.00 - A Classificar";"siconfi-cor_DO3.3.90.99.00.00";485136,56
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";51992068,26
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";46660928,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";46660928,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";10529806,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"4.4.90.99.00.00 - A Classificar";"siconfi-cor_DO4.4.90.99.00.00";36131122,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";5331139,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";5331139,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Liquidadas";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";5331139,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";530350417,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";488062846,47
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";309274244,14
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";301264837,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";11157495,95
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";3040911,49
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";48734123,41
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.90.05.00.00 - Outros Benefícios Previdenciários do servidor ou do militar";"siconfi-cor_DO3.1.90.05.00.00";372054,88
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";225387415,4
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";12560607,83
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";12560607,83
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";12228,72
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";8009406,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";8009406,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária";"siconfi-cor_DI3.1.91.13.99.00";8009406,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";1617749,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";1617749,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";1617749,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";177170852,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";697276,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";176473576,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar";"siconfi-cor_DO3.3.90.08.00.00";1959924,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.15.00.00 - Diárias - Militar";"siconfi-cor_DO3.3.90.15.00.00";1223600,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras";"siconfi-cor_DO3.3.90.31.00.00";43040785,98
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";21186,33
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização";"siconfi-cor_DO3.3.90.34.00.00";1284400,94
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";999999,79
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";30714920,06
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.41.00.00 - Contribuições";"siconfi-cor_DO3.3.90.41.00.00";71040580,24
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";14524193,86
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";4782407,12
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.49.00.00 - Auxílio-Transporte";"siconfi-cor_DO3.3.90.49.00.00";615113,23
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.53.00.00 - Aposentadorias do RGPS - Área Rural";"siconfi-cor_DO3.3.90.53.00.00";5694444,93
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";53887,45
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";36191,66
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"3.3.90.99.00.00 - A Classificar";"siconfi-cor_DO3.3.90.99.00.00";481940,56
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";42287570,96
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";36983094,27
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";36983094,27
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";6258613,09
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"4.4.90.99.00.00 - A Classificar";"siconfi-cor_DO4.4.90.99.00.00";30724481,18
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";5304476,69
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";5304476,69
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Despesas Pagas";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";5304476,69
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";97276094,05
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";56073709,51
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";653896,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";30740,8
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";11206,7
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";18401,79
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";1132,31
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";1132,31
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";623155,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";623155,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária";"siconfi-cor_DI3.1.91.13.99.00";623155,36
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";55419813,35
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";239930,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";55179883,35
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.15.00.00 - Diárias - Militar";"siconfi-cor_DO3.3.90.15.00.00";6730,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras";"siconfi-cor_DO3.3.90.31.00.00";15871862,74
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";347181,04
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização";"siconfi-cor_DO3.3.90.34.00.00";266529,09
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";500151,42
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.41.00.00 - Contribuições";"siconfi-cor_DO3.3.90.41.00.00";37708758,29
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";5705,84
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.49.00.00 - Auxílio-Transporte";"siconfi-cor_DO3.3.90.49.00.00";24553,04
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.53.00.00 - Aposentadorias do RGPS - Área Rural";"siconfi-cor_DO3.3.90.53.00.00";5200,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";443211,89
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";41202384,54
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";41202384,54
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";41202384,54
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";7980979,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Não Processados";"4.4.90.99.00.00 - A Classificar";"siconfi-cor_DO4.4.90.99.00.00";33221404,57
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";91130600,76
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";81426103,46
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";46391598,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";30581174,78
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";93911,97
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";5190509,65
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.90.05.00.00 - Outros Benefícios Previdenciários do servidor ou do militar";"siconfi-cor_DO3.1.90.05.00.00";28599,13
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";21958546,91
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";3303691,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";3303691,92
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas";"siconfi-cor_DO3.1.90.94.00.00";5915,2
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";15810423,65
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";15810423,65
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.1.91.13.99.00 - Outras Obrigações Patronais - Intraorçamentária";"siconfi-cor_DI3.1.91.13.99.00";15810423,65
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";1999,7
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";1999,7
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";1999,7
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";35032505,33
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";309090,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";34723415,33
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.15.00.00 - Diárias - Militar";"siconfi-cor_DO3.3.90.15.00.00";258870,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras";"siconfi-cor_DO3.3.90.31.00.00";11426148,59
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";62597,43
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização";"siconfi-cor_DO3.3.90.34.00.00";244170,16
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";5500,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";4100992,68
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.41.00.00 - Contribuições";"siconfi-cor_DO3.3.90.41.00.00";17719000,08
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";7776,37
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";113616,89
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.49.00.00 - Auxílio-Transporte";"siconfi-cor_DO3.3.90.49.00.00";231755,9
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.53.00.00 - Aposentadorias do RGPS - Área Rural";"siconfi-cor_DO3.3.90.53.00.00";548867,5
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";923,73
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"3.3.90.99.00.00 - A Classificar";"siconfi-cor_DO3.3.90.99.00.00";3196,00
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";9704497,3
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";9677834,7
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";9677834,7
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";4271193,28
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"4.4.90.99.00.00 - A Classificar";"siconfi-cor_DO4.4.90.99.00.00";5406641,42
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";26662,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";26662,6
+Prefeitura Municipal de Marabá - PA;1504208;PA;257062;"Inscrição de RP Processados";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";26662,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";2810331422,91
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";2535717889,85
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";1379128014,5
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";1255577735,07
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";153926737,15
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";50284583,22
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";98698381,96
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.09.00.00 - Salário-Família";"siconfi-cor_DO3.1.90.09.00.00";471356,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";901986945,47
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";45003078,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.13.01.00 - FGTS";"siconfi-cor_DO3.1.90.13.01.00";3112262,07
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.13.02.00 - Contribuições Previdenciárias - INSS";"siconfi-cor_DO3.1.90.13.02.00";41861576,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";29240,27
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil";"siconfi-cor_DO3.1.90.16.00.00";908529,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.67.00.00 - Depósitos Compulsórios";"siconfi-cor_DO3.1.90.67.00.00";83291,03
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";297087,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.1.90.92.00.00";1271663,14
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas";"siconfi-cor_DO3.1.90.94.00.00";681779,47
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado";"siconfi-cor_DO3.1.90.96.00.00";1964301,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";123550279,43
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.91.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DI3.1.91.04.00.00";2206526,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";121337367,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária";"siconfi-cor_DI3.1.91.13.03.00";121337367,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.1.91.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DI3.1.91.92.00.00";6385,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";25518160,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";25518160,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";20012166,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.22.00.00";5505994,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";1131071714,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";15715206,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";1105737010,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar";"siconfi-cor_DO3.3.90.08.00.00";8000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.14.00.00 - Diárias - Civil";"siconfi-cor_DO3.3.90.14.00.00";195677,09
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.18.00.00 - Auxílio Financeiro a Estudantes";"siconfi-cor_DO3.3.90.18.00.00";19833,44
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";55428701,83
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras";"siconfi-cor_DO3.3.90.31.00.00";331232,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita";"siconfi-cor_DO3.3.90.32.00.00";1061028,8
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";7452792,42
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização";"siconfi-cor_DO3.3.90.34.00.00";435850,49
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO3.3.90.35.00.00";2128425,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";89733479,09
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";22493668,86
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";756759349,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.41.00.00 - Contribuições";"siconfi-cor_DO3.3.90.41.00.00";20700,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";34660153,28
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";3214872,67
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.49.00.00 - Auxílio-Transporte";"siconfi-cor_DO3.3.90.49.00.00";581692,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.67.00.00 - Depósitos Compulsórios";"siconfi-cor_DO3.3.90.67.00.00";4728,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";12551597,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.3.90.92.00.00";81121923,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";37533304,18
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.3.91.00.00.00";9619496,63
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";274613533,06
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";217580563,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO4.4.50.00.00.00";500000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";217080563,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO4.4.90.35.00.00";1883859,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO4.4.90.39.00.00";13949999,81
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.51.00.00 - Obras e Instalações";"siconfi-cor_DO4.4.90.51.00.00";158538465,73
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.51.91.00 - Obras em Andamento";"siconfi-cor_DO4.4.90.51.91.00";1927465,09
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.51.99.00 - Demais Obras e Instalações";"siconfi-cor_DO4.4.90.51.99.00";156611000,64
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";20448366,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.4.90.92.00.00";14377418,68
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO4.4.90.93.00.00";4721476,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.4.90.99.00.00 - A Classificar";"siconfi-cor_DO4.4.90.99.00.00";3160977,02
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.5.00.00.00.00 - Inversões Financeiras";"siconfi-cor_DO4.5.00.00.00.00";14744828,1
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.5.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.5.90.00.00.00";14744828,1
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.5.90.61.00.00 - Aquisição de Imóveis";"siconfi-cor_DO4.5.90.61.00.00";12571082,17
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.5.90.66.00.00 - Concessão de Empréstimos e Financiamentos";"siconfi-cor_DO4.5.90.66.00.00";2173745,93
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";42288141,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";42288141,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";42280719,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Empenhadas";"4.6.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.6.90.92.00.00";7421,19
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";2768821433,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";2520956542,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";1379059935,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";1255521235,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";153926737,15
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";50284583,22
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";98686591,79
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.09.00.00 - Salário-Família";"siconfi-cor_DO3.1.90.09.00.00";471356,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";901945622,79
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";45002565,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.13.01.00 - FGTS";"siconfi-cor_DO3.1.90.13.01.00";3112262,07
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.13.02.00 - Contribuições Previdenciárias - INSS";"siconfi-cor_DO3.1.90.13.02.00";41861063,64
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";29240,27
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil";"siconfi-cor_DO3.1.90.16.00.00";908529,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.67.00.00 - Depósitos Compulsórios";"siconfi-cor_DO3.1.90.67.00.00";83291,03
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";297087,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.1.90.92.00.00";1269189,69
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas";"siconfi-cor_DO3.1.90.94.00.00";681379,69
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado";"siconfi-cor_DO3.1.90.96.00.00";1964301,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";123538699,03
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.91.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DI3.1.91.04.00.00";2206526,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";121325786,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária";"siconfi-cor_DI3.1.91.13.03.00";121325786,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.1.91.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DI3.1.91.92.00.00";6385,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";25518160,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";25518160,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";20012166,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.22.00.00";5505994,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";1116378446,54
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";15564200,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";1091194749,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar";"siconfi-cor_DO3.3.90.08.00.00";8000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.14.00.00 - Diárias - Civil";"siconfi-cor_DO3.3.90.14.00.00";195677,09
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.18.00.00 - Auxílio Financeiro a Estudantes";"siconfi-cor_DO3.3.90.18.00.00";19833,44
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";47757029,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras";"siconfi-cor_DO3.3.90.31.00.00";331232,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita";"siconfi-cor_DO3.3.90.32.00.00";1025965,21
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";7394096,18
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização";"siconfi-cor_DO3.3.90.34.00.00";435850,49
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO3.3.90.35.00.00";2128425,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";89667082,66
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";21864535,86
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";750827274,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.41.00.00 - Contribuições";"siconfi-cor_DO3.3.90.41.00.00";20700,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";34659453,28
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";3214872,67
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.49.00.00 - Auxílio-Transporte";"siconfi-cor_DO3.3.90.49.00.00";581692,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.67.00.00 - Depósitos Compulsórios";"siconfi-cor_DO3.3.90.67.00.00";4728,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";12551597,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.3.90.92.00.00";81025950,86
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";37480752,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.3.91.00.00.00";9619496,63
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";247864891,05
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";200656234,63
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO4.4.50.00.00.00";500000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";200156234,63
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO4.4.90.35.00.00";1883859,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO4.4.90.39.00.00";13949999,81
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.51.00.00 - Obras e Instalações";"siconfi-cor_DO4.4.90.51.00.00";146630627,93
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.51.91.00 - Obras em Andamento";"siconfi-cor_DO4.4.90.51.91.00";1927465,09
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.51.99.00 - Demais Obras e Instalações";"siconfi-cor_DO4.4.90.51.99.00";144703162,84
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";15431874,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.4.90.92.00.00";14377418,68
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO4.4.90.93.00.00";4721476,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.4.90.99.00.00 - A Classificar";"siconfi-cor_DO4.4.90.99.00.00";3160977,02
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.5.00.00.00.00 - Inversões Financeiras";"siconfi-cor_DO4.5.00.00.00.00";4920515,34
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.5.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.5.90.00.00.00";4920515,34
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.5.90.61.00.00 - Aquisição de Imóveis";"siconfi-cor_DO4.5.90.61.00.00";2751269,41
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.5.90.66.00.00 - Concessão de Empréstimos e Financiamentos";"siconfi-cor_DO4.5.90.66.00.00";2169245,93
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";42288141,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";42288141,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";42280719,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Liquidadas";"4.6.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.6.90.92.00.00";7421,19
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";2621537394,58
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";2402346834,25
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";1337774181,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";1237860901,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";140791247,37
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.03.00.00 - Pensões do RPPS e do Militar";"siconfi-cor_DO3.1.90.03.00.00";50284583,22
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";98670168,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.09.00.00 - Salário-Família";"siconfi-cor_DO3.1.90.09.00.00";471356,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";897939141,22
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";44864405,65
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.13.01.00 - FGTS";"siconfi-cor_DO3.1.90.13.01.00";2974134,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.13.02.00 - Contribuições Previdenciárias - INSS";"siconfi-cor_DO3.1.90.13.02.00";41861030,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.13.99.00 - Outras Obrigações Patronais";"siconfi-cor_DO3.1.90.13.99.00";29240,27
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.16.00.00 - Outras Despesas Variáveis - Pessoal Civil";"siconfi-cor_DO3.1.90.16.00.00";908529,32
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.67.00.00 - Depósitos Compulsórios";"siconfi-cor_DO3.1.90.67.00.00";83291,03
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.1.90.91.00.00";297087,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.1.90.92.00.00";1254182,68
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas";"siconfi-cor_DO3.1.90.94.00.00";681379,69
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado";"siconfi-cor_DO3.1.90.96.00.00";1615529,42
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";99913280,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.91.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DI3.1.91.04.00.00";1372027,23
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";98534867,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária";"siconfi-cor_DI3.1.91.13.03.00";98534867,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.1.91.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DI3.1.91.92.00.00";6385,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.2.00.00.00.00 - Juros e Encargos da Dívida";"siconfi-cor_DO3.2.00.00.00.00";25518160,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.2.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.2.90.00.00.00";25518160,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.2.90.21.00.00 - Juros sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.21.00.00";20012166,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.2.90.22.00.00 - Outros Encargos sobre a Dívida por Contrato";"siconfi-cor_DO3.2.90.22.00.00";5505994,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";1039054491,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";14362821,26
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";1015714310,9
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.08.00.00 - Outros Benefícios Assistenciais do servidor e do militar";"siconfi-cor_DO3.3.90.08.00.00";8000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.14.00.00 - Diárias - Civil";"siconfi-cor_DO3.3.90.14.00.00";195506,95
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.18.00.00 - Auxílio Financeiro a Estudantes";"siconfi-cor_DO3.3.90.18.00.00";19833,44
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";38785839,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras";"siconfi-cor_DO3.3.90.31.00.00";308232,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita";"siconfi-cor_DO3.3.90.32.00.00";624160,13
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";7366211,03
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização";"siconfi-cor_DO3.3.90.34.00.00";321170,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO3.3.90.35.00.00";1683900,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";88433675,07
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";19362980,04
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";691692694,26
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.41.00.00 - Contribuições";"siconfi-cor_DO3.3.90.41.00.00";20700,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";34559755,75
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";3213833,17
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.49.00.00 - Auxílio-Transporte";"siconfi-cor_DO3.3.90.49.00.00";581692,98
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.67.00.00 - Depósitos Compulsórios";"siconfi-cor_DO3.3.90.67.00.00";4728,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.91.00.00 - Sentenças Judiciais";"siconfi-cor_DO3.3.90.91.00.00";12551597,61
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.3.90.92.00.00";79675687,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";36304114,11
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.3.91.00.00.00";8977359,83
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";219190560,33
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";172987380,51
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO4.4.50.00.00.00";235659,52
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";172751720,99
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO4.4.90.35.00.00";1437172,3
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO4.4.90.39.00.00";10682577,02
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.51.00.00 - Obras e Instalações";"siconfi-cor_DO4.4.90.51.00.00";131608275,7
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.51.91.00 - Obras em Andamento";"siconfi-cor_DO4.4.90.51.91.00";1765558,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.51.99.00 - Demais Obras e Instalações";"siconfi-cor_DO4.4.90.51.99.00";129842717,17
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";8044705,13
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.4.90.92.00.00";13704382,66
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO4.4.90.93.00.00";4113631,16
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.4.90.99.00.00 - A Classificar";"siconfi-cor_DO4.4.90.99.00.00";3160977,02
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.5.00.00.00.00 - Inversões Financeiras";"siconfi-cor_DO4.5.00.00.00.00";3915038,74
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.5.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.5.90.00.00.00";3915038,74
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.5.90.61.00.00 - Aquisição de Imóveis";"siconfi-cor_DO4.5.90.61.00.00";1748792,81
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.5.90.66.00.00 - Concessão de Empréstimos e Financiamentos";"siconfi-cor_DO4.5.90.66.00.00";2166245,93
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.6.00.00.00.00 - Amortização da Dívida";"siconfi-cor_DO4.6.00.00.00.00";42288141,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.6.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.6.90.00.00.00";42288141,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.6.90.71.00.00 - Principal da Dívida Contratual Resgatado";"siconfi-cor_DO4.6.90.71.00.00";42280719,89
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Despesas Pagas";"4.6.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.6.90.92.00.00";7421,19
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";41509989,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";14761347,55
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";68079,49
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";56499,09
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";11790,17
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";41322,68
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";513,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.90.13.02.00 - Contribuições Previdenciárias - INSS";"siconfi-cor_DO3.1.90.13.02.00";513,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.1.90.92.00.00";2473,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.90.94.00.00 - Indenizações e Restituições Trabalhistas";"siconfi-cor_DO3.1.90.94.00.00";399,78
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";11580,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";11580,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária";"siconfi-cor_DI3.1.91.13.03.00";11580,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";14693268,06
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";151006,4
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";14542261,66
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";7671672,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita";"siconfi-cor_DO3.3.90.32.00.00";35063,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";58696,24
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";66396,43
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";629133,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";5932075,15
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";700,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.3.90.92.00.00";95972,62
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";52552,1
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";26748642,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";16924329,25
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";16924329,25
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.4.90.51.00.00 - Obras e Instalações";"siconfi-cor_DO4.4.90.51.00.00";11907837,8
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.4.90.51.99.00 - Demais Obras e Instalações";"siconfi-cor_DO4.4.90.51.99.00";11907837,8
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";5016491,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.5.00.00.00.00 - Inversões Financeiras";"siconfi-cor_DO4.5.00.00.00.00";9824312,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.5.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.5.90.00.00.00";9824312,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.5.90.61.00.00 - Aquisição de Imóveis";"siconfi-cor_DO4.5.90.61.00.00";9819812,76
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Não Processados";"4.5.90.66.00.00 - Concessão de Empréstimos e Financiamentos";"siconfi-cor_DO4.5.90.66.00.00";4500,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"Total Geral da Despesa";"siconfi-cor_TotalDespesas";147284038,77
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.0.00.00.00.00 - Despesas Correntes";"siconfi-cor_DO3.0.00.00.00.00";118609708,05
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.00.00.00.00 - Pessoal e Encargos Sociais";"siconfi-cor_DO3.1.00.00.00.00";41285753,5
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.1.90.00.00.00";17660334,63
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.90.01.00.00 - Aposentadorias do RPPS, Reserva Remunerada e Reformas dos Militares";"siconfi-cor_DO3.1.90.01.00.00";13135489,78
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.90.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DO3.1.90.04.00.00";16423,71
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.90.11.00.00 - Vencimentos e Vantagens Fixas - Pessoal Civil";"siconfi-cor_DO3.1.90.11.00.00";4006481,57
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.90.13.00.00 - Obrigações Patronais";"siconfi-cor_DO3.1.90.13.00.00";138160,33
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.90.13.01.00 - FGTS";"siconfi-cor_DO3.1.90.13.01.00";138127,45
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.90.13.02.00 - Contribuições Previdenciárias - INSS";"siconfi-cor_DO3.1.90.13.02.00";32,88
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.1.90.92.00.00";15007,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.90.96.00.00 - Ressarcimento de Despesas de Pessoal Requisitado";"siconfi-cor_DO3.1.90.96.00.00";348772,23
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.1.91.00.00.00";23625418,87
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.91.04.00.00 - Contratação por Tempo Determinado";"siconfi-cor_DI3.1.91.04.00.00";834499,31
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.91.13.00.00 - Contribuições Patronais";"siconfi-cor_DI3.1.91.13.00.00";22790919,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.1.91.13.03.00 - Contribuição Patronal para o RPPS - Intraorçamentária";"siconfi-cor_DI3.1.91.13.03.00";22790919,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.00.00.00.00 - Outras Despesas Correntes";"siconfi-cor_DO3.3.00.00.00.00";77323954,55
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO3.3.50.00.00.00";1201379,33
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO3.3.90.00.00.00";75480438,42
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.14.00.00 - Diárias - Civil";"siconfi-cor_DO3.3.90.14.00.00";170,14
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.30.00.00 - Material de Consumo";"siconfi-cor_DO3.3.90.30.00.00";8971189,95
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.31.00.00 - Premiações Culturais, Artísticas, Científicas, Desportivas e Outras";"siconfi-cor_DO3.3.90.31.00.00";23000,00
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.32.00.00 - Material, Bem ou Serviço para Distribuição Gratuita";"siconfi-cor_DO3.3.90.32.00.00";401805,08
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.33.00.00 - Passagens e Despesas com Locomoção";"siconfi-cor_DO3.3.90.33.00.00";27885,15
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.34.00.00 - Outras Despesas de Pessoal decorrentes de Contratos de Terceirização";"siconfi-cor_DO3.3.90.34.00.00";114680,49
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO3.3.90.35.00.00";444525,01
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.36.00.00 - Outros Serviços de Terceiros - Pessoa Física";"siconfi-cor_DO3.3.90.36.00.00";1233407,59
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.37.00.00 - Locação de Mão-de-Obra";"siconfi-cor_DO3.3.90.37.00.00";2501555,82
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO3.3.90.39.00.00";59134580,34
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.47.00.00 - Obrigações Tributárias e Contributivas";"siconfi-cor_DO3.3.90.47.00.00";99697,53
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.48.00.00 - Outros Auxílios Financeiros a Pessoas Físicas";"siconfi-cor_DO3.3.90.48.00.00";1039,5
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO3.3.90.92.00.00";1350263,85
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO3.3.90.93.00.00";1176637,97
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"3.3.91.00.00.00 - Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da Seguridade Social";"siconfi-cor_DI3.3.91.00.00.00";642136,8
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.0.00.00.00.00 - Despesas de Capital";"siconfi-cor_DO4.0.00.00.00.00";28674330,72
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.00.00.00.00 - Investimentos";"siconfi-cor_DO4.4.00.00.00.00";27668854,12
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.50.00.00.00 - Transferências a Instituições Privadas sem Fins Lucrativos";"siconfi-cor_DO4.4.50.00.00.00";264340,48
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.4.90.00.00.00";27404513,64
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.90.35.00.00 - Serviços de Consultoria";"siconfi-cor_DO4.4.90.35.00.00";446687,35
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.90.39.00.00 - Outros Serviços de Terceiros - Pessoa Jurídica";"siconfi-cor_DO4.4.90.39.00.00";3267422,79
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.90.51.00.00 - Obras e Instalações";"siconfi-cor_DO4.4.90.51.00.00";15022352,23
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.90.51.91.00 - Obras em Andamento";"siconfi-cor_DO4.4.90.51.91.00";161906,56
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.90.51.99.00 - Demais Obras e Instalações";"siconfi-cor_DO4.4.90.51.99.00";14860445,67
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.90.52.00.00 - Equipamentos e Material Permanente";"siconfi-cor_DO4.4.90.52.00.00";7387169,43
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.90.92.00.00 - Despesas de Exercícios Anteriores";"siconfi-cor_DO4.4.90.92.00.00";673036,02
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.4.90.93.00.00 - Indenizações e Restituições";"siconfi-cor_DO4.4.90.93.00.00";607845,82
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.5.00.00.00.00 - Inversões Financeiras";"siconfi-cor_DO4.5.00.00.00.00";1005476,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.5.90.00.00.00 - Aplicações Diretas";"siconfi-cor_DO4.5.90.00.00.00";1005476,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.5.90.61.00.00 - Aquisição de Imóveis";"siconfi-cor_DO4.5.90.61.00.00";1002476,6
+Prefeitura Municipal de Belém - PA;1501402;PA;1432844;"Inscrição de RP Processados";"4.5.90.66.00.00 - Concessão de Empréstimos e Financiamentos";"siconfi-cor_DO4.5.90.66.00.00";3000,00

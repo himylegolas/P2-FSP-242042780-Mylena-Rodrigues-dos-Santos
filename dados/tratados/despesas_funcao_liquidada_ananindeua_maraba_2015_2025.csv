@@ -1,0 +1,1546 @@
+ano,cod_ibge,municipio,populacao,funcao,despesa_liquidada_nominal_rs
+2015,1500800,Ananindeua,499776,TOTAL (exceto intra),562372129.12
+2015,1500800,Ananindeua,499776,01 - Legislativa,12202491.95
+2015,1500800,Ananindeua,499776,01.031 - Ação Legislativa,734314.0
+2015,1500800,Ananindeua,499776,01.999 - Demais Subfunções Legislativa,11468177.95
+2015,1500800,Ananindeua,499776,03 - Essencial à Justiça,2850201.52
+2015,1500800,Ananindeua,499776,03.999 - Demais Subfunções Essencial à Justiça,2850201.52
+2015,1500800,Ananindeua,499776,04 - Administração,47135686.12
+2015,1500800,Ananindeua,499776,04.121 - Planejamento e Orçamento,2679295.79
+2015,1500800,Ananindeua,499776,04.122 - Administração Geral,41617174.89
+2015,1500800,Ananindeua,499776,04.131 - Comunicação Social,2839215.44
+2015,1500800,Ananindeua,499776,06 - Segurança Pública,6320531.01
+2015,1500800,Ananindeua,499776,06.181 - Policiamento,6320531.01
+2015,1500800,Ananindeua,499776,08 - Assistência Social,20790381.18
+2015,1500800,Ananindeua,499776,08.243 - Assistência à Criança e ao Adolescente,110417.0
+2015,1500800,Ananindeua,499776,08.244 - Assistência Comunitária,6226740.44
+2015,1500800,Ananindeua,499776,08.999 - Demais Subfunções Assistência Social,14453223.74
+2015,1500800,Ananindeua,499776,09 - Previdência Social,19082025.75
+2015,1500800,Ananindeua,499776,09.271 - Previdência Básica,17830821.38
+2015,1500800,Ananindeua,499776,09.999 - Demais Subfunções Previdência Social,1251204.37
+2015,1500800,Ananindeua,499776,10 - Saúde,195697151.32
+2015,1500800,Ananindeua,499776,10.301 - Atenção Básica,49609441.64
+2015,1500800,Ananindeua,499776,10.302 - Assistência Hospitalar e Ambulatorial,106238942.74
+2015,1500800,Ananindeua,499776,10.303 - Suporte Profilático e Terapêutico,2672237.87
+2015,1500800,Ananindeua,499776,10.304 - Vigilância Sanitária,143415.3
+2015,1500800,Ananindeua,499776,10.305 - Vigilância Epidemiológica,6874839.4
+2015,1500800,Ananindeua,499776,10.999 - Demais Subfunções Saúde,30158274.37
+2015,1500800,Ananindeua,499776,12 - Educação,148036516.28
+2015,1500800,Ananindeua,499776,12.361 - Ensino Fundamental,118964743.82
+2015,1500800,Ananindeua,499776,12.363 - Ensino Profissional,453600.01
+2015,1500800,Ananindeua,499776,12.365 - Educação Infantil,3312188.01
+2015,1500800,Ananindeua,499776,12.366 - Educação de Jovens e Adultos,1197009.45
+2015,1500800,Ananindeua,499776,12.999 - Demais Subfunções Educação,24108974.99
+2015,1500800,Ananindeua,499776,13 - Cultura,1356103.66
+2015,1500800,Ananindeua,499776,13.392 - Difusão Cultural,1356103.66
+2015,1500800,Ananindeua,499776,15 - Urbanismo,42229366.77
+2015,1500800,Ananindeua,499776,15.451 - Infraestrutura Urbana,42229366.77
+2015,1500800,Ananindeua,499776,16 - Habitação,23580.0
+2015,1500800,Ananindeua,499776,16.482 - Habitação Urbana,23580.0
+2015,1500800,Ananindeua,499776,17 - Saneamento,50016392.72
+2015,1500800,Ananindeua,499776,17.511 - Saneamento Básico Rural,44613361.25
+2015,1500800,Ananindeua,499776,17.999 - Demais Subfunções Saneamento,5403031.47
+2015,1500800,Ananindeua,499776,18 - Gestão Ambiental,2387213.54
+2015,1500800,Ananindeua,499776,18.541 - Preservação e Conservação Ambiental,110470.39
+2015,1500800,Ananindeua,499776,18.999 - Demais Subfunções Gestão Ambiental,2276743.15
+2015,1500800,Ananindeua,499776,19 - Ciência e Tecnologia,1175606.01
+2015,1500800,Ananindeua,499776,19.999 - Demais Subfunções Ciência e Tecnologia,1175606.01
+2015,1500800,Ananindeua,499776,20 - Agricultura,386805.84
+2015,1500800,Ananindeua,499776,20.999 - Demais Subfunções Agricultura,386805.84
+2015,1500800,Ananindeua,499776,27 - Desporto e Lazer,235456.98
+2015,1500800,Ananindeua,499776,27.811 - Desporto de Rendimento,92250.0
+2015,1500800,Ananindeua,499776,27.812 - Desporto Comunitário,143206.98
+2015,1500800,Ananindeua,499776,28 - Encargos Especiais,12446618.47
+2015,1500800,Ananindeua,499776,28.843 - Serviço da Dívida Interna,11598356.43
+2015,1500800,Ananindeua,499776,28.846 - Outros Encargos Especiais,848262.04
+2015,1504208,Marabá,257062,TOTAL (exceto intra),597661188.08
+2015,1504208,Marabá,257062,04 - Administração,39594160.08
+2015,1504208,Marabá,257062,04.121 - Planejamento e Orçamento,1019034.21
+2015,1504208,Marabá,257062,04.122 - Administração Geral,20514228.61
+2015,1504208,Marabá,257062,04.123 - Administração Financeira,2593252.18
+2015,1504208,Marabá,257062,04.124 - Controle Interno,951809.74
+2015,1504208,Marabá,257062,04.128 - Formação de Recursos Humanos,1785905.4
+2015,1504208,Marabá,257062,04.129 - Administração de Receitas,4518816.69
+2015,1504208,Marabá,257062,04.131 - Comunicação Social,5212647.22
+2015,1504208,Marabá,257062,04.999 - Demais Subfunções Administração,2998466.03
+2015,1504208,Marabá,257062,06 - Segurança Pública,9572551.85
+2015,1504208,Marabá,257062,06.181 - Policiamento,4287644.14
+2015,1504208,Marabá,257062,06.999 - Demais Subfunções Segurança Pública,5284907.71
+2015,1504208,Marabá,257062,08 - Assistência Social,8807016.81
+2015,1504208,Marabá,257062,08.241 - Assistência ao Idoso,6000.0
+2015,1504208,Marabá,257062,08.243 - Assistência à Criança e ao Adolescente,1080542.72
+2015,1504208,Marabá,257062,08.244 - Assistência Comunitária,2559185.53
+2015,1504208,Marabá,257062,08.999 - Demais Subfunções Assistência Social,5161288.56
+2015,1504208,Marabá,257062,09 - Previdência Social,16936986.68
+2015,1504208,Marabá,257062,09.272 - Previdência do Regime Estatutário,15228530.57
+2015,1504208,Marabá,257062,09.999 - Demais Subfunções Previdência Social,1708456.11
+2015,1504208,Marabá,257062,10 - Saúde,142428870.48
+2015,1504208,Marabá,257062,10.301 - Atenção Básica,36932451.83
+2015,1504208,Marabá,257062,10.302 - Assistência Hospitalar e Ambulatorial,71289919.18
+2015,1504208,Marabá,257062,10.303 - Suporte Profilático e Terapêutico,2469689.34
+2015,1504208,Marabá,257062,10.304 - Vigilância Sanitária,1616109.51
+2015,1504208,Marabá,257062,10.305 - Vigilância Epidemiológica,5105423.26
+2015,1504208,Marabá,257062,10.999 - Demais Subfunções Saúde,25015277.36
+2015,1504208,Marabá,257062,11 - Trabalho,718391.83
+2015,1504208,Marabá,257062,11.999 - Demais Subfunções Trabalho,718391.83
+2015,1504208,Marabá,257062,12 - Educação,229437141.01
+2015,1504208,Marabá,257062,12.361 - Ensino Fundamental,182763695.95
+2015,1504208,Marabá,257062,12.365 - Educação Infantil,27648496.0
+2015,1504208,Marabá,257062,12.366 - Educação de Jovens e Adultos,2388755.76
+2015,1504208,Marabá,257062,12.367 - Educação Especial,39705.6
+2015,1504208,Marabá,257062,12.368 - Educação Básica,13305.67
+2015,1504208,Marabá,257062,12.999 - Demais Subfunções Educação,16583182.03
+2015,1504208,Marabá,257062,13 - Cultura,7372816.05
+2015,1504208,Marabá,257062,13.392 - Difusão Cultural,4792488.37
+2015,1504208,Marabá,257062,13.999 - Demais Subfunções Cultura,2580327.68
+2015,1504208,Marabá,257062,14 - Direitos da Cidadania,1461440.43
+2015,1504208,Marabá,257062,14.999 - Demais Subfunções Direitos da Cidadania,1461440.43
+2015,1504208,Marabá,257062,15 - Urbanismo,86780327.17
+2015,1504208,Marabá,257062,15.451 - Infraestrutura Urbana,15687615.05
+2015,1504208,Marabá,257062,15.452 - Serviços Urbanos,14294595.19
+2015,1504208,Marabá,257062,15.999 - Demais Subfunções Urbanismo,56798116.93
+2015,1504208,Marabá,257062,16 - Habitação,4121487.7
+2015,1504208,Marabá,257062,16.482 - Habitação Urbana,11505.0
+2015,1504208,Marabá,257062,16.999 - Demais Subfunções Habitação,4109982.7
+2015,1504208,Marabá,257062,18 - Gestão Ambiental,2195592.23
+2015,1504208,Marabá,257062,18.999 - Demais Subfunções Gestão Ambiental,2195592.23
+2015,1504208,Marabá,257062,20 - Agricultura,3126941.58
+2015,1504208,Marabá,257062,20.606 - Extensão Rural,70603.9
+2015,1504208,Marabá,257062,20.608 - Promoção da Produção Agropecuária,38012.78
+2015,1504208,Marabá,257062,20.999 - Demais Subfunções Agricultura,3018324.9
+2015,1504208,Marabá,257062,22 - Indústria,676216.48
+2015,1504208,Marabá,257062,22.999 - Demais Subfunções Indústria,676216.48
+2015,1504208,Marabá,257062,23 - Comércio e Serviços,128617.74
+2015,1504208,Marabá,257062,23.695 - Turismo,128617.74
+2015,1504208,Marabá,257062,25 - Energia,10402625.64
+2015,1504208,Marabá,257062,25.752 - Energia Elétrica,10402625.64
+2015,1504208,Marabá,257062,26 - Transporte,20225725.08
+2015,1504208,Marabá,257062,26.999 - Demais Subfunções Transporte,20225725.08
+2015,1504208,Marabá,257062,27 - Desporto e Lazer,2328607.75
+2015,1504208,Marabá,257062,27.812 - Desporto Comunitário,160844.47
+2015,1504208,Marabá,257062,27.813 - Lazer,15980.0
+2015,1504208,Marabá,257062,27.999 - Demais Subfunções Desporto e Lazer,2151783.28
+2015,1504208,Marabá,257062,28 - Encargos Especiais,11345671.49
+2015,1504208,Marabá,257062,28.843 - Serviço da Dívida Interna,6950888.89
+2015,1504208,Marabá,257062,28.846 - Outros Encargos Especiais,3349743.22
+2015,1504208,Marabá,257062,28.999 - Demais Subfunções Encargos Especiais,1045039.38
+2016,1500800,Ananindeua,505404,TOTAL (exceto intra),580248852.59
+2016,1500800,Ananindeua,505404,01 - Legislativa,13091372.67
+2016,1500800,Ananindeua,505404,01.122 - Administração Geral,13091372.67
+2016,1500800,Ananindeua,505404,03 - Essencial à Justiça,2682328.3
+2016,1500800,Ananindeua,505404,03.122 - Administração Geral,2664913.06
+2016,1500800,Ananindeua,505404,03.999 - Demais Subfunções Essencial à Justiça,17415.24
+2016,1500800,Ananindeua,505404,04 - Administração,44521762.58
+2016,1500800,Ananindeua,505404,04.121 - Planejamento e Orçamento,2177886.9
+2016,1500800,Ananindeua,505404,04.122 - Administração Geral,41908709.17
+2016,1500800,Ananindeua,505404,04.131 - Comunicação Social,435166.51
+2016,1500800,Ananindeua,505404,06 - Segurança Pública,7440967.74
+2016,1500800,Ananindeua,505404,06.181 - Policiamento,7440967.74
+2016,1500800,Ananindeua,505404,08 - Assistência Social,20803380.29
+2016,1500800,Ananindeua,505404,08.243 - Assistência à Criança e ao Adolescente,122459.05
+2016,1500800,Ananindeua,505404,08.244 - Assistência Comunitária,7059480.07
+2016,1500800,Ananindeua,505404,08.122 - Administração Geral,13388316.09
+2016,1500800,Ananindeua,505404,08.999 - Demais Subfunções Assistência Social,233125.08
+2016,1500800,Ananindeua,505404,09 - Previdência Social,23492389.32
+2016,1500800,Ananindeua,505404,09.271 - Previdência Básica,15980015.52
+2016,1500800,Ananindeua,505404,09.122 - Administração Geral,7512373.8
+2016,1500800,Ananindeua,505404,10 - Saúde,196365352.65
+2016,1500800,Ananindeua,505404,10.301 - Atenção Básica,52367047.76
+2016,1500800,Ananindeua,505404,10.302 - Assistência Hospitalar e Ambulatorial,102317573.74
+2016,1500800,Ananindeua,505404,10.303 - Suporte Profilático e Terapêutico,3589261.89
+2016,1500800,Ananindeua,505404,10.304 - Vigilância Sanitária,94489.9
+2016,1500800,Ananindeua,505404,10.305 - Vigilância Epidemiológica,7816278.26
+2016,1500800,Ananindeua,505404,10.122 - Administração Geral,28645934.94
+2016,1500800,Ananindeua,505404,10.999 - Demais Subfunções Saúde,1534766.16
+2016,1500800,Ananindeua,505404,12 - Educação,160413943.37
+2016,1500800,Ananindeua,505404,12.361 - Ensino Fundamental,130603234.33
+2016,1500800,Ananindeua,505404,12.363 - Ensino Profissional,1567658.65
+2016,1500800,Ananindeua,505404,12.365 - Educação Infantil,1473179.27
+2016,1500800,Ananindeua,505404,12.366 - Educação de Jovens e Adultos,420650.21
+2016,1500800,Ananindeua,505404,12.122 - Administração Geral,26349220.91
+2016,1500800,Ananindeua,505404,13 - Cultura,1209146.85
+2016,1500800,Ananindeua,505404,13.392 - Difusão Cultural,1209146.85
+2016,1500800,Ananindeua,505404,15 - Urbanismo,37012026.77
+2016,1500800,Ananindeua,505404,15.451 - Infraestrutura Urbana,37012026.77
+2016,1500800,Ananindeua,505404,16 - Habitação,456841.86
+2016,1500800,Ananindeua,505404,16.482 - Habitação Urbana,456841.86
+2016,1500800,Ananindeua,505404,17 - Saneamento,54973828.23
+2016,1500800,Ananindeua,505404,17.512 - Saneamento Básico Urbano,48652534.88
+2016,1500800,Ananindeua,505404,17.122 - Administração Geral,6321293.35
+2016,1500800,Ananindeua,505404,18 - Gestão Ambiental,2493428.4
+2016,1500800,Ananindeua,505404,18.541 - Preservação e Conservação Ambiental,32875.09
+2016,1500800,Ananindeua,505404,18.122 - Administração Geral,2390553.31
+2016,1500800,Ananindeua,505404,18.999 - Demais Subfunções Gestão Ambiental,70000.0
+2016,1500800,Ananindeua,505404,19 - Ciência e Tecnologia,1055593.66
+2016,1500800,Ananindeua,505404,19.122 - Administração Geral,807713.66
+2016,1500800,Ananindeua,505404,19.999 - Demais Subfunções Ciência e Tecnologia,247880.0
+2016,1500800,Ananindeua,505404,20 - Agricultura,258607.49
+2016,1500800,Ananindeua,505404,20.122 - Administração Geral,258607.49
+2016,1500800,Ananindeua,505404,27 - Desporto e Lazer,414415.6
+2016,1500800,Ananindeua,505404,27.811 - Desporto de Rendimento,339452.0
+2016,1500800,Ananindeua,505404,27.812 - Desporto Comunitário,74963.6
+2016,1500800,Ananindeua,505404,28 - Encargos Especiais,13563466.81
+2016,1500800,Ananindeua,505404,28.843 - Serviço da Dívida Interna,13303936.81
+2016,1500800,Ananindeua,505404,28.846 - Outros Encargos Especiais,259530.0
+2016,1504208,Marabá,262085,TOTAL (exceto intra),636536365.59
+2016,1504208,Marabá,262085,01 - Legislativa,20860566.97
+2016,1504208,Marabá,262085,01.031 - Ação Legislativa,20860566.97
+2016,1504208,Marabá,262085,04 - Administração,38798152.37
+2016,1504208,Marabá,262085,04.121 - Planejamento e Orçamento,1473036.0
+2016,1504208,Marabá,262085,04.122 - Administração Geral,20760161.16
+2016,1504208,Marabá,262085,04.123 - Administração Financeira,3731029.82
+2016,1504208,Marabá,262085,04.124 - Controle Interno,865338.57
+2016,1504208,Marabá,262085,04.128 - Formação de Recursos Humanos,2097295.07
+2016,1504208,Marabá,262085,04.129 - Administração de Receitas,4634802.99
+2016,1504208,Marabá,262085,04.131 - Comunicação Social,1730962.48
+2016,1504208,Marabá,262085,04.999 - Demais Subfunções Administração,3505526.28
+2016,1504208,Marabá,262085,06 - Segurança Pública,8900359.03
+2016,1504208,Marabá,262085,06.181 - Policiamento,4332362.89
+2016,1504208,Marabá,262085,06.122 - Administração Geral,4567996.14
+2016,1504208,Marabá,262085,08 - Assistência Social,9429330.58
+2016,1504208,Marabá,262085,08.241 - Assistência ao Idoso,2000.0
+2016,1504208,Marabá,262085,08.242 - Assistência ao Portador de Deficiência,8402.0
+2016,1504208,Marabá,262085,08.243 - Assistência à Criança e ao Adolescente,1600151.98
+2016,1504208,Marabá,262085,08.244 - Assistência Comunitária,1737128.42
+2016,1504208,Marabá,262085,08.122 - Administração Geral,6081648.18
+2016,1504208,Marabá,262085,09 - Previdência Social,20282216.25
+2016,1504208,Marabá,262085,09.272 - Previdência do Regime Estatutário,18212106.9
+2016,1504208,Marabá,262085,09.122 - Administração Geral,2070109.35
+2016,1504208,Marabá,262085,10 - Saúde,153252099.8
+2016,1504208,Marabá,262085,10.301 - Atenção Básica,41537176.74
+2016,1504208,Marabá,262085,10.302 - Assistência Hospitalar e Ambulatorial,76066145.6
+2016,1504208,Marabá,262085,10.303 - Suporte Profilático e Terapêutico,5566229.29
+2016,1504208,Marabá,262085,10.304 - Vigilância Sanitária,2010494.68
+2016,1504208,Marabá,262085,10.305 - Vigilância Epidemiológica,5540329.46
+2016,1504208,Marabá,262085,10.122 - Administração Geral,21832053.09
+2016,1504208,Marabá,262085,10.999 - Demais Subfunções Saúde,699670.94
+2016,1504208,Marabá,262085,11 - Trabalho,559769.81
+2016,1504208,Marabá,262085,11.122 - Administração Geral,549051.43
+2016,1504208,Marabá,262085,11.999 - Demais Subfunções Trabalho,10718.38
+2016,1504208,Marabá,262085,12 - Educação,227897839.86
+2016,1504208,Marabá,262085,12.361 - Ensino Fundamental,178950709.29
+2016,1504208,Marabá,262085,12.365 - Educação Infantil,26877880.61
+2016,1504208,Marabá,262085,12.366 - Educação de Jovens e Adultos,3935663.62
+2016,1504208,Marabá,262085,12.367 - Educação Especial,50390.23
+2016,1504208,Marabá,262085,12.368 - Educação Básica,18670.51
+2016,1504208,Marabá,262085,12.122 - Administração Geral,13596285.92
+2016,1504208,Marabá,262085,12.999 - Demais Subfunções Educação,4468239.68
+2016,1504208,Marabá,262085,13 - Cultura,7358370.28
+2016,1504208,Marabá,262085,13.392 - Difusão Cultural,4209636.57
+2016,1504208,Marabá,262085,13.122 - Administração Geral,3148733.71
+2016,1504208,Marabá,262085,14 - Direitos da Cidadania,2286954.37
+2016,1504208,Marabá,262085,14.999 - Demais Subfunções Direitos da Cidadania,2286954.37
+2016,1504208,Marabá,262085,15 - Urbanismo,93949873.11
+2016,1504208,Marabá,262085,15.451 - Infraestrutura Urbana,7404075.81
+2016,1504208,Marabá,262085,15.452 - Serviços Urbanos,36027371.68
+2016,1504208,Marabá,262085,15.122 - Administração Geral,44719505.09
+2016,1504208,Marabá,262085,15.999 - Demais Subfunções Urbanismo,5798920.53
+2016,1504208,Marabá,262085,16 - Habitação,4481094.68
+2016,1504208,Marabá,262085,16.482 - Habitação Urbana,15500.0
+2016,1504208,Marabá,262085,16.122 - Administração Geral,4465594.68
+2016,1504208,Marabá,262085,17 - Saneamento,3376042.14
+2016,1504208,Marabá,262085,17.512 - Saneamento Básico Urbano,3376042.14
+2016,1504208,Marabá,262085,18 - Gestão Ambiental,2579780.3
+2016,1504208,Marabá,262085,18.541 - Preservação e Conservação Ambiental,54441.69
+2016,1504208,Marabá,262085,18.122 - Administração Geral,2391499.42
+2016,1504208,Marabá,262085,18.999 - Demais Subfunções Gestão Ambiental,133839.19
+2016,1504208,Marabá,262085,20 - Agricultura,3616964.25
+2016,1504208,Marabá,262085,20.608 - Promoção da Produção Agropecuária,9033.42
+2016,1504208,Marabá,262085,20.122 - Administração Geral,3607930.83
+2016,1504208,Marabá,262085,22 - Indústria,665977.78
+2016,1504208,Marabá,262085,22.122 - Administração Geral,665977.78
+2016,1504208,Marabá,262085,23 - Comércio e Serviços,188499.37
+2016,1504208,Marabá,262085,23.695 - Turismo,188499.37
+2016,1504208,Marabá,262085,25 - Energia,12415282.92
+2016,1504208,Marabá,262085,25.752 - Energia Elétrica,12415282.92
+2016,1504208,Marabá,262085,26 - Transporte,10214373.78
+2016,1504208,Marabá,262085,26.999 - Demais Subfunções Transporte,10214373.78
+2016,1504208,Marabá,262085,27 - Desporto e Lazer,2400809.58
+2016,1504208,Marabá,262085,27.811 - Desporto de Rendimento,14886.0
+2016,1504208,Marabá,262085,27.812 - Desporto Comunitário,2000.0
+2016,1504208,Marabá,262085,27.813 - Lazer,364594.6
+2016,1504208,Marabá,262085,27.122 - Administração Geral,2019328.98
+2016,1504208,Marabá,262085,28 - Encargos Especiais,13022008.36
+2016,1504208,Marabá,262085,28.843 - Serviço da Dívida Interna,9138531.54
+2016,1504208,Marabá,262085,28.846 - Outros Encargos Especiais,2728277.18
+2016,1504208,Marabá,262085,28.999 - Demais Subfunções Encargos Especiais,1155199.64
+2017,1500800,Ananindeua,510834,TOTAL (exceto intra),587829753.25
+2017,1500800,Ananindeua,510834,01 - Legislativa,13799573.9
+2017,1500800,Ananindeua,510834,01.031 - Ação Legislativa,49141.0
+2017,1500800,Ananindeua,510834,01.122 - Administração Geral,13750432.9
+2017,1500800,Ananindeua,510834,03 - Essencial à Justiça,2288208.5
+2017,1500800,Ananindeua,510834,03.122 - Administração Geral,2288208.5
+2017,1500800,Ananindeua,510834,04 - Administração,43049328.88
+2017,1500800,Ananindeua,510834,04.121 - Planejamento e Orçamento,2049238.93
+2017,1500800,Ananindeua,510834,04.122 - Administração Geral,39785070.92
+2017,1500800,Ananindeua,510834,04.131 - Comunicação Social,1215019.03
+2017,1500800,Ananindeua,510834,06 - Segurança Pública,7988948.96
+2017,1500800,Ananindeua,510834,06.181 - Policiamento,7988948.96
+2017,1500800,Ananindeua,510834,08 - Assistência Social,20458018.36
+2017,1500800,Ananindeua,510834,08.243 - Assistência à Criança e ao Adolescente,180314.7
+2017,1500800,Ananindeua,510834,08.244 - Assistência Comunitária,7054974.59
+2017,1500800,Ananindeua,510834,08.122 - Administração Geral,13214239.94
+2017,1500800,Ananindeua,510834,FU08 - Demais Subfunções,8489.13
+2017,1500800,Ananindeua,510834,09 - Previdência Social,29386711.61
+2017,1500800,Ananindeua,510834,09.271 - Previdência Básica,27874582.24
+2017,1500800,Ananindeua,510834,09.122 - Administração Geral,1512129.37
+2017,1500800,Ananindeua,510834,10 - Saúde,205821998.03
+2017,1500800,Ananindeua,510834,10.301 - Atenção Básica,53590790.96
+2017,1500800,Ananindeua,510834,10.302 - Assistência Hospitalar e Ambulatorial,108188056.45
+2017,1500800,Ananindeua,510834,10.303 - Suporte Profilático e Terapêutico,4213700.61
+2017,1500800,Ananindeua,510834,10.304 - Vigilância Sanitária,99096.66
+2017,1500800,Ananindeua,510834,10.305 - Vigilância Epidemiológica,8384556.91
+2017,1500800,Ananindeua,510834,10.306 - Alimentação e Nutrição,2187.5
+2017,1500800,Ananindeua,510834,10.122 - Administração Geral,29616611.09
+2017,1500800,Ananindeua,510834,FU10 - Demais Subfunções,1726997.85
+2017,1500800,Ananindeua,510834,12 - Educação,141867291.65
+2017,1500800,Ananindeua,510834,12.361 - Ensino Fundamental,118420427.06
+2017,1500800,Ananindeua,510834,12.365 - Educação Infantil,1122648.71
+2017,1500800,Ananindeua,510834,12.366 - Educação de Jovens e Adultos,313351.9
+2017,1500800,Ananindeua,510834,12.122 - Administração Geral,22010863.98
+2017,1500800,Ananindeua,510834,13 - Cultura,1230072.0
+2017,1500800,Ananindeua,510834,13.392 - Difusão Cultural,1230072.0
+2017,1500800,Ananindeua,510834,15 - Urbanismo,41840339.89
+2017,1500800,Ananindeua,510834,15.451 - Infraestrutura Urbana,41840339.89
+2017,1500800,Ananindeua,510834,16 - Habitação,1320082.29
+2017,1500800,Ananindeua,510834,16.482 - Habitação Urbana,1320082.29
+2017,1500800,Ananindeua,510834,17 - Saneamento,58622092.65
+2017,1500800,Ananindeua,510834,17.512 - Saneamento Básico Urbano,53489515.61
+2017,1500800,Ananindeua,510834,17.122 - Administração Geral,5132577.04
+2017,1500800,Ananindeua,510834,18 - Gestão Ambiental,2020180.16
+2017,1500800,Ananindeua,510834,18.541 - Preservação e Conservação Ambiental,26469.74
+2017,1500800,Ananindeua,510834,18.122 - Administração Geral,1993710.42
+2017,1500800,Ananindeua,510834,19 - Ciência e Tecnologia,840075.99
+2017,1500800,Ananindeua,510834,19.122 - Administração Geral,520075.99
+2017,1500800,Ananindeua,510834,FU19 - Demais Subfunções,320000.0
+2017,1500800,Ananindeua,510834,20 - Agricultura,538848.22
+2017,1500800,Ananindeua,510834,20.122 - Administração Geral,538848.22
+2017,1500800,Ananindeua,510834,27 - Desporto e Lazer,32007.36
+2017,1500800,Ananindeua,510834,27.811 - Desporto de Rendimento,32007.36
+2017,1500800,Ananindeua,510834,28 - Encargos Especiais,16725974.8
+2017,1500800,Ananindeua,510834,28.843 - Serviço da Dívida Interna,15704737.14
+2017,1500800,Ananindeua,510834,28.846 - Outros Encargos Especiais,1021237.66
+2017,1504208,Marabá,266932,TOTAL (exceto intra),592642893.99
+2017,1504208,Marabá,266932,01 - Legislativa,20850753.81
+2017,1504208,Marabá,266932,01.031 - Ação Legislativa,20850753.81
+2017,1504208,Marabá,266932,04 - Administração,28202653.67
+2017,1504208,Marabá,266932,04.121 - Planejamento e Orçamento,1375054.74
+2017,1504208,Marabá,266932,04.122 - Administração Geral,12607780.98
+2017,1504208,Marabá,266932,04.123 - Administração Financeira,2168521.64
+2017,1504208,Marabá,266932,04.124 - Controle Interno,1011468.21
+2017,1504208,Marabá,266932,04.127 - Ordenamento Territorial,16238.0
+2017,1504208,Marabá,266932,04.128 - Formação de Recursos Humanos,1396859.27
+2017,1504208,Marabá,266932,04.129 - Administração de Receitas,4853481.8
+2017,1504208,Marabá,266932,04.131 - Comunicação Social,892848.61
+2017,1504208,Marabá,266932,FU04 - Demais Subfunções,3880400.42
+2017,1504208,Marabá,266932,06 - Segurança Pública,10130804.78
+2017,1504208,Marabá,266932,06.181 - Policiamento,4212324.83
+2017,1504208,Marabá,266932,06.122 - Administração Geral,5918479.95
+2017,1504208,Marabá,266932,08 - Assistência Social,10652074.73
+2017,1504208,Marabá,266932,08.241 - Assistência ao Idoso,380.0
+2017,1504208,Marabá,266932,08.242 - Assistência ao Portador de Deficiência,5500.0
+2017,1504208,Marabá,266932,08.243 - Assistência à Criança e ao Adolescente,459107.29
+2017,1504208,Marabá,266932,08.244 - Assistência Comunitária,1868606.3
+2017,1504208,Marabá,266932,08.122 - Administração Geral,8318481.14
+2017,1504208,Marabá,266932,09 - Previdência Social,26930572.54
+2017,1504208,Marabá,266932,09.272 - Previdência do Regime Estatutário,25353481.57
+2017,1504208,Marabá,266932,09.122 - Administração Geral,1577090.97
+2017,1504208,Marabá,266932,10 - Saúde,157756125.26
+2017,1504208,Marabá,266932,10.301 - Atenção Básica,49477446.76
+2017,1504208,Marabá,266932,10.302 - Assistência Hospitalar e Ambulatorial,73622011.93
+2017,1504208,Marabá,266932,10.303 - Suporte Profilático e Terapêutico,2758322.57
+2017,1504208,Marabá,266932,10.304 - Vigilância Sanitária,1978530.5
+2017,1504208,Marabá,266932,10.305 - Vigilância Epidemiológica,4135902.63
+2017,1504208,Marabá,266932,10.122 - Administração Geral,25210723.65
+2017,1504208,Marabá,266932,FU10 - Demais Subfunções,573187.22
+2017,1504208,Marabá,266932,11 - Trabalho,320644.73
+2017,1504208,Marabá,266932,11.122 - Administração Geral,169526.42
+2017,1504208,Marabá,266932,FU11 - Demais Subfunções,151118.31
+2017,1504208,Marabá,266932,12 - Educação,220162801.05
+2017,1504208,Marabá,266932,12.361 - Ensino Fundamental,161065103.95
+2017,1504208,Marabá,266932,12.365 - Educação Infantil,28671065.87
+2017,1504208,Marabá,266932,12.366 - Educação de Jovens e Adultos,4659750.85
+2017,1504208,Marabá,266932,12.367 - Educação Especial,3548.97
+2017,1504208,Marabá,266932,12.368 - Educação Básica,18309.64
+2017,1504208,Marabá,266932,12.122 - Administração Geral,19851045.55
+2017,1504208,Marabá,266932,FU12 - Demais Subfunções,5893976.22
+2017,1504208,Marabá,266932,13 - Cultura,5986178.59
+2017,1504208,Marabá,266932,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",306330.13
+2017,1504208,Marabá,266932,13.392 - Difusão Cultural,1610692.72
+2017,1504208,Marabá,266932,13.122 - Administração Geral,4069155.74
+2017,1504208,Marabá,266932,14 - Direitos da Cidadania,1007458.88
+2017,1504208,Marabá,266932,FU14 - Demais Subfunções,1007458.88
+2017,1504208,Marabá,266932,15 - Urbanismo,62854146.43
+2017,1504208,Marabá,266932,15.451 - Infraestrutura Urbana,13474313.08
+2017,1504208,Marabá,266932,15.452 - Serviços Urbanos,1337181.47
+2017,1504208,Marabá,266932,15.122 - Administração Geral,20807131.04
+2017,1504208,Marabá,266932,FU15 - Demais Subfunções,27235520.84
+2017,1504208,Marabá,266932,16 - Habitação,2347959.52
+2017,1504208,Marabá,266932,16.122 - Administração Geral,2347959.52
+2017,1504208,Marabá,266932,17 - Saneamento,127346.18
+2017,1504208,Marabá,266932,17.512 - Saneamento Básico Urbano,127346.18
+2017,1504208,Marabá,266932,18 - Gestão Ambiental,2275772.0
+2017,1504208,Marabá,266932,18.541 - Preservação e Conservação Ambiental,229367.05
+2017,1504208,Marabá,266932,18.122 - Administração Geral,1905209.71
+2017,1504208,Marabá,266932,FU18 - Demais Subfunções,141195.24
+2017,1504208,Marabá,266932,20 - Agricultura,2335101.72
+2017,1504208,Marabá,266932,20.122 - Administração Geral,2335101.72
+2017,1504208,Marabá,266932,22 - Indústria,556710.57
+2017,1504208,Marabá,266932,22.122 - Administração Geral,556710.57
+2017,1504208,Marabá,266932,23 - Comércio e Serviços,33793.35
+2017,1504208,Marabá,266932,23.695 - Turismo,33793.35
+2017,1504208,Marabá,266932,25 - Energia,15533864.74
+2017,1504208,Marabá,266932,25.752 - Energia Elétrica,15533864.74
+2017,1504208,Marabá,266932,26 - Transporte,8528645.67
+2017,1504208,Marabá,266932,26.782 - Transporte Rodoviário,158000.0
+2017,1504208,Marabá,266932,FU26 - Demais Subfunções,8370645.67
+2017,1504208,Marabá,266932,27 - Desporto e Lazer,2047098.94
+2017,1504208,Marabá,266932,27.811 - Desporto de Rendimento,292239.46
+2017,1504208,Marabá,266932,27.812 - Desporto Comunitário,599732.45
+2017,1504208,Marabá,266932,27.813 - Lazer,131338.5
+2017,1504208,Marabá,266932,27.122 - Administração Geral,1023788.53
+2017,1504208,Marabá,266932,28 - Encargos Especiais,14002386.83
+2017,1504208,Marabá,266932,28.843 - Serviço da Dívida Interna,6450629.78
+2017,1504208,Marabá,266932,28.846 - Outros Encargos Especiais,6056464.06
+2017,1504208,Marabá,266932,FU28 - Demais Subfunções,1495292.99
+2018,1504208,Marabá,266932,TOTAL (exceto intra),748405657.73
+2018,1504208,Marabá,266932,01 - Legislativa,23313974.76
+2018,1504208,Marabá,266932,01.031 - Ação Legislativa,23313974.76
+2018,1504208,Marabá,266932,04 - Administração,35986681.57
+2018,1504208,Marabá,266932,04.121 - Planejamento e Orçamento,1241427.91
+2018,1504208,Marabá,266932,04.122 - Administração Geral,21735181.93
+2018,1504208,Marabá,266932,04.123 - Administração Financeira,5119893.49
+2018,1504208,Marabá,266932,04.124 - Controle Interno,1406226.37
+2018,1504208,Marabá,266932,04.131 - Comunicação Social,507800.02
+2018,1504208,Marabá,266932,FU04 - Demais Subfunções,5976151.85
+2018,1504208,Marabá,266932,06 - Segurança Pública,14670665.96
+2018,1504208,Marabá,266932,06.181 - Policiamento,4987349.09
+2018,1504208,Marabá,266932,06.122 - Administração Geral,8537727.85
+2018,1504208,Marabá,266932,FU06 - Demais Subfunções,1145589.02
+2018,1504208,Marabá,266932,08 - Assistência Social,15431033.6
+2018,1504208,Marabá,266932,08.243 - Assistência à Criança e ao Adolescente,196404.4
+2018,1504208,Marabá,266932,08.244 - Assistência Comunitária,15230593.33
+2018,1504208,Marabá,266932,FU08 - Demais Subfunções,4035.87
+2018,1504208,Marabá,266932,09 - Previdência Social,35355774.82
+2018,1504208,Marabá,266932,09.272 - Previdência do Regime Estatutário,35355774.82
+2018,1504208,Marabá,266932,10 - Saúde,196914232.65
+2018,1504208,Marabá,266932,10.301 - Atenção Básica,44701145.87
+2018,1504208,Marabá,266932,10.302 - Assistência Hospitalar e Ambulatorial,98849317.42
+2018,1504208,Marabá,266932,10.304 - Vigilância Sanitária,2307819.89
+2018,1504208,Marabá,266932,10.305 - Vigilância Epidemiológica,5039617.89
+2018,1504208,Marabá,266932,10.122 - Administração Geral,45350038.28
+2018,1504208,Marabá,266932,FU10 - Demais Subfunções,666293.3
+2018,1504208,Marabá,266932,11 - Trabalho,842116.4
+2018,1504208,Marabá,266932,11.122 - Administração Geral,282025.06
+2018,1504208,Marabá,266932,FU11 - Demais Subfunções,560091.34
+2018,1504208,Marabá,266932,12 - Educação,254372206.96
+2018,1504208,Marabá,266932,12.361 - Ensino Fundamental,175996925.22
+2018,1504208,Marabá,266932,12.363 - Ensino Profissional,6384.9
+2018,1504208,Marabá,266932,12.365 - Educação Infantil,36638399.02
+2018,1504208,Marabá,266932,12.366 - Educação de Jovens e Adultos,7186129.88
+2018,1504208,Marabá,266932,12.122 - Administração Geral,27651126.1
+2018,1504208,Marabá,266932,FU12 - Demais Subfunções,6893241.84
+2018,1504208,Marabá,266932,13 - Cultura,11885403.75
+2018,1504208,Marabá,266932,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",972088.3
+2018,1504208,Marabá,266932,13.392 - Difusão Cultural,9429582.82
+2018,1504208,Marabá,266932,13.122 - Administração Geral,1136283.89
+2018,1504208,Marabá,266932,FU13 - Demais Subfunções,347448.74
+2018,1504208,Marabá,266932,15 - Urbanismo,111027907.4
+2018,1504208,Marabá,266932,15.451 - Infraestrutura Urbana,21581081.0
+2018,1504208,Marabá,266932,15.452 - Serviços Urbanos,53415286.19
+2018,1504208,Marabá,266932,15.122 - Administração Geral,34985949.82
+2018,1504208,Marabá,266932,FU15 - Demais Subfunções,1045590.39
+2018,1504208,Marabá,266932,16 - Habitação,13393.43
+2018,1504208,Marabá,266932,FU16 - Demais Subfunções,13393.43
+2018,1504208,Marabá,266932,17 - Saneamento,25465.85
+2018,1504208,Marabá,266932,17.512 - Saneamento Básico Urbano,25465.85
+2018,1504208,Marabá,266932,18 - Gestão Ambiental,3412087.12
+2018,1504208,Marabá,266932,18.541 - Preservação e Conservação Ambiental,597452.56
+2018,1504208,Marabá,266932,18.122 - Administração Geral,2814634.56
+2018,1504208,Marabá,266932,20 - Agricultura,3724492.88
+2018,1504208,Marabá,266932,20.606 - Extensão Rural,447654.97
+2018,1504208,Marabá,266932,20.608 - Promoção da Produção Agropecuária,27788.0
+2018,1504208,Marabá,266932,20.122 - Administração Geral,3189459.91
+2018,1504208,Marabá,266932,FU20 - Demais Subfunções,59590.0
+2018,1504208,Marabá,266932,22 - Indústria,610619.98
+2018,1504208,Marabá,266932,22.122 - Administração Geral,610619.98
+2018,1504208,Marabá,266932,23 - Comércio e Serviços,70849.89
+2018,1504208,Marabá,266932,23.695 - Turismo,70849.89
+2018,1504208,Marabá,266932,24 - Comunicações,1044130.01
+2018,1504208,Marabá,266932,24.122 - Administração Geral,1044130.01
+2018,1504208,Marabá,266932,26 - Transporte,17232582.06
+2018,1504208,Marabá,266932,FU26 - Demais Subfunções,17232582.06
+2018,1504208,Marabá,266932,27 - Desporto e Lazer,2271131.85
+2018,1504208,Marabá,266932,27.812 - Desporto Comunitário,561387.19
+2018,1504208,Marabá,266932,27.813 - Lazer,137205.5
+2018,1504208,Marabá,266932,27.122 - Administração Geral,1367688.23
+2018,1504208,Marabá,266932,FU27 - Demais Subfunções,204850.93
+2018,1504208,Marabá,266932,28 - Encargos Especiais,20200906.79
+2018,1504208,Marabá,266932,FU28 - Demais Subfunções,20200906.79
+2018,1500800,Ananindeua,510834,TOTAL (exceto intra),660959522.6
+2018,1500800,Ananindeua,510834,01 - Legislativa,14944831.01
+2018,1500800,Ananindeua,510834,01.031 - Ação Legislativa,355076.9
+2018,1500800,Ananindeua,510834,01.122 - Administração Geral,14589754.11
+2018,1500800,Ananindeua,510834,03 - Essencial à Justiça,2369083.7
+2018,1500800,Ananindeua,510834,03.122 - Administração Geral,2369083.7
+2018,1500800,Ananindeua,510834,04 - Administração,43589337.79
+2018,1500800,Ananindeua,510834,04.121 - Planejamento e Orçamento,1960406.44
+2018,1500800,Ananindeua,510834,04.122 - Administração Geral,40732934.65
+2018,1500800,Ananindeua,510834,04.131 - Comunicação Social,895996.7
+2018,1500800,Ananindeua,510834,06 - Segurança Pública,9489679.74
+2018,1500800,Ananindeua,510834,06.181 - Policiamento,9330479.74
+2018,1500800,Ananindeua,510834,FU06 - Demais Subfunções,159200.0
+2018,1500800,Ananindeua,510834,08 - Assistência Social,21018171.17
+2018,1500800,Ananindeua,510834,08.243 - Assistência à Criança e ao Adolescente,45502.4
+2018,1500800,Ananindeua,510834,08.244 - Assistência Comunitária,8378675.5
+2018,1500800,Ananindeua,510834,08.122 - Administração Geral,12534025.49
+2018,1500800,Ananindeua,510834,FU08 - Demais Subfunções,59967.78
+2018,1500800,Ananindeua,510834,09 - Previdência Social,34680102.08
+2018,1500800,Ananindeua,510834,09.271 - Previdência Básica,32802500.32
+2018,1500800,Ananindeua,510834,09.122 - Administração Geral,1877601.76
+2018,1500800,Ananindeua,510834,10 - Saúde,220629186.74
+2018,1500800,Ananindeua,510834,10.301 - Atenção Básica,56785557.51
+2018,1500800,Ananindeua,510834,10.302 - Assistência Hospitalar e Ambulatorial,113552181.15
+2018,1500800,Ananindeua,510834,10.303 - Suporte Profilático e Terapêutico,5877297.39
+2018,1500800,Ananindeua,510834,10.304 - Vigilância Sanitária,117670.5
+2018,1500800,Ananindeua,510834,10.305 - Vigilância Epidemiológica,9428203.46
+2018,1500800,Ananindeua,510834,10.306 - Alimentação e Nutrição,113336.15
+2018,1500800,Ananindeua,510834,10.122 - Administração Geral,32757307.31
+2018,1500800,Ananindeua,510834,FU10 - Demais Subfunções,1997633.27
+2018,1500800,Ananindeua,510834,12 - Educação,162529481.01
+2018,1500800,Ananindeua,510834,12.361 - Ensino Fundamental,140782829.26
+2018,1500800,Ananindeua,510834,12.365 - Educação Infantil,1549398.25
+2018,1500800,Ananindeua,510834,12.366 - Educação de Jovens e Adultos,305969.89
+2018,1500800,Ananindeua,510834,12.122 - Administração Geral,19891283.61
+2018,1500800,Ananindeua,510834,13 - Cultura,1926108.0
+2018,1500800,Ananindeua,510834,13.392 - Difusão Cultural,1926108.0
+2018,1500800,Ananindeua,510834,15 - Urbanismo,69638322.93
+2018,1500800,Ananindeua,510834,15.451 - Infraestrutura Urbana,69638322.93
+2018,1500800,Ananindeua,510834,17 - Saneamento,61111968.26
+2018,1500800,Ananindeua,510834,17.512 - Saneamento Básico Urbano,53593795.06
+2018,1500800,Ananindeua,510834,17.122 - Administração Geral,7518173.2
+2018,1500800,Ananindeua,510834,18 - Gestão Ambiental,2111229.76
+2018,1500800,Ananindeua,510834,18.541 - Preservação e Conservação Ambiental,3232.38
+2018,1500800,Ananindeua,510834,18.122 - Administração Geral,2107997.38
+2018,1500800,Ananindeua,510834,19 - Ciência e Tecnologia,1027352.58
+2018,1500800,Ananindeua,510834,19.122 - Administração Geral,579452.58
+2018,1500800,Ananindeua,510834,FU19 - Demais Subfunções,447900.0
+2018,1500800,Ananindeua,510834,20 - Agricultura,646651.57
+2018,1500800,Ananindeua,510834,20.122 - Administração Geral,646651.57
+2018,1500800,Ananindeua,510834,27 - Desporto e Lazer,154486.9
+2018,1500800,Ananindeua,510834,27.811 - Desporto de Rendimento,154486.9
+2018,1500800,Ananindeua,510834,28 - Encargos Especiais,15093529.36
+2018,1500800,Ananindeua,510834,28.843 - Serviço da Dívida Interna,14899415.07
+2018,1500800,Ananindeua,510834,28.846 - Outros Encargos Especiais,194114.29
+2019,1500800,Ananindeua,525566,TOTAL (exceto intra),697366133.87
+2019,1500800,Ananindeua,525566,01 - Legislativa,16706375.04
+2019,1500800,Ananindeua,525566,01.031 - Ação Legislativa,327466.87
+2019,1500800,Ananindeua,525566,01.122 - Administração Geral,16378908.17
+2019,1500800,Ananindeua,525566,03 - Essencial à Justiça,2374954.23
+2019,1500800,Ananindeua,525566,03.122 - Administração Geral,2374954.23
+2019,1500800,Ananindeua,525566,04 - Administração,47928831.24
+2019,1500800,Ananindeua,525566,04.121 - Planejamento e Orçamento,2006831.76
+2019,1500800,Ananindeua,525566,04.122 - Administração Geral,43630003.64
+2019,1500800,Ananindeua,525566,04.131 - Comunicação Social,2291995.84
+2019,1500800,Ananindeua,525566,06 - Segurança Pública,10451082.74
+2019,1500800,Ananindeua,525566,06.181 - Policiamento,10431082.74
+2019,1500800,Ananindeua,525566,FU06 - Demais Subfunções,20000.0
+2019,1500800,Ananindeua,525566,08 - Assistência Social,20326153.46
+2019,1500800,Ananindeua,525566,08.244 - Assistência Comunitária,6764312.99
+2019,1500800,Ananindeua,525566,08.122 - Administração Geral,13226808.55
+2019,1500800,Ananindeua,525566,FU08 - Demais Subfunções,335031.92
+2019,1500800,Ananindeua,525566,09 - Previdência Social,37633495.84
+2019,1500800,Ananindeua,525566,09.271 - Previdência Básica,35511298.59
+2019,1500800,Ananindeua,525566,09.122 - Administração Geral,2122197.25
+2019,1500800,Ananindeua,525566,10 - Saúde,244775608.99
+2019,1500800,Ananindeua,525566,10.301 - Atenção Básica,60400775.3
+2019,1500800,Ananindeua,525566,10.302 - Assistência Hospitalar e Ambulatorial,131687291.17
+2019,1500800,Ananindeua,525566,10.303 - Suporte Profilático e Terapêutico,2083114.81
+2019,1500800,Ananindeua,525566,10.304 - Vigilância Sanitária,129756.44
+2019,1500800,Ananindeua,525566,10.305 - Vigilância Epidemiológica,8398739.25
+2019,1500800,Ananindeua,525566,10.122 - Administração Geral,41241033.99
+2019,1500800,Ananindeua,525566,FU10 - Demais Subfunções,834898.03
+2019,1500800,Ananindeua,525566,12 - Educação,175007838.39
+2019,1500800,Ananindeua,525566,12.361 - Ensino Fundamental,148976022.65
+2019,1500800,Ananindeua,525566,12.365 - Educação Infantil,1861783.53
+2019,1500800,Ananindeua,525566,12.366 - Educação de Jovens e Adultos,383338.31
+2019,1500800,Ananindeua,525566,12.122 - Administração Geral,23786693.9
+2019,1500800,Ananindeua,525566,13 - Cultura,1725290.68
+2019,1500800,Ananindeua,525566,13.392 - Difusão Cultural,1725290.68
+2019,1500800,Ananindeua,525566,15 - Urbanismo,56011964.13
+2019,1500800,Ananindeua,525566,15.451 - Infraestrutura Urbana,56011964.13
+2019,1500800,Ananindeua,525566,16 - Habitação,2853802.61
+2019,1500800,Ananindeua,525566,16.482 - Habitação Urbana,2853802.61
+2019,1500800,Ananindeua,525566,17 - Saneamento,59989398.95
+2019,1500800,Ananindeua,525566,17.512 - Saneamento Básico Urbano,51717073.63
+2019,1500800,Ananindeua,525566,17.122 - Administração Geral,8272325.32
+2019,1500800,Ananindeua,525566,18 - Gestão Ambiental,2138473.8
+2019,1500800,Ananindeua,525566,18.541 - Preservação e Conservação Ambiental,27004.31
+2019,1500800,Ananindeua,525566,18.122 - Administração Geral,2111469.49
+2019,1500800,Ananindeua,525566,19 - Ciência e Tecnologia,915324.01
+2019,1500800,Ananindeua,525566,19.122 - Administração Geral,821434.01
+2019,1500800,Ananindeua,525566,FU19 - Demais Subfunções,93890.0
+2019,1500800,Ananindeua,525566,20 - Agricultura,891734.74
+2019,1500800,Ananindeua,525566,20.122 - Administração Geral,891734.74
+2019,1500800,Ananindeua,525566,27 - Desporto e Lazer,45955.0
+2019,1500800,Ananindeua,525566,27.811 - Desporto de Rendimento,45955.0
+2019,1500800,Ananindeua,525566,28 - Encargos Especiais,17589850.02
+2019,1500800,Ananindeua,525566,28.843 - Serviço da Dívida Interna,15913504.17
+2019,1500800,Ananindeua,525566,28.846 - Outros Encargos Especiais,1676345.85
+2019,1504208,Marabá,275086,TOTAL (exceto intra),821914946.4
+2019,1504208,Marabá,275086,01 - Legislativa,24325920.7
+2019,1504208,Marabá,275086,01.031 - Ação Legislativa,24325920.7
+2019,1504208,Marabá,275086,04 - Administração,39652791.77
+2019,1504208,Marabá,275086,04.121 - Planejamento e Orçamento,1431293.13
+2019,1504208,Marabá,275086,04.122 - Administração Geral,30612070.77
+2019,1504208,Marabá,275086,04.123 - Administração Financeira,1246039.21
+2019,1504208,Marabá,275086,04.124 - Controle Interno,1401022.39
+2019,1504208,Marabá,275086,04.131 - Comunicação Social,704762.59
+2019,1504208,Marabá,275086,FU04 - Demais Subfunções,4257603.68
+2019,1504208,Marabá,275086,06 - Segurança Pública,16246372.8
+2019,1504208,Marabá,275086,06.181 - Policiamento,4823287.1
+2019,1504208,Marabá,275086,06.122 - Administração Geral,9126210.22
+2019,1504208,Marabá,275086,FU06 - Demais Subfunções,2296875.48
+2019,1504208,Marabá,275086,08 - Assistência Social,15575401.02
+2019,1504208,Marabá,275086,08.242 - Assistência ao Portador de Deficiência,20000.0
+2019,1504208,Marabá,275086,08.243 - Assistência à Criança e ao Adolescente,9668.0
+2019,1504208,Marabá,275086,08.244 - Assistência Comunitária,15545733.02
+2019,1504208,Marabá,275086,09 - Previdência Social,41896658.82
+2019,1504208,Marabá,275086,09.272 - Previdência do Regime Estatutário,41896658.82
+2019,1504208,Marabá,275086,10 - Saúde,191974465.07
+2019,1504208,Marabá,275086,10.301 - Atenção Básica,44057261.99
+2019,1504208,Marabá,275086,10.302 - Assistência Hospitalar e Ambulatorial,103244939.4
+2019,1504208,Marabá,275086,10.304 - Vigilância Sanitária,2391456.36
+2019,1504208,Marabá,275086,10.305 - Vigilância Epidemiológica,5131812.79
+2019,1504208,Marabá,275086,10.122 - Administração Geral,36415719.94
+2019,1504208,Marabá,275086,FU10 - Demais Subfunções,733274.59
+2019,1504208,Marabá,275086,11 - Trabalho,820217.77
+2019,1504208,Marabá,275086,11.122 - Administração Geral,278903.98
+2019,1504208,Marabá,275086,FU11 - Demais Subfunções,541313.79
+2019,1504208,Marabá,275086,12 - Educação,273726773.83
+2019,1504208,Marabá,275086,12.361 - Ensino Fundamental,191565630.93
+2019,1504208,Marabá,275086,12.363 - Ensino Profissional,5000.0
+2019,1504208,Marabá,275086,12.365 - Educação Infantil,38553817.46
+2019,1504208,Marabá,275086,12.366 - Educação de Jovens e Adultos,8059065.02
+2019,1504208,Marabá,275086,12.122 - Administração Geral,26394570.87
+2019,1504208,Marabá,275086,FU12 - Demais Subfunções,9148689.55
+2019,1504208,Marabá,275086,13 - Cultura,13904500.79
+2019,1504208,Marabá,275086,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",1387378.9
+2019,1504208,Marabá,275086,13.392 - Difusão Cultural,11265794.87
+2019,1504208,Marabá,275086,13.122 - Administração Geral,1053844.02
+2019,1504208,Marabá,275086,FU13 - Demais Subfunções,197483.0
+2019,1504208,Marabá,275086,14 - Direitos da Cidadania,125000.0
+2019,1504208,Marabá,275086,FU14 - Demais Subfunções,125000.0
+2019,1504208,Marabá,275086,15 - Urbanismo,141420973.48
+2019,1504208,Marabá,275086,15.451 - Infraestrutura Urbana,42197276.43
+2019,1504208,Marabá,275086,15.452 - Serviços Urbanos,57592382.01
+2019,1504208,Marabá,275086,15.122 - Administração Geral,36935102.76
+2019,1504208,Marabá,275086,FU15 - Demais Subfunções,4696212.28
+2019,1504208,Marabá,275086,17 - Saneamento,968842.58
+2019,1504208,Marabá,275086,17.512 - Saneamento Básico Urbano,968842.58
+2019,1504208,Marabá,275086,18 - Gestão Ambiental,3870612.79
+2019,1504208,Marabá,275086,18.541 - Preservação e Conservação Ambiental,1166484.48
+2019,1504208,Marabá,275086,18.122 - Administração Geral,2704128.31
+2019,1504208,Marabá,275086,20 - Agricultura,6131464.92
+2019,1504208,Marabá,275086,20.606 - Extensão Rural,1189405.29
+2019,1504208,Marabá,275086,20.608 - Promoção da Produção Agropecuária,464891.41
+2019,1504208,Marabá,275086,20.122 - Administração Geral,4232962.47
+2019,1504208,Marabá,275086,FU20 - Demais Subfunções,244205.75
+2019,1504208,Marabá,275086,22 - Indústria,729358.43
+2019,1504208,Marabá,275086,22.122 - Administração Geral,729358.43
+2019,1504208,Marabá,275086,23 - Comércio e Serviços,60007.98
+2019,1504208,Marabá,275086,23.695 - Turismo,60007.98
+2019,1504208,Marabá,275086,24 - Comunicações,4350642.5
+2019,1504208,Marabá,275086,24.122 - Administração Geral,4350642.5
+2019,1504208,Marabá,275086,26 - Transporte,24591299.83
+2019,1504208,Marabá,275086,26.782 - Transporte Rodoviário,107900.0
+2019,1504208,Marabá,275086,FU26 - Demais Subfunções,24483399.83
+2019,1504208,Marabá,275086,27 - Desporto e Lazer,3194304.91
+2019,1504208,Marabá,275086,27.812 - Desporto Comunitário,954335.35
+2019,1504208,Marabá,275086,27.813 - Lazer,562764.22
+2019,1504208,Marabá,275086,27.122 - Administração Geral,1441140.53
+2019,1504208,Marabá,275086,FU27 - Demais Subfunções,236064.81
+2019,1504208,Marabá,275086,28 - Encargos Especiais,18349336.41
+2019,1504208,Marabá,275086,FU28 - Demais Subfunções,18349336.41
+2020,1500800,Ananindeua,530598,TOTAL (exceto intra),860489973.55
+2020,1500800,Ananindeua,530598,01 - Legislativa,17276867.25
+2020,1500800,Ananindeua,530598,01.031 - Ação Legislativa,559482.59
+2020,1500800,Ananindeua,530598,01.122 - Administração Geral,16717384.66
+2020,1500800,Ananindeua,530598,03 - Essencial à Justiça,2325269.54
+2020,1500800,Ananindeua,530598,03.122 - Administração Geral,2325269.54
+2020,1500800,Ananindeua,530598,04 - Administração,52946581.12
+2020,1500800,Ananindeua,530598,04.121 - Planejamento e Orçamento,2119130.19
+2020,1500800,Ananindeua,530598,04.122 - Administração Geral,48465147.9
+2020,1500800,Ananindeua,530598,04.131 - Comunicação Social,2362303.03
+2020,1500800,Ananindeua,530598,06 - Segurança Pública,12118327.6
+2020,1500800,Ananindeua,530598,06.181 - Policiamento,12004577.6
+2020,1500800,Ananindeua,530598,FU06 - Demais Subfunções,113750.0
+2020,1500800,Ananindeua,530598,08 - Assistência Social,27126295.87
+2020,1500800,Ananindeua,530598,08.244 - Assistência Comunitária,11371407.92
+2020,1500800,Ananindeua,530598,08.122 - Administração Geral,15549960.27
+2020,1500800,Ananindeua,530598,FU08 - Demais Subfunções,204927.68
+2020,1500800,Ananindeua,530598,09 - Previdência Social,40152835.46
+2020,1500800,Ananindeua,530598,09.271 - Previdência Básica,37445386.17
+2020,1500800,Ananindeua,530598,09.122 - Administração Geral,2707449.29
+2020,1500800,Ananindeua,530598,10 - Saúde,317844581.4
+2020,1500800,Ananindeua,530598,10.301 - Atenção Básica,67639826.15
+2020,1500800,Ananindeua,530598,10.302 - Assistência Hospitalar e Ambulatorial,160183939.29
+2020,1500800,Ananindeua,530598,10.303 - Suporte Profilático e Terapêutico,1711020.16
+2020,1500800,Ananindeua,530598,10.304 - Vigilância Sanitária,122860.87
+2020,1500800,Ananindeua,530598,10.305 - Vigilância Epidemiológica,35514969.02
+2020,1500800,Ananindeua,530598,10.306 - Alimentação e Nutrição,466290.0
+2020,1500800,Ananindeua,530598,10.122 - Administração Geral,51677454.28
+2020,1500800,Ananindeua,530598,FU10 - Demais Subfunções,528221.63
+2020,1500800,Ananindeua,530598,12 - Educação,180229887.9
+2020,1500800,Ananindeua,530598,12.361 - Ensino Fundamental,6876247.67
+2020,1500800,Ananindeua,530598,12.365 - Educação Infantil,1718403.59
+2020,1500800,Ananindeua,530598,12.366 - Educação de Jovens e Adultos,122440.29
+2020,1500800,Ananindeua,530598,12.368 - Educação Básica,131097773.05
+2020,1500800,Ananindeua,530598,12.122 - Administração Geral,40415023.3
+2020,1500800,Ananindeua,530598,13 - Cultura,5480624.07
+2020,1500800,Ananindeua,530598,13.392 - Difusão Cultural,5480624.07
+2020,1500800,Ananindeua,530598,14 - Direitos da Cidadania,268551.83
+2020,1500800,Ananindeua,530598,FU14 - Demais Subfunções,268551.83
+2020,1500800,Ananindeua,530598,15 - Urbanismo,72514188.95
+2020,1500800,Ananindeua,530598,15.451 - Infraestrutura Urbana,72514188.95
+2020,1500800,Ananindeua,530598,16 - Habitação,2539434.55
+2020,1500800,Ananindeua,530598,16.482 - Habitação Urbana,2539434.55
+2020,1500800,Ananindeua,530598,17 - Saneamento,110179239.79
+2020,1500800,Ananindeua,530598,17.512 - Saneamento Básico Urbano,100850931.45
+2020,1500800,Ananindeua,530598,17.122 - Administração Geral,9328308.34
+2020,1500800,Ananindeua,530598,18 - Gestão Ambiental,2409377.21
+2020,1500800,Ananindeua,530598,18.541 - Preservação e Conservação Ambiental,160512.21
+2020,1500800,Ananindeua,530598,18.122 - Administração Geral,2248865.0
+2020,1500800,Ananindeua,530598,19 - Ciência e Tecnologia,1000436.57
+2020,1500800,Ananindeua,530598,19.122 - Administração Geral,750436.57
+2020,1500800,Ananindeua,530598,FU19 - Demais Subfunções,250000.0
+2020,1500800,Ananindeua,530598,20 - Agricultura,1017475.35
+2020,1500800,Ananindeua,530598,20.122 - Administração Geral,1017475.35
+2020,1500800,Ananindeua,530598,27 - Desporto e Lazer,60878.4
+2020,1500800,Ananindeua,530598,27.811 - Desporto de Rendimento,60878.4
+2020,1500800,Ananindeua,530598,28 - Encargos Especiais,14999120.69
+2020,1500800,Ananindeua,530598,28.843 - Serviço da Dívida Interna,6535751.7
+2020,1500800,Ananindeua,530598,28.846 - Outros Encargos Especiais,8463368.99
+2020,1504208,Marabá,279349,TOTAL (exceto intra),847260635.65
+2020,1504208,Marabá,279349,01 - Legislativa,11086602.81
+2020,1504208,Marabá,279349,01.031 - Ação Legislativa,11086602.81
+2020,1504208,Marabá,279349,02 - Judiciária,55357.79
+2020,1504208,Marabá,279349,FU02 - Demais Subfunções,55357.79
+2020,1504208,Marabá,279349,04 - Administração,70324734.85
+2020,1504208,Marabá,279349,04.121 - Planejamento e Orçamento,1346186.66
+2020,1504208,Marabá,279349,04.122 - Administração Geral,56183553.98
+2020,1504208,Marabá,279349,04.123 - Administração Financeira,1275671.96
+2020,1504208,Marabá,279349,04.124 - Controle Interno,1168124.5
+2020,1504208,Marabá,279349,04.125 - Normatização e Fiscalização,5918743.38
+2020,1504208,Marabá,279349,04.131 - Comunicação Social,612157.97
+2020,1504208,Marabá,279349,FU04 - Demais Subfunções,3820296.4
+2020,1504208,Marabá,279349,06 - Segurança Pública,16219809.0
+2020,1504208,Marabá,279349,06.181 - Policiamento,5488254.94
+2020,1504208,Marabá,279349,06.182 - Defesa Civil,515394.72
+2020,1504208,Marabá,279349,06.122 - Administração Geral,10216159.34
+2020,1504208,Marabá,279349,08 - Assistência Social,19357438.59
+2020,1504208,Marabá,279349,08.241 - Assistência ao Idoso,296446.8
+2020,1504208,Marabá,279349,08.242 - Assistência ao Portador de Deficiência,168335.0
+2020,1504208,Marabá,279349,08.243 - Assistência à Criança e ao Adolescente,1352599.74
+2020,1504208,Marabá,279349,08.244 - Assistência Comunitária,6144799.78
+2020,1504208,Marabá,279349,08.122 - Administração Geral,11395257.27
+2020,1504208,Marabá,279349,09 - Previdência Social,43822301.79
+2020,1504208,Marabá,279349,09.272 - Previdência do Regime Estatutário,43822301.79
+2020,1504208,Marabá,279349,10 - Saúde,212758993.03
+2020,1504208,Marabá,279349,10.301 - Atenção Básica,58427084.79
+2020,1504208,Marabá,279349,10.302 - Assistência Hospitalar e Ambulatorial,110738783.3
+2020,1504208,Marabá,279349,10.304 - Vigilância Sanitária,3146752.45
+2020,1504208,Marabá,279349,10.305 - Vigilância Epidemiológica,4879515.48
+2020,1504208,Marabá,279349,10.122 - Administração Geral,34976698.06
+2020,1504208,Marabá,279349,FU10 - Demais Subfunções,590158.95
+2020,1504208,Marabá,279349,11 - Trabalho,1049452.08
+2020,1504208,Marabá,279349,11.333 - Empregabilidade,352020.16
+2020,1504208,Marabá,279349,FU11 - Demais Subfunções,697431.92
+2020,1504208,Marabá,279349,12 - Educação,256409210.48
+2020,1504208,Marabá,279349,12.361 - Ensino Fundamental,185888416.76
+2020,1504208,Marabá,279349,12.365 - Educação Infantil,35047028.91
+2020,1504208,Marabá,279349,12.366 - Educação de Jovens e Adultos,8591313.91
+2020,1504208,Marabá,279349,12.122 - Administração Geral,22235830.18
+2020,1504208,Marabá,279349,FU12 - Demais Subfunções,4646620.72
+2020,1504208,Marabá,279349,13 - Cultura,13251570.89
+2020,1504208,Marabá,279349,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",2450553.65
+2020,1504208,Marabá,279349,13.392 - Difusão Cultural,9901945.66
+2020,1504208,Marabá,279349,13.122 - Administração Geral,899071.58
+2020,1504208,Marabá,279349,15 - Urbanismo,127865663.03
+2020,1504208,Marabá,279349,15.451 - Infraestrutura Urbana,77325905.52
+2020,1504208,Marabá,279349,15.452 - Serviços Urbanos,48404770.6
+2020,1504208,Marabá,279349,FU15 - Demais Subfunções,2134986.91
+2020,1504208,Marabá,279349,16 - Habitação,5481216.03
+2020,1504208,Marabá,279349,16.122 - Administração Geral,5129801.43
+2020,1504208,Marabá,279349,FU16 - Demais Subfunções,351414.6
+2020,1504208,Marabá,279349,17 - Saneamento,408545.39
+2020,1504208,Marabá,279349,17.512 - Saneamento Básico Urbano,408545.39
+2020,1504208,Marabá,279349,18 - Gestão Ambiental,3142953.5
+2020,1504208,Marabá,279349,18.541 - Preservação e Conservação Ambiental,288433.52
+2020,1504208,Marabá,279349,18.122 - Administração Geral,2854519.98
+2020,1504208,Marabá,279349,19 - Ciência e Tecnologia,55121.79
+2020,1504208,Marabá,279349,FU19 - Demais Subfunções,55121.79
+2020,1504208,Marabá,279349,20 - Agricultura,7237563.46
+2020,1504208,Marabá,279349,20.605 - Abastecimento,69520.0
+2020,1504208,Marabá,279349,20.606 - Extensão Rural,1413113.75
+2020,1504208,Marabá,279349,20.608 - Promoção da Produção Agropecuária,344300.1
+2020,1504208,Marabá,279349,20.122 - Administração Geral,4433278.31
+2020,1504208,Marabá,279349,FU20 - Demais Subfunções,977351.3
+2020,1504208,Marabá,279349,22 - Indústria,18347.4
+2020,1504208,Marabá,279349,FU22 - Demais Subfunções,18347.4
+2020,1504208,Marabá,279349,23 - Comércio e Serviços,62923.87
+2020,1504208,Marabá,279349,23.695 - Turismo,62923.87
+2020,1504208,Marabá,279349,24 - Comunicações,2150546.51
+2020,1504208,Marabá,279349,24.122 - Administração Geral,2150546.51
+2020,1504208,Marabá,279349,25 - Energia,23708385.99
+2020,1504208,Marabá,279349,25.752 - Energia Elétrica,23708385.99
+2020,1504208,Marabá,279349,26 - Transporte,9301624.72
+2020,1504208,Marabá,279349,26.782 - Transporte Rodoviário,9301624.72
+2020,1504208,Marabá,279349,27 - Desporto e Lazer,4349023.11
+2020,1504208,Marabá,279349,27.812 - Desporto Comunitário,2463662.57
+2020,1504208,Marabá,279349,27.813 - Lazer,495928.37
+2020,1504208,Marabá,279349,27.122 - Administração Geral,1379432.17
+2020,1504208,Marabá,279349,FU27 - Demais Subfunções,10000.0
+2020,1504208,Marabá,279349,28 - Encargos Especiais,19143249.54
+2020,1504208,Marabá,279349,FU28 - Demais Subfunções,19143249.54
+2021,1500800,Ananindeua,535547,TOTAL (exceto intra),802301928.02
+2021,1500800,Ananindeua,535547,01 - Legislativa,16650842.34
+2021,1500800,Ananindeua,535547,01.031 - Ação Legislativa,611814.91
+2021,1500800,Ananindeua,535547,01.122 - Administração Geral,16039027.43
+2021,1500800,Ananindeua,535547,03 - Essencial à Justiça,2810065.77
+2021,1500800,Ananindeua,535547,03.122 - Administração Geral,2808145.77
+2021,1500800,Ananindeua,535547,FU03 - Demais Subfunções,1920.0
+2021,1500800,Ananindeua,535547,04 - Administração,45268297.84
+2021,1500800,Ananindeua,535547,04.121 - Planejamento e Orçamento,2197511.99
+2021,1500800,Ananindeua,535547,04.122 - Administração Geral,42369213.65
+2021,1500800,Ananindeua,535547,04.131 - Comunicação Social,701572.2
+2021,1500800,Ananindeua,535547,06 - Segurança Pública,14126583.55
+2021,1500800,Ananindeua,535547,06.181 - Policiamento,14126583.55
+2021,1500800,Ananindeua,535547,08 - Assistência Social,19575114.89
+2021,1500800,Ananindeua,535547,08.244 - Assistência Comunitária,6792204.61
+2021,1500800,Ananindeua,535547,08.122 - Administração Geral,12679099.1
+2021,1500800,Ananindeua,535547,FU08 - Demais Subfunções,103811.18
+2021,1500800,Ananindeua,535547,09 - Previdência Social,42740665.55
+2021,1500800,Ananindeua,535547,09.271 - Previdência Básica,37343485.99
+2021,1500800,Ananindeua,535547,09.122 - Administração Geral,5397179.56
+2021,1500800,Ananindeua,535547,10 - Saúde,256980463.2
+2021,1500800,Ananindeua,535547,10.301 - Atenção Básica,61295734.42
+2021,1500800,Ananindeua,535547,10.302 - Assistência Hospitalar e Ambulatorial,140020120.98
+2021,1500800,Ananindeua,535547,10.303 - Suporte Profilático e Terapêutico,3101712.5
+2021,1500800,Ananindeua,535547,10.304 - Vigilância Sanitária,263252.17
+2021,1500800,Ananindeua,535547,10.305 - Vigilância Epidemiológica,12984724.41
+2021,1500800,Ananindeua,535547,10.122 - Administração Geral,39050014.3
+2021,1500800,Ananindeua,535547,FU10 - Demais Subfunções,264904.42
+2021,1500800,Ananindeua,535547,12 - Educação,212363898.86
+2021,1500800,Ananindeua,535547,12.361 - Ensino Fundamental,34221349.77
+2021,1500800,Ananindeua,535547,12.365 - Educação Infantil,9003475.75
+2021,1500800,Ananindeua,535547,12.366 - Educação de Jovens e Adultos,328202.06
+2021,1500800,Ananindeua,535547,12.368 - Educação Básica,150841819.6
+2021,1500800,Ananindeua,535547,12.122 - Administração Geral,17969051.68
+2021,1500800,Ananindeua,535547,13 - Cultura,2513663.74
+2021,1500800,Ananindeua,535547,13.392 - Difusão Cultural,2513663.74
+2021,1500800,Ananindeua,535547,15 - Urbanismo,79537892.73
+2021,1500800,Ananindeua,535547,15.451 - Infraestrutura Urbana,79537892.73
+2021,1500800,Ananindeua,535547,16 - Habitação,2397495.64
+2021,1500800,Ananindeua,535547,16.482 - Habitação Urbana,2397495.64
+2021,1500800,Ananindeua,535547,17 - Saneamento,88327541.74
+2021,1500800,Ananindeua,535547,17.512 - Saneamento Básico Urbano,83695099.51
+2021,1500800,Ananindeua,535547,17.122 - Administração Geral,4632442.23
+2021,1500800,Ananindeua,535547,18 - Gestão Ambiental,1400538.72
+2021,1500800,Ananindeua,535547,18.541 - Preservação e Conservação Ambiental,6870.78
+2021,1500800,Ananindeua,535547,18.122 - Administração Geral,1393667.94
+2021,1500800,Ananindeua,535547,19 - Ciência e Tecnologia,1207925.0
+2021,1500800,Ananindeua,535547,19.122 - Administração Geral,707925.0
+2021,1500800,Ananindeua,535547,FU19 - Demais Subfunções,500000.0
+2021,1500800,Ananindeua,535547,20 - Agricultura,887413.26
+2021,1500800,Ananindeua,535547,20.122 - Administração Geral,887413.26
+2021,1500800,Ananindeua,535547,22 - Indústria,150000.0
+2021,1500800,Ananindeua,535547,22.661 - Promoção Industrial,150000.0
+2021,1500800,Ananindeua,535547,26 - Transporte,92000.0
+2021,1500800,Ananindeua,535547,FU26 - Demais Subfunções,92000.0
+2021,1500800,Ananindeua,535547,27 - Desporto e Lazer,228965.0
+2021,1500800,Ananindeua,535547,27.811 - Desporto de Rendimento,228965.0
+2021,1500800,Ananindeua,535547,28 - Encargos Especiais,15042560.19
+2021,1500800,Ananindeua,535547,28.843 - Serviço da Dívida Interna,12736395.45
+2021,1500800,Ananindeua,535547,28.846 - Outros Encargos Especiais,2306164.74
+2021,1504208,Marabá,283542,TOTAL (exceto intra),967618579.92
+2021,1504208,Marabá,283542,01 - Legislativa,29786108.79
+2021,1504208,Marabá,283542,01.031 - Ação Legislativa,29786108.79
+2021,1504208,Marabá,283542,02 - Judiciária,126768.05
+2021,1504208,Marabá,283542,FU02 - Demais Subfunções,126768.05
+2021,1504208,Marabá,283542,03 - Essencial à Justiça,3864295.53
+2021,1504208,Marabá,283542,03.092 - Representação Judicial e Extrajudicial,3864295.53
+2021,1504208,Marabá,283542,04 - Administração,65040469.27
+2021,1504208,Marabá,283542,04.121 - Planejamento e Orçamento,1820366.88
+2021,1504208,Marabá,283542,04.122 - Administração Geral,52626116.66
+2021,1504208,Marabá,283542,04.123 - Administração Financeira,1854538.36
+2021,1504208,Marabá,283542,04.124 - Controle Interno,1581611.7
+2021,1504208,Marabá,283542,04.125 - Normatização e Fiscalização,6664967.89
+2021,1504208,Marabá,283542,FU04 - Demais Subfunções,492867.78
+2021,1504208,Marabá,283542,06 - Segurança Pública,18647067.38
+2021,1504208,Marabá,283542,06.181 - Policiamento,6452684.54
+2021,1504208,Marabá,283542,06.182 - Defesa Civil,379398.32
+2021,1504208,Marabá,283542,06.122 - Administração Geral,11493344.52
+2021,1504208,Marabá,283542,FU06 - Demais Subfunções,321640.0
+2021,1504208,Marabá,283542,08 - Assistência Social,21250028.58
+2021,1504208,Marabá,283542,08.243 - Assistência à Criança e ao Adolescente,2103027.94
+2021,1504208,Marabá,283542,08.244 - Assistência Comunitária,5886353.71
+2021,1504208,Marabá,283542,08.122 - Administração Geral,13234246.93
+2021,1504208,Marabá,283542,FU08 - Demais Subfunções,26400.0
+2021,1504208,Marabá,283542,09 - Previdência Social,47381563.76
+2021,1504208,Marabá,283542,09.272 - Previdência do Regime Estatutário,47381563.76
+2021,1504208,Marabá,283542,10 - Saúde,250262829.67
+2021,1504208,Marabá,283542,10.301 - Atenção Básica,47764896.03
+2021,1504208,Marabá,283542,10.302 - Assistência Hospitalar e Ambulatorial,156254273.45
+2021,1504208,Marabá,283542,10.303 - Suporte Profilático e Terapêutico,5008836.22
+2021,1504208,Marabá,283542,10.304 - Vigilância Sanitária,3602643.47
+2021,1504208,Marabá,283542,10.305 - Vigilância Epidemiológica,6866656.68
+2021,1504208,Marabá,283542,10.122 - Administração Geral,28978154.19
+2021,1504208,Marabá,283542,FU10 - Demais Subfunções,1787369.63
+2021,1504208,Marabá,283542,11 - Trabalho,372896.58
+2021,1504208,Marabá,283542,11.333 - Empregabilidade,372723.75
+2021,1504208,Marabá,283542,FU11 - Demais Subfunções,172.83
+2021,1504208,Marabá,283542,12 - Educação,301900403.07
+2021,1504208,Marabá,283542,12.361 - Ensino Fundamental,218296496.86
+2021,1504208,Marabá,283542,12.365 - Educação Infantil,42432520.19
+2021,1504208,Marabá,283542,12.366 - Educação de Jovens e Adultos,9405036.75
+2021,1504208,Marabá,283542,12.122 - Administração Geral,24174490.89
+2021,1504208,Marabá,283542,FU12 - Demais Subfunções,7591858.38
+2021,1504208,Marabá,283542,13 - Cultura,12460598.02
+2021,1504208,Marabá,283542,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",1585165.06
+2021,1504208,Marabá,283542,13.392 - Difusão Cultural,9944525.44
+2021,1504208,Marabá,283542,13.122 - Administração Geral,930907.52
+2021,1504208,Marabá,283542,15 - Urbanismo,113689210.76
+2021,1504208,Marabá,283542,15.451 - Infraestrutura Urbana,46628817.26
+2021,1504208,Marabá,283542,15.452 - Serviços Urbanos,57798413.73
+2021,1504208,Marabá,283542,FU15 - Demais Subfunções,9261979.77
+2021,1504208,Marabá,283542,16 - Habitação,5760852.82
+2021,1504208,Marabá,283542,16.481 - Habitação Rural,108000.0
+2021,1504208,Marabá,283542,16.482 - Habitação Urbana,1826547.22
+2021,1504208,Marabá,283542,16.122 - Administração Geral,3826305.6
+2021,1504208,Marabá,283542,17 - Saneamento,431876.79
+2021,1504208,Marabá,283542,17.512 - Saneamento Básico Urbano,431876.79
+2021,1504208,Marabá,283542,18 - Gestão Ambiental,3857292.37
+2021,1504208,Marabá,283542,18.541 - Preservação e Conservação Ambiental,514842.08
+2021,1504208,Marabá,283542,18.122 - Administração Geral,3342450.29
+2021,1504208,Marabá,283542,19 - Ciência e Tecnologia,36737.59
+2021,1504208,Marabá,283542,FU19 - Demais Subfunções,36737.59
+2021,1504208,Marabá,283542,20 - Agricultura,10733361.53
+2021,1504208,Marabá,283542,20.605 - Abastecimento,49600.0
+2021,1504208,Marabá,283542,20.606 - Extensão Rural,2301485.67
+2021,1504208,Marabá,283542,20.608 - Promoção da Produção Agropecuária,310120.4
+2021,1504208,Marabá,283542,20.122 - Administração Geral,7483382.03
+2021,1504208,Marabá,283542,FU20 - Demais Subfunções,588773.43
+2021,1504208,Marabá,283542,23 - Comércio e Serviços,982208.95
+2021,1504208,Marabá,283542,23.695 - Turismo,77881.09
+2021,1504208,Marabá,283542,23.122 - Administração Geral,904327.86
+2021,1504208,Marabá,283542,24 - Comunicações,5224714.42
+2021,1504208,Marabá,283542,FU24 - Demais Subfunções,5224714.42
+2021,1504208,Marabá,283542,25 - Energia,28291952.77
+2021,1504208,Marabá,283542,25.752 - Energia Elétrica,28291952.77
+2021,1504208,Marabá,283542,26 - Transporte,12360051.11
+2021,1504208,Marabá,283542,26.782 - Transporte Rodoviário,12360051.11
+2021,1504208,Marabá,283542,27 - Desporto e Lazer,5036419.24
+2021,1504208,Marabá,283542,27.812 - Desporto Comunitário,2482488.18
+2021,1504208,Marabá,283542,27.813 - Lazer,336201.2
+2021,1504208,Marabá,283542,27.122 - Administração Geral,2217729.86
+2021,1504208,Marabá,283542,28 - Encargos Especiais,30120872.87
+2021,1504208,Marabá,283542,FU28 - Demais Subfunções,30120872.87
+2022,1500800,Ananindeua,540410,TOTAL (exceto intra),1255014638.95
+2022,1500800,Ananindeua,540410,01 - Legislativa,19320968.66
+2022,1500800,Ananindeua,540410,01.031 - Ação Legislativa,595081.3
+2022,1500800,Ananindeua,540410,01.122 - Administração Geral,18725887.36
+2022,1500800,Ananindeua,540410,03 - Essencial à Justiça,3719331.03
+2022,1500800,Ananindeua,540410,03.122 - Administração Geral,3718956.68
+2022,1500800,Ananindeua,540410,FU03 - Demais Subfunções,374.35
+2022,1500800,Ananindeua,540410,04 - Administração,62637531.72
+2022,1500800,Ananindeua,540410,04.121 - Planejamento e Orçamento,670564.18
+2022,1500800,Ananindeua,540410,04.122 - Administração Geral,51863314.56
+2022,1500800,Ananindeua,540410,04.128 - Formação de Recursos Humanos,11334.0
+2022,1500800,Ananindeua,540410,04.131 - Comunicação Social,10092318.98
+2022,1500800,Ananindeua,540410,06 - Segurança Pública,25536301.26
+2022,1500800,Ananindeua,540410,06.181 - Policiamento,23481873.44
+2022,1500800,Ananindeua,540410,06.122 - Administração Geral,1981571.62
+2022,1500800,Ananindeua,540410,FU06 - Demais Subfunções,72856.2
+2022,1500800,Ananindeua,540410,08 - Assistência Social,23282545.01
+2022,1500800,Ananindeua,540410,08.243 - Assistência à Criança e ao Adolescente,4320.0
+2022,1500800,Ananindeua,540410,08.244 - Assistência Comunitária,6323187.46
+2022,1500800,Ananindeua,540410,08.122 - Administração Geral,16706052.66
+2022,1500800,Ananindeua,540410,FU08 - Demais Subfunções,248984.89
+2022,1500800,Ananindeua,540410,09 - Previdência Social,51629162.8
+2022,1500800,Ananindeua,540410,09.271 - Previdência Básica,45112719.05
+2022,1500800,Ananindeua,540410,09.122 - Administração Geral,6516443.75
+2022,1500800,Ananindeua,540410,10 - Saúde,303873444.66
+2022,1500800,Ananindeua,540410,10.301 - Atenção Básica,107497592.69
+2022,1500800,Ananindeua,540410,10.302 - Assistência Hospitalar e Ambulatorial,148516449.39
+2022,1500800,Ananindeua,540410,10.303 - Suporte Profilático e Terapêutico,5412236.2
+2022,1500800,Ananindeua,540410,10.304 - Vigilância Sanitária,230940.39
+2022,1500800,Ananindeua,540410,10.305 - Vigilância Epidemiológica,17125794.42
+2022,1500800,Ananindeua,540410,10.122 - Administração Geral,22286748.22
+2022,1500800,Ananindeua,540410,FU10 - Demais Subfunções,2803683.35
+2022,1500800,Ananindeua,540410,12 - Educação,279572502.02
+2022,1500800,Ananindeua,540410,12.361 - Ensino Fundamental,209228244.94
+2022,1500800,Ananindeua,540410,12.365 - Educação Infantil,35903694.19
+2022,1500800,Ananindeua,540410,12.366 - Educação de Jovens e Adultos,475222.55
+2022,1500800,Ananindeua,540410,12.367 - Educação Especial,221086.0
+2022,1500800,Ananindeua,540410,12.368 - Educação Básica,15363835.74
+2022,1500800,Ananindeua,540410,12.122 - Administração Geral,17469342.43
+2022,1500800,Ananindeua,540410,FU12 - Demais Subfunções,911076.17
+2022,1500800,Ananindeua,540410,13 - Cultura,4305580.05
+2022,1500800,Ananindeua,540410,13.392 - Difusão Cultural,3486530.89
+2022,1500800,Ananindeua,540410,13.122 - Administração Geral,819049.16
+2022,1500800,Ananindeua,540410,14 - Direitos da Cidadania,379469.3
+2022,1500800,Ananindeua,540410,14.122 - Administração Geral,379469.3
+2022,1500800,Ananindeua,540410,15 - Urbanismo,207054582.87
+2022,1500800,Ananindeua,540410,15.451 - Infraestrutura Urbana,198066420.55
+2022,1500800,Ananindeua,540410,15.122 - Administração Geral,8988162.32
+2022,1500800,Ananindeua,540410,16 - Habitação,9591381.99
+2022,1500800,Ananindeua,540410,16.482 - Habitação Urbana,7648591.46
+2022,1500800,Ananindeua,540410,16.122 - Administração Geral,1942790.53
+2022,1500800,Ananindeua,540410,17 - Saneamento,219805376.49
+2022,1500800,Ananindeua,540410,17.512 - Saneamento Básico Urbano,215283777.89
+2022,1500800,Ananindeua,540410,17.122 - Administração Geral,4521598.6
+2022,1500800,Ananindeua,540410,18 - Gestão Ambiental,1485176.11
+2022,1500800,Ananindeua,540410,18.541 - Preservação e Conservação Ambiental,7908.9
+2022,1500800,Ananindeua,540410,18.122 - Administração Geral,1477267.21
+2022,1500800,Ananindeua,540410,19 - Ciência e Tecnologia,2091373.01
+2022,1500800,Ananindeua,540410,19.122 - Administração Geral,2091373.01
+2022,1500800,Ananindeua,540410,23 - Comércio e Serviços,2539344.35
+2022,1500800,Ananindeua,540410,23.691 - Promoção Comercial,1379344.35
+2022,1500800,Ananindeua,540410,FU23 - Demais Subfunções,1160000.0
+2022,1500800,Ananindeua,540410,26 - Transporte,446920.0
+2022,1500800,Ananindeua,540410,FU26 - Demais Subfunções,446920.0
+2022,1500800,Ananindeua,540410,27 - Desporto e Lazer,3582034.72
+2022,1500800,Ananindeua,540410,27.812 - Desporto Comunitário,2591761.39
+2022,1500800,Ananindeua,540410,27.122 - Administração Geral,990273.33
+2022,1500800,Ananindeua,540410,28 - Encargos Especiais,34161612.9
+2022,1500800,Ananindeua,540410,28.843 - Serviço da Dívida Interna,33864767.97
+2022,1500800,Ananindeua,540410,28.846 - Outros Encargos Especiais,296844.93
+2022,1504208,Marabá,287664,TOTAL (exceto intra),1247885309.74
+2022,1504208,Marabá,287664,01 - Legislativa,40167929.81
+2022,1504208,Marabá,287664,01.031 - Ação Legislativa,40167929.81
+2022,1504208,Marabá,287664,02 - Judiciária,183758.87
+2022,1504208,Marabá,287664,FU02 - Demais Subfunções,183758.87
+2022,1504208,Marabá,287664,03 - Essencial à Justiça,6157211.68
+2022,1504208,Marabá,287664,03.092 - Representação Judicial e Extrajudicial,6157211.68
+2022,1504208,Marabá,287664,04 - Administração,78876558.22
+2022,1504208,Marabá,287664,04.121 - Planejamento e Orçamento,2182625.45
+2022,1504208,Marabá,287664,04.122 - Administração Geral,65449317.25
+2022,1504208,Marabá,287664,04.123 - Administração Financeira,1974052.2
+2022,1504208,Marabá,287664,04.124 - Controle Interno,1432591.84
+2022,1504208,Marabá,287664,04.125 - Normatização e Fiscalização,7837971.48
+2022,1504208,Marabá,287664,06 - Segurança Pública,23261081.44
+2022,1504208,Marabá,287664,06.181 - Policiamento,15931706.92
+2022,1504208,Marabá,287664,06.182 - Defesa Civil,1191378.38
+2022,1504208,Marabá,287664,06.122 - Administração Geral,4205377.71
+2022,1504208,Marabá,287664,FU06 - Demais Subfunções,1932618.43
+2022,1504208,Marabá,287664,08 - Assistência Social,24984988.88
+2022,1504208,Marabá,287664,08.241 - Assistência ao Idoso,6383.1
+2022,1504208,Marabá,287664,08.243 - Assistência à Criança e ao Adolescente,1050723.63
+2022,1504208,Marabá,287664,08.244 - Assistência Comunitária,7530488.73
+2022,1504208,Marabá,287664,08.122 - Administração Geral,16397393.42
+2022,1504208,Marabá,287664,09 - Previdência Social,68155663.39
+2022,1504208,Marabá,287664,09.272 - Previdência do Regime Estatutário,68155663.39
+2022,1504208,Marabá,287664,10 - Saúde,297216516.84
+2022,1504208,Marabá,287664,10.301 - Atenção Básica,64763248.59
+2022,1504208,Marabá,287664,10.302 - Assistência Hospitalar e Ambulatorial,179089078.82
+2022,1504208,Marabá,287664,10.303 - Suporte Profilático e Terapêutico,5843417.15
+2022,1504208,Marabá,287664,10.304 - Vigilância Sanitária,4704606.83
+2022,1504208,Marabá,287664,10.305 - Vigilância Epidemiológica,8298351.0
+2022,1504208,Marabá,287664,10.306 - Alimentação e Nutrição,1002885.64
+2022,1504208,Marabá,287664,10.122 - Administração Geral,33514928.81
+2022,1504208,Marabá,287664,11 - Trabalho,519598.67
+2022,1504208,Marabá,287664,11.334 - Fomento ao Trabalho,519598.67
+2022,1504208,Marabá,287664,12 - Educação,398999974.59
+2022,1504208,Marabá,287664,12.361 - Ensino Fundamental,281876483.55
+2022,1504208,Marabá,287664,12.365 - Educação Infantil,56918430.44
+2022,1504208,Marabá,287664,12.366 - Educação de Jovens e Adultos,10287504.3
+2022,1504208,Marabá,287664,12.122 - Administração Geral,33355183.97
+2022,1504208,Marabá,287664,FU12 - Demais Subfunções,16562372.33
+2022,1504208,Marabá,287664,13 - Cultura,20703587.92
+2022,1504208,Marabá,287664,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",4776196.58
+2022,1504208,Marabá,287664,13.392 - Difusão Cultural,4092211.51
+2022,1504208,Marabá,287664,13.122 - Administração Geral,11835179.83
+2022,1504208,Marabá,287664,15 - Urbanismo,152716887.85
+2022,1504208,Marabá,287664,15.451 - Infraestrutura Urbana,69402502.42
+2022,1504208,Marabá,287664,15.452 - Serviços Urbanos,80061274.57
+2022,1504208,Marabá,287664,FU15 - Demais Subfunções,3253110.86
+2022,1504208,Marabá,287664,16 - Habitação,7311072.73
+2022,1504208,Marabá,287664,16.482 - Habitação Urbana,2103905.84
+2022,1504208,Marabá,287664,16.122 - Administração Geral,5207166.89
+2022,1504208,Marabá,287664,17 - Saneamento,8066755.94
+2022,1504208,Marabá,287664,17.512 - Saneamento Básico Urbano,8066755.94
+2022,1504208,Marabá,287664,18 - Gestão Ambiental,4554170.59
+2022,1504208,Marabá,287664,18.541 - Preservação e Conservação Ambiental,683880.1
+2022,1504208,Marabá,287664,18.122 - Administração Geral,3870290.49
+2022,1504208,Marabá,287664,19 - Ciência e Tecnologia,102227.2
+2022,1504208,Marabá,287664,FU19 - Demais Subfunções,102227.2
+2022,1504208,Marabá,287664,20 - Agricultura,16910355.12
+2022,1504208,Marabá,287664,20.607 - Irrigação,140334.6
+2022,1504208,Marabá,287664,20.608 - Promoção da Produção Agropecuária,5138051.95
+2022,1504208,Marabá,287664,20.122 - Administração Geral,11132779.57
+2022,1504208,Marabá,287664,FU20 - Demais Subfunções,499189.0
+2022,1504208,Marabá,287664,23 - Comércio e Serviços,1225313.48
+2022,1504208,Marabá,287664,23.695 - Turismo,149390.1
+2022,1504208,Marabá,287664,23.122 - Administração Geral,1075923.38
+2022,1504208,Marabá,287664,24 - Comunicações,5724546.55
+2022,1504208,Marabá,287664,FU24 - Demais Subfunções,5724546.55
+2022,1504208,Marabá,287664,25 - Energia,26524996.08
+2022,1504208,Marabá,287664,25.752 - Energia Elétrica,26524996.08
+2022,1504208,Marabá,287664,26 - Transporte,15544324.47
+2022,1504208,Marabá,287664,26.782 - Transporte Rodoviário,15544324.47
+2022,1504208,Marabá,287664,27 - Desporto e Lazer,8228512.7
+2022,1504208,Marabá,287664,27.812 - Desporto Comunitário,3427700.76
+2022,1504208,Marabá,287664,27.813 - Lazer,497067.0
+2022,1504208,Marabá,287664,27.122 - Administração Geral,4303744.94
+2022,1504208,Marabá,287664,28 - Encargos Especiais,41749276.72
+2022,1504208,Marabá,287664,FU28 - Demais Subfunções,41749276.72
+2023,1500800,Ananindeua,540410,TOTAL (exceto intra),1440381448.9
+2023,1500800,Ananindeua,540410,01 - Legislativa,22907256.23
+2023,1500800,Ananindeua,540410,01.031 - Ação Legislativa,233518.35
+2023,1500800,Ananindeua,540410,01.122 - Administração Geral,22673737.88
+2023,1500800,Ananindeua,540410,03 - Essencial à Justiça,3649485.26
+2023,1500800,Ananindeua,540410,03.122 - Administração Geral,3646773.69
+2023,1500800,Ananindeua,540410,FU03 - Demais Subfunções,2711.57
+2023,1500800,Ananindeua,540410,04 - Administração,60720978.9
+2023,1500800,Ananindeua,540410,04.121 - Planejamento e Orçamento,10688081.42
+2023,1500800,Ananindeua,540410,04.122 - Administração Geral,45647483.73
+2023,1500800,Ananindeua,540410,04.128 - Formação de Recursos Humanos,81433.21
+2023,1500800,Ananindeua,540410,04.131 - Comunicação Social,4303980.54
+2023,1500800,Ananindeua,540410,06 - Segurança Pública,27452426.75
+2023,1500800,Ananindeua,540410,06.181 - Policiamento,26114437.92
+2023,1500800,Ananindeua,540410,06.122 - Administração Geral,1337988.83
+2023,1500800,Ananindeua,540410,08 - Assistência Social,27972734.73
+2023,1500800,Ananindeua,540410,08.243 - Assistência à Criança e ao Adolescente,92208.0
+2023,1500800,Ananindeua,540410,08.244 - Assistência Comunitária,7652303.69
+2023,1500800,Ananindeua,540410,08.122 - Administração Geral,19981450.38
+2023,1500800,Ananindeua,540410,FU08 - Demais Subfunções,246772.66
+2023,1500800,Ananindeua,540410,09 - Previdência Social,59668023.21
+2023,1500800,Ananindeua,540410,09.271 - Previdência Básica,50614013.21
+2023,1500800,Ananindeua,540410,09.122 - Administração Geral,9054010.0
+2023,1500800,Ananindeua,540410,10 - Saúde,338839460.84
+2023,1500800,Ananindeua,540410,10.301 - Atenção Básica,127861514.24
+2023,1500800,Ananindeua,540410,10.302 - Assistência Hospitalar e Ambulatorial,158847249.71
+2023,1500800,Ananindeua,540410,10.303 - Suporte Profilático e Terapêutico,2486981.13
+2023,1500800,Ananindeua,540410,10.304 - Vigilância Sanitária,136419.78
+2023,1500800,Ananindeua,540410,10.305 - Vigilância Epidemiológica,18474126.05
+2023,1500800,Ananindeua,540410,10.122 - Administração Geral,30754418.14
+2023,1500800,Ananindeua,540410,FU10 - Demais Subfunções,278751.79
+2023,1500800,Ananindeua,540410,12 - Educação,353879993.63
+2023,1500800,Ananindeua,540410,12.361 - Ensino Fundamental,229071396.92
+2023,1500800,Ananindeua,540410,12.365 - Educação Infantil,69172058.06
+2023,1500800,Ananindeua,540410,12.366 - Educação de Jovens e Adultos,391211.16
+2023,1500800,Ananindeua,540410,12.368 - Educação Básica,24135468.27
+2023,1500800,Ananindeua,540410,12.122 - Administração Geral,30446474.46
+2023,1500800,Ananindeua,540410,FU12 - Demais Subfunções,663384.76
+2023,1500800,Ananindeua,540410,13 - Cultura,4474631.66
+2023,1500800,Ananindeua,540410,13.392 - Difusão Cultural,3667813.0
+2023,1500800,Ananindeua,540410,13.122 - Administração Geral,806818.66
+2023,1500800,Ananindeua,540410,14 - Direitos da Cidadania,106406.92
+2023,1500800,Ananindeua,540410,14.122 - Administração Geral,106406.92
+2023,1500800,Ananindeua,540410,15 - Urbanismo,279718219.04
+2023,1500800,Ananindeua,540410,15.451 - Infraestrutura Urbana,269332300.5
+2023,1500800,Ananindeua,540410,15.122 - Administração Geral,10385918.54
+2023,1500800,Ananindeua,540410,16 - Habitação,10080094.43
+2023,1500800,Ananindeua,540410,16.482 - Habitação Urbana,8020301.2
+2023,1500800,Ananindeua,540410,16.122 - Administração Geral,2059793.23
+2023,1500800,Ananindeua,540410,17 - Saneamento,158322611.52
+2023,1500800,Ananindeua,540410,17.512 - Saneamento Básico Urbano,153161520.45
+2023,1500800,Ananindeua,540410,17.122 - Administração Geral,5161091.07
+2023,1500800,Ananindeua,540410,18 - Gestão Ambiental,1773608.57
+2023,1500800,Ananindeua,540410,18.122 - Administração Geral,1773608.57
+2023,1500800,Ananindeua,540410,19 - Ciência e Tecnologia,3409698.48
+2023,1500800,Ananindeua,540410,19.122 - Administração Geral,3409698.48
+2023,1500800,Ananindeua,540410,20 - Agricultura,1349251.0
+2023,1500800,Ananindeua,540410,20.608 - Promoção da Produção Agropecuária,1349251.0
+2023,1500800,Ananindeua,540410,23 - Comércio e Serviços,1035924.15
+2023,1500800,Ananindeua,540410,23.691 - Promoção Comercial,1035924.15
+2023,1500800,Ananindeua,540410,26 - Transporte,834040.0
+2023,1500800,Ananindeua,540410,FU26 - Demais Subfunções,834040.0
+2023,1500800,Ananindeua,540410,27 - Desporto e Lazer,2873728.15
+2023,1500800,Ananindeua,540410,27.812 - Desporto Comunitário,1420508.59
+2023,1500800,Ananindeua,540410,27.122 - Administração Geral,1453219.56
+2023,1500800,Ananindeua,540410,28 - Encargos Especiais,81312875.43
+2023,1500800,Ananindeua,540410,28.843 - Serviço da Dívida Interna,80465752.74
+2023,1500800,Ananindeua,540410,28.846 - Outros Encargos Especiais,847122.69
+2023,1504208,Marabá,287664,TOTAL (exceto intra),1403539078.67
+2023,1504208,Marabá,287664,01 - Legislativa,46082231.07
+2023,1504208,Marabá,287664,01.031 - Ação Legislativa,46082231.07
+2023,1504208,Marabá,287664,02 - Judiciária,201636.8
+2023,1504208,Marabá,287664,FU02 - Demais Subfunções,201636.8
+2023,1504208,Marabá,287664,03 - Essencial à Justiça,7111972.84
+2023,1504208,Marabá,287664,03.092 - Representação Judicial e Extrajudicial,7111972.84
+2023,1504208,Marabá,287664,04 - Administração,90051695.25
+2023,1504208,Marabá,287664,04.121 - Planejamento e Orçamento,4001630.69
+2023,1504208,Marabá,287664,04.122 - Administração Geral,72921150.9
+2023,1504208,Marabá,287664,04.123 - Administração Financeira,1983725.41
+2023,1504208,Marabá,287664,04.124 - Controle Interno,1638959.64
+2023,1504208,Marabá,287664,04.125 - Normatização e Fiscalização,9506228.61
+2023,1504208,Marabá,287664,06 - Segurança Pública,22639741.3
+2023,1504208,Marabá,287664,06.181 - Policiamento,18887912.25
+2023,1504208,Marabá,287664,06.182 - Defesa Civil,404593.43
+2023,1504208,Marabá,287664,06.122 - Administração Geral,2863095.0
+2023,1504208,Marabá,287664,FU06 - Demais Subfunções,484140.62
+2023,1504208,Marabá,287664,08 - Assistência Social,36281440.88
+2023,1504208,Marabá,287664,08.241 - Assistência ao Idoso,14820.0
+2023,1504208,Marabá,287664,08.243 - Assistência à Criança e ao Adolescente,880316.04
+2023,1504208,Marabá,287664,08.244 - Assistência Comunitária,14576460.28
+2023,1504208,Marabá,287664,08.122 - Administração Geral,20549727.14
+2023,1504208,Marabá,287664,FU08 - Demais Subfunções,260117.42
+2023,1504208,Marabá,287664,09 - Previdência Social,75051871.54
+2023,1504208,Marabá,287664,09.272 - Previdência do Regime Estatutário,75051871.54
+2023,1504208,Marabá,287664,10 - Saúde,335655555.71
+2023,1504208,Marabá,287664,10.301 - Atenção Básica,85252141.98
+2023,1504208,Marabá,287664,10.302 - Assistência Hospitalar e Ambulatorial,202629414.3
+2023,1504208,Marabá,287664,10.303 - Suporte Profilático e Terapêutico,7762938.66
+2023,1504208,Marabá,287664,10.304 - Vigilância Sanitária,5084762.72
+2023,1504208,Marabá,287664,10.305 - Vigilância Epidemiológica,8532174.89
+2023,1504208,Marabá,287664,10.306 - Alimentação e Nutrição,1482295.01
+2023,1504208,Marabá,287664,10.122 - Administração Geral,24241593.31
+2023,1504208,Marabá,287664,FU10 - Demais Subfunções,670234.84
+2023,1504208,Marabá,287664,11 - Trabalho,535967.45
+2023,1504208,Marabá,287664,11.334 - Fomento ao Trabalho,535967.45
+2023,1504208,Marabá,287664,12 - Educação,433737511.22
+2023,1504208,Marabá,287664,12.361 - Ensino Fundamental,297706217.7
+2023,1504208,Marabá,287664,12.365 - Educação Infantil,63666029.18
+2023,1504208,Marabá,287664,12.366 - Educação de Jovens e Adultos,9537598.71
+2023,1504208,Marabá,287664,12.122 - Administração Geral,44873774.57
+2023,1504208,Marabá,287664,FU12 - Demais Subfunções,17953891.06
+2023,1504208,Marabá,287664,13 - Cultura,20318044.22
+2023,1504208,Marabá,287664,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",3084330.52
+2023,1504208,Marabá,287664,13.392 - Difusão Cultural,3938340.01
+2023,1504208,Marabá,287664,13.122 - Administração Geral,13295373.69
+2023,1504208,Marabá,287664,15 - Urbanismo,194929755.67
+2023,1504208,Marabá,287664,15.451 - Infraestrutura Urbana,98047498.36
+2023,1504208,Marabá,287664,15.452 - Serviços Urbanos,93078739.49
+2023,1504208,Marabá,287664,FU15 - Demais Subfunções,3803517.82
+2023,1504208,Marabá,287664,16 - Habitação,9101139.24
+2023,1504208,Marabá,287664,16.482 - Habitação Urbana,4052874.88
+2023,1504208,Marabá,287664,16.122 - Administração Geral,5048264.36
+2023,1504208,Marabá,287664,17 - Saneamento,4603357.11
+2023,1504208,Marabá,287664,17.512 - Saneamento Básico Urbano,4603357.11
+2023,1504208,Marabá,287664,18 - Gestão Ambiental,5883680.47
+2023,1504208,Marabá,287664,18.541 - Preservação e Conservação Ambiental,790667.0
+2023,1504208,Marabá,287664,18.122 - Administração Geral,5093013.47
+2023,1504208,Marabá,287664,19 - Ciência e Tecnologia,1315270.68
+2023,1504208,Marabá,287664,19.573 - Difusão do Conhecimento Científico e Tecnológico,7504.85
+2023,1504208,Marabá,287664,FU19 - Demais Subfunções,1307765.83
+2023,1504208,Marabá,287664,20 - Agricultura,19176915.87
+2023,1504208,Marabá,287664,20.608 - Promoção da Produção Agropecuária,7140365.65
+2023,1504208,Marabá,287664,20.122 - Administração Geral,12036550.22
+2023,1504208,Marabá,287664,23 - Comércio e Serviços,1288834.91
+2023,1504208,Marabá,287664,23.695 - Turismo,198523.72
+2023,1504208,Marabá,287664,23.122 - Administração Geral,1090311.19
+2023,1504208,Marabá,287664,24 - Comunicações,5638040.62
+2023,1504208,Marabá,287664,FU24 - Demais Subfunções,5638040.62
+2023,1504208,Marabá,287664,25 - Energia,31703877.07
+2023,1504208,Marabá,287664,25.752 - Energia Elétrica,31703877.07
+2023,1504208,Marabá,287664,26 - Transporte,17111417.22
+2023,1504208,Marabá,287664,26.782 - Transporte Rodoviário,17111417.22
+2023,1504208,Marabá,287664,27 - Desporto e Lazer,6448319.03
+2023,1504208,Marabá,287664,27.812 - Desporto Comunitário,3735478.81
+2023,1504208,Marabá,287664,27.813 - Lazer,458333.5
+2023,1504208,Marabá,287664,27.122 - Administração Geral,2234506.72
+2023,1504208,Marabá,287664,FU27 - Demais Subfunções,20000.0
+2023,1504208,Marabá,287664,28 - Encargos Especiais,38670802.5
+2023,1504208,Marabá,287664,FU28 - Demais Subfunções,38670802.5
+2024,1504208,Marabá,271321,TOTAL (exceto intra),1619168806.46
+2024,1504208,Marabá,271321,01 - Legislativa,50346228.07
+2024,1504208,Marabá,271321,01.031 - Ação Legislativa,50346228.07
+2024,1504208,Marabá,271321,03 - Essencial à Justiça,7704881.0
+2024,1504208,Marabá,271321,03.092 - Representação Judicial e Extrajudicial,7704881.0
+2024,1504208,Marabá,271321,04 - Administração,104666699.06
+2024,1504208,Marabá,271321,04.121 - Planejamento e Orçamento,5532034.71
+2024,1504208,Marabá,271321,04.122 - Administração Geral,84641469.17
+2024,1504208,Marabá,271321,04.123 - Administração Financeira,1993562.43
+2024,1504208,Marabá,271321,04.124 - Controle Interno,1872814.59
+2024,1504208,Marabá,271321,04.125 - Normatização e Fiscalização,10277688.32
+2024,1504208,Marabá,271321,FU04 - Demais Subfunções,349129.84
+2024,1504208,Marabá,271321,06 - Segurança Pública,27552626.03
+2024,1504208,Marabá,271321,06.181 - Policiamento,19986987.18
+2024,1504208,Marabá,271321,06.182 - Defesa Civil,474149.48
+2024,1504208,Marabá,271321,06.122 - Administração Geral,3471667.49
+2024,1504208,Marabá,271321,FU06 - Demais Subfunções,3619821.88
+2024,1504208,Marabá,271321,08 - Assistência Social,38542121.95
+2024,1504208,Marabá,271321,08.241 - Assistência ao Idoso,5870.0
+2024,1504208,Marabá,271321,08.243 - Assistência à Criança e ao Adolescente,2586596.62
+2024,1504208,Marabá,271321,08.244 - Assistência Comunitária,15845220.79
+2024,1504208,Marabá,271321,08.122 - Administração Geral,19836327.86
+2024,1504208,Marabá,271321,FU08 - Demais Subfunções,268106.68
+2024,1504208,Marabá,271321,09 - Previdência Social,80301222.37
+2024,1504208,Marabá,271321,09.272 - Previdência do Regime Estatutário,80301222.37
+2024,1504208,Marabá,271321,10 - Saúde,354356956.98
+2024,1504208,Marabá,271321,10.301 - Atenção Básica,89069066.21
+2024,1504208,Marabá,271321,10.302 - Assistência Hospitalar e Ambulatorial,211776945.29
+2024,1504208,Marabá,271321,10.303 - Suporte Profilático e Terapêutico,6478491.43
+2024,1504208,Marabá,271321,10.304 - Vigilância Sanitária,5287066.75
+2024,1504208,Marabá,271321,10.305 - Vigilância Epidemiológica,9288541.13
+2024,1504208,Marabá,271321,10.306 - Alimentação e Nutrição,1370996.0
+2024,1504208,Marabá,271321,10.122 - Administração Geral,28104112.0
+2024,1504208,Marabá,271321,FU10 - Demais Subfunções,2981738.17
+2024,1504208,Marabá,271321,11 - Trabalho,658621.65
+2024,1504208,Marabá,271321,11.334 - Fomento ao Trabalho,658621.65
+2024,1504208,Marabá,271321,12 - Educação,458411690.52
+2024,1504208,Marabá,271321,12.361 - Ensino Fundamental,323588837.06
+2024,1504208,Marabá,271321,12.365 - Educação Infantil,70738959.19
+2024,1504208,Marabá,271321,12.366 - Educação de Jovens e Adultos,10128617.44
+2024,1504208,Marabá,271321,12.122 - Administração Geral,40302606.03
+2024,1504208,Marabá,271321,FU12 - Demais Subfunções,13652670.8
+2024,1504208,Marabá,271321,13 - Cultura,34666871.51
+2024,1504208,Marabá,271321,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",3664732.65
+2024,1504208,Marabá,271321,13.392 - Difusão Cultural,8086511.83
+2024,1504208,Marabá,271321,13.122 - Administração Geral,22915627.03
+2024,1504208,Marabá,271321,15 - Urbanismo,302372551.94
+2024,1504208,Marabá,271321,15.451 - Infraestrutura Urbana,198157046.42
+2024,1504208,Marabá,271321,15.452 - Serviços Urbanos,102477109.39
+2024,1504208,Marabá,271321,FU15 - Demais Subfunções,1738396.13
+2024,1504208,Marabá,271321,16 - Habitação,14934473.41
+2024,1504208,Marabá,271321,16.482 - Habitação Urbana,9524432.03
+2024,1504208,Marabá,271321,16.122 - Administração Geral,5410041.38
+2024,1504208,Marabá,271321,17 - Saneamento,2558540.92
+2024,1504208,Marabá,271321,17.512 - Saneamento Básico Urbano,2558540.92
+2024,1504208,Marabá,271321,18 - Gestão Ambiental,5685519.34
+2024,1504208,Marabá,271321,18.541 - Preservação e Conservação Ambiental,968524.0
+2024,1504208,Marabá,271321,18.122 - Administração Geral,4716995.34
+2024,1504208,Marabá,271321,19 - Ciência e Tecnologia,217456.31
+2024,1504208,Marabá,271321,FU19 - Demais Subfunções,217456.31
+2024,1504208,Marabá,271321,20 - Agricultura,16253750.9
+2024,1504208,Marabá,271321,20.608 - Promoção da Produção Agropecuária,4911163.3
+2024,1504208,Marabá,271321,20.122 - Administração Geral,11322587.6
+2024,1504208,Marabá,271321,FU20 - Demais Subfunções,20000.0
+2024,1504208,Marabá,271321,23 - Comércio e Serviços,1616079.88
+2024,1504208,Marabá,271321,23.695 - Turismo,319449.59
+2024,1504208,Marabá,271321,23.122 - Administração Geral,1296630.29
+2024,1504208,Marabá,271321,24 - Comunicações,5684489.94
+2024,1504208,Marabá,271321,FU24 - Demais Subfunções,5684489.94
+2024,1504208,Marabá,271321,25 - Energia,42372923.96
+2024,1504208,Marabá,271321,25.752 - Energia Elétrica,42372923.96
+2024,1504208,Marabá,271321,26 - Transporte,18321596.57
+2024,1504208,Marabá,271321,26.782 - Transporte Rodoviário,17988371.42
+2024,1504208,Marabá,271321,26.122 - Administração Geral,333225.15
+2024,1504208,Marabá,271321,27 - Desporto e Lazer,11356535.91
+2024,1504208,Marabá,271321,27.812 - Desporto Comunitário,7816319.86
+2024,1504208,Marabá,271321,27.813 - Lazer,1571807.7
+2024,1504208,Marabá,271321,27.122 - Administração Geral,1968408.35
+2024,1504208,Marabá,271321,28 - Encargos Especiais,40586968.24
+2024,1504208,Marabá,271321,FU28 - Demais Subfunções,40586968.24
+2024,1500800,Ananindeua,515745,TOTAL (exceto intra),1581659838.18
+2024,1500800,Ananindeua,515745,01 - Legislativa,23945278.93
+2024,1500800,Ananindeua,515745,01.031 - Ação Legislativa,56659.6
+2024,1500800,Ananindeua,515745,01.122 - Administração Geral,23888619.33
+2024,1500800,Ananindeua,515745,03 - Essencial à Justiça,4844292.9
+2024,1500800,Ananindeua,515745,03.122 - Administração Geral,3884892.9
+2024,1500800,Ananindeua,515745,FU03 - Demais Subfunções,959400.0
+2024,1500800,Ananindeua,515745,04 - Administração,65127409.25
+2024,1500800,Ananindeua,515745,04.121 - Planejamento e Orçamento,7734647.29
+2024,1500800,Ananindeua,515745,04.122 - Administração Geral,54893550.19
+2024,1500800,Ananindeua,515745,04.128 - Formação de Recursos Humanos,24876.0
+2024,1500800,Ananindeua,515745,04.131 - Comunicação Social,2474335.77
+2024,1500800,Ananindeua,515745,06 - Segurança Pública,35060156.13
+2024,1500800,Ananindeua,515745,06.181 - Policiamento,33501678.87
+2024,1500800,Ananindeua,515745,06.122 - Administração Geral,1558477.26
+2024,1500800,Ananindeua,515745,08 - Assistência Social,32102189.62
+2024,1500800,Ananindeua,515745,08.241 - Assistência ao Idoso,350000.0
+2024,1500800,Ananindeua,515745,08.244 - Assistência Comunitária,7103704.25
+2024,1500800,Ananindeua,515745,08.122 - Administração Geral,24381212.38
+2024,1500800,Ananindeua,515745,FU08 - Demais Subfunções,267272.99
+2024,1500800,Ananindeua,515745,09 - Previdência Social,76539643.87
+2024,1500800,Ananindeua,515745,09.271 - Previdência Básica,53140476.78
+2024,1500800,Ananindeua,515745,09.122 - Administração Geral,23399167.09
+2024,1500800,Ananindeua,515745,10 - Saúde,384010981.59
+2024,1500800,Ananindeua,515745,10.301 - Atenção Básica,187286272.84
+2024,1500800,Ananindeua,515745,10.302 - Assistência Hospitalar e Ambulatorial,135993311.1
+2024,1500800,Ananindeua,515745,10.303 - Suporte Profilático e Terapêutico,7729041.14
+2024,1500800,Ananindeua,515745,10.304 - Vigilância Sanitária,150177.68
+2024,1500800,Ananindeua,515745,10.305 - Vigilância Epidemiológica,18830750.33
+2024,1500800,Ananindeua,515745,10.122 - Administração Geral,33701641.64
+2024,1500800,Ananindeua,515745,FU10 - Demais Subfunções,319786.86
+2024,1500800,Ananindeua,515745,12 - Educação,421841745.3
+2024,1500800,Ananindeua,515745,12.361 - Ensino Fundamental,266363515.91
+2024,1500800,Ananindeua,515745,12.365 - Educação Infantil,70771693.2
+2024,1500800,Ananindeua,515745,12.368 - Educação Básica,17337735.15
+2024,1500800,Ananindeua,515745,12.122 - Administração Geral,51598398.91
+2024,1500800,Ananindeua,515745,FU12 - Demais Subfunções,15770402.13
+2024,1500800,Ananindeua,515745,13 - Cultura,7899603.58
+2024,1500800,Ananindeua,515745,13.392 - Difusão Cultural,6784781.91
+2024,1500800,Ananindeua,515745,13.122 - Administração Geral,1114821.67
+2024,1500800,Ananindeua,515745,14 - Direitos da Cidadania,324153.78
+2024,1500800,Ananindeua,515745,14.122 - Administração Geral,324153.78
+2024,1500800,Ananindeua,515745,15 - Urbanismo,242577056.95
+2024,1500800,Ananindeua,515745,15.451 - Infraestrutura Urbana,230984973.26
+2024,1500800,Ananindeua,515745,15.122 - Administração Geral,11592083.69
+2024,1500800,Ananindeua,515745,16 - Habitação,8628981.77
+2024,1500800,Ananindeua,515745,16.482 - Habitação Urbana,6258528.0
+2024,1500800,Ananindeua,515745,16.122 - Administração Geral,2370453.77
+2024,1500800,Ananindeua,515745,17 - Saneamento,124858852.76
+2024,1500800,Ananindeua,515745,17.512 - Saneamento Básico Urbano,119165720.42
+2024,1500800,Ananindeua,515745,17.122 - Administração Geral,5693132.34
+2024,1500800,Ananindeua,515745,18 - Gestão Ambiental,1792852.0
+2024,1500800,Ananindeua,515745,18.122 - Administração Geral,1792852.0
+2024,1500800,Ananindeua,515745,19 - Ciência e Tecnologia,4637017.94
+2024,1500800,Ananindeua,515745,19.122 - Administração Geral,4637017.94
+2024,1500800,Ananindeua,515745,20 - Agricultura,2421142.08
+2024,1500800,Ananindeua,515745,20.608 - Promoção da Produção Agropecuária,2249880.88
+2024,1500800,Ananindeua,515745,20.122 - Administração Geral,171261.2
+2024,1500800,Ananindeua,515745,23 - Comércio e Serviços,1298752.15
+2024,1500800,Ananindeua,515745,23.691 - Promoção Comercial,941279.47
+2024,1500800,Ananindeua,515745,23.695 - Turismo,357472.68
+2024,1500800,Ananindeua,515745,26 - Transporte,1288000.0
+2024,1500800,Ananindeua,515745,FU26 - Demais Subfunções,1288000.0
+2024,1500800,Ananindeua,515745,27 - Desporto e Lazer,2905643.46
+2024,1500800,Ananindeua,515745,27.812 - Desporto Comunitário,1235128.51
+2024,1500800,Ananindeua,515745,27.122 - Administração Geral,1670514.95
+2024,1500800,Ananindeua,515745,28 - Encargos Especiais,139556084.12
+2024,1500800,Ananindeua,515745,28.843 - Serviço da Dívida Interna,134836122.3
+2024,1500800,Ananindeua,515745,28.846 - Outros Encargos Especiais,4719961.82
+2025,1504208,Marabá,271321,TOTAL (exceto intra),1514654345.26
+2025,1504208,Marabá,271321,01 - Legislativa,53282965.05
+2025,1504208,Marabá,271321,01.031 - Ação Legislativa,53282965.05
+2025,1504208,Marabá,271321,03 - Essencial à Justiça,7431711.13
+2025,1504208,Marabá,271321,03.092 - Representação Judicial e Extrajudicial,7431711.13
+2025,1504208,Marabá,271321,04 - Administração,93608567.85
+2025,1504208,Marabá,271321,04.121 - Planejamento e Orçamento,6426353.56
+2025,1504208,Marabá,271321,04.122 - Administração Geral,73333353.34
+2025,1504208,Marabá,271321,04.123 - Administração Financeira,1701322.01
+2025,1504208,Marabá,271321,04.124 - Controle Interno,1527289.73
+2025,1504208,Marabá,271321,04.125 - Normatização e Fiscalização,10475442.45
+2025,1504208,Marabá,271321,FU04 - Demais Subfunções,144806.76
+2025,1504208,Marabá,271321,06 - Segurança Pública,28912042.83
+2025,1504208,Marabá,271321,06.181 - Policiamento,21969480.74
+2025,1504208,Marabá,271321,06.182 - Defesa Civil,561550.93
+2025,1504208,Marabá,271321,06.122 - Administração Geral,4097263.37
+2025,1504208,Marabá,271321,FU06 - Demais Subfunções,2283747.79
+2025,1504208,Marabá,271321,08 - Assistência Social,32347172.29
+2025,1504208,Marabá,271321,08.241 - Assistência à Pessoa Idosa,11226.67
+2025,1504208,Marabá,271321,08.243 - Assistência à Criança e ao Adolescente,193706.39
+2025,1504208,Marabá,271321,08.244 - Assistência Comunitária,9437522.49
+2025,1504208,Marabá,271321,08.122 - Administração Geral,22704716.74
+2025,1504208,Marabá,271321,09 - Previdência Social,87396907.8
+2025,1504208,Marabá,271321,09.272 - Previdência do Regime Estatutário,87396907.8
+2025,1504208,Marabá,271321,10 - Saúde,367824383.62
+2025,1504208,Marabá,271321,10.301 - Atenção Básica,85615775.15
+2025,1504208,Marabá,271321,10.302 - Assistência Hospitalar e Ambulatorial,234930274.72
+2025,1504208,Marabá,271321,10.303 - Suporte Profilático e Terapêutico,6423990.03
+2025,1504208,Marabá,271321,10.304 - Vigilância Sanitária,5144812.92
+2025,1504208,Marabá,271321,10.305 - Vigilância Epidemiológica,5379630.93
+2025,1504208,Marabá,271321,10.306 - Alimentação e Nutrição,1940548.0
+2025,1504208,Marabá,271321,10.122 - Administração Geral,27200507.05
+2025,1504208,Marabá,271321,FU10 - Demais Subfunções,1188844.82
+2025,1504208,Marabá,271321,11 - Trabalho,659972.61
+2025,1504208,Marabá,271321,11.334 - Fomento ao Trabalho,659972.61
+2025,1504208,Marabá,271321,12 - Educação,528083659.75
+2025,1504208,Marabá,271321,12.361 - Ensino Fundamental,368047975.68
+2025,1504208,Marabá,271321,12.365 - Educação Infantil,80499438.72
+2025,1504208,Marabá,271321,12.366 - Educação de Jovens e Adultos,10933094.53
+2025,1504208,Marabá,271321,12.122 - Administração Geral,56280758.66
+2025,1504208,Marabá,271321,FU12 - Demais Subfunções,12322392.16
+2025,1504208,Marabá,271321,13 - Cultura,30902250.28
+2025,1504208,Marabá,271321,"13.391 - Patrimônio Histórico, Artístico e Arqueológico",2292307.38
+2025,1504208,Marabá,271321,13.392 - Difusão Cultural,12354925.19
+2025,1504208,Marabá,271321,13.122 - Administração Geral,16169967.93
+2025,1504208,Marabá,271321,FU13 - Demais Subfunções,85049.78
+2025,1504208,Marabá,271321,15 - Urbanismo,144354060.12
+2025,1504208,Marabá,271321,15.451 - Infraestrutura Urbana,55195691.29
+2025,1504208,Marabá,271321,15.452 - Serviços Urbanos,86217722.53
+2025,1504208,Marabá,271321,FU15 - Demais Subfunções,2940646.3
+2025,1504208,Marabá,271321,16 - Habitação,5849412.59
+2025,1504208,Marabá,271321,16.482 - Habitação Urbana,432082.6
+2025,1504208,Marabá,271321,16.122 - Administração Geral,5417329.99
+2025,1504208,Marabá,271321,17 - Saneamento,3714483.02
+2025,1504208,Marabá,271321,17.512 - Saneamento Básico Urbano,3714483.02
+2025,1504208,Marabá,271321,18 - Gestão Ambiental,6863825.48
+2025,1504208,Marabá,271321,18.541 - Preservação e Conservação Ambiental,1674314.44
+2025,1504208,Marabá,271321,18.122 - Administração Geral,5189511.04
+2025,1504208,Marabá,271321,19 - Ciência e Tecnologia,481845.68
+2025,1504208,Marabá,271321,FU19 - Demais Subfunções,481845.68
+2025,1504208,Marabá,271321,20 - Agricultura,12409455.89
+2025,1504208,Marabá,271321,20.606 - Extensão Rural,825014.26
+2025,1504208,Marabá,271321,20.608 - Promoção da Produção Agropecuária,2474999.0
+2025,1504208,Marabá,271321,20.122 - Administração Geral,9109442.63
+2025,1504208,Marabá,271321,23 - Comércio e Serviços,1521649.07
+2025,1504208,Marabá,271321,23.695 - Turismo,191289.36
+2025,1504208,Marabá,271321,23.122 - Administração Geral,1330359.71
+2025,1504208,Marabá,271321,24 - Comunicações,6307397.11
+2025,1504208,Marabá,271321,FU24 - Demais Subfunções,6307397.11
+2025,1504208,Marabá,271321,25 - Energia,23606126.42
+2025,1504208,Marabá,271321,25.752 - Energia Elétrica,23606126.42
+2025,1504208,Marabá,271321,26 - Transporte,14437222.76
+2025,1504208,Marabá,271321,26.782 - Transporte Rodoviário,13820815.34
+2025,1504208,Marabá,271321,26.122 - Administração Geral,616407.42
+2025,1504208,Marabá,271321,27 - Desporto e Lazer,4093457.18
+2025,1504208,Marabá,271321,27.812 - Desporto Comunitário,427611.14
+2025,1504208,Marabá,271321,27.813 - Lazer,1053706.15
+2025,1504208,Marabá,271321,27.122 - Administração Geral,2462139.89
+2025,1504208,Marabá,271321,FU27 - Demais Subfunções,150000.0
+2025,1504208,Marabá,271321,28 - Encargos Especiais,60565776.73
+2025,1504208,Marabá,271321,FU28 - Demais Subfunções,60565776.73
+2025,1500800,Ananindeua,515745,TOTAL (exceto intra),1714999976.9
+2025,1500800,Ananindeua,515745,01 - Legislativa,28375609.41
+2025,1500800,Ananindeua,515745,01.031 - Ação Legislativa,42000.0
+2025,1500800,Ananindeua,515745,01.122 - Administração Geral,28333609.41
+2025,1500800,Ananindeua,515745,03 - Essencial à Justiça,4652055.96
+2025,1500800,Ananindeua,515745,03.122 - Administração Geral,3938033.09
+2025,1500800,Ananindeua,515745,FU03 - Demais Subfunções,714022.87
+2025,1500800,Ananindeua,515745,04 - Administração,77537175.37
+2025,1500800,Ananindeua,515745,04.121 - Planejamento e Orçamento,11646477.74
+2025,1500800,Ananindeua,515745,04.122 - Administração Geral,62893298.48
+2025,1500800,Ananindeua,515745,04.128 - Formação de Recursos Humanos,4332.69
+2025,1500800,Ananindeua,515745,04.131 - Comunicação Social,2993066.46
+2025,1500800,Ananindeua,515745,06 - Segurança Pública,31581232.1
+2025,1500800,Ananindeua,515745,06.181 - Policiamento,30316416.89
+2025,1500800,Ananindeua,515745,06.122 - Administração Geral,1264815.21
+2025,1500800,Ananindeua,515745,08 - Assistência Social,34637751.41
+2025,1500800,Ananindeua,515745,08.241 - Assistência à Pessoa Idosa,1200.0
+2025,1500800,Ananindeua,515745,08.244 - Assistência Comunitária,8631405.0
+2025,1500800,Ananindeua,515745,08.122 - Administração Geral,25139687.59
+2025,1500800,Ananindeua,515745,FU08 - Demais Subfunções,865458.82
+2025,1500800,Ananindeua,515745,09 - Previdência Social,81893958.64
+2025,1500800,Ananindeua,515745,09.271 - Previdência Básica,52410932.62
+2025,1500800,Ananindeua,515745,09.122 - Administração Geral,29483026.02
+2025,1500800,Ananindeua,515745,10 - Saúde,403742363.97
+2025,1500800,Ananindeua,515745,10.301 - Atenção Básica,166256243.02
+2025,1500800,Ananindeua,515745,10.302 - Assistência Hospitalar e Ambulatorial,159597606.84
+2025,1500800,Ananindeua,515745,10.303 - Suporte Profilático e Terapêutico,8399355.2
+2025,1500800,Ananindeua,515745,10.304 - Vigilância Sanitária,60307.02
+2025,1500800,Ananindeua,515745,10.305 - Vigilância Epidemiológica,17186516.56
+2025,1500800,Ananindeua,515745,10.122 - Administração Geral,51407483.79
+2025,1500800,Ananindeua,515745,FU10 - Demais Subfunções,834851.54
+2025,1500800,Ananindeua,515745,12 - Educação,482411847.47
+2025,1500800,Ananindeua,515745,12.361 - Ensino Fundamental,229558347.02
+2025,1500800,Ananindeua,515745,12.365 - Educação Infantil,139218007.3
+2025,1500800,Ananindeua,515745,12.368 - Educação Básica,19032581.43
+2025,1500800,Ananindeua,515745,12.122 - Administração Geral,72122845.82
+2025,1500800,Ananindeua,515745,FU12 - Demais Subfunções,22480065.9
+2025,1500800,Ananindeua,515745,13 - Cultura,8100820.52
+2025,1500800,Ananindeua,515745,13.392 - Difusão Cultural,6924594.67
+2025,1500800,Ananindeua,515745,13.122 - Administração Geral,1176225.85
+2025,1500800,Ananindeua,515745,14 - Direitos da Cidadania,756826.47
+2025,1500800,Ananindeua,515745,14.122 - Administração Geral,756826.47
+2025,1500800,Ananindeua,515745,15 - Urbanismo,250381047.55
+2025,1500800,Ananindeua,515745,15.451 - Infraestrutura Urbana,239424190.81
+2025,1500800,Ananindeua,515745,15.122 - Administração Geral,10956856.74
+2025,1500800,Ananindeua,515745,16 - Habitação,6982004.5
+2025,1500800,Ananindeua,515745,16.482 - Habitação Urbana,4337000.0
+2025,1500800,Ananindeua,515745,16.122 - Administração Geral,2645004.5
+2025,1500800,Ananindeua,515745,17 - Saneamento,77722162.72
+2025,1500800,Ananindeua,515745,17.512 - Saneamento Básico Urbano,64103512.3
+2025,1500800,Ananindeua,515745,17.122 - Administração Geral,13618650.42
+2025,1500800,Ananindeua,515745,18 - Gestão Ambiental,3427391.21
+2025,1500800,Ananindeua,515745,18.122 - Administração Geral,3427391.21
+2025,1500800,Ananindeua,515745,19 - Ciência e Tecnologia,4803857.13
+2025,1500800,Ananindeua,515745,19.122 - Administração Geral,4763857.13
+2025,1500800,Ananindeua,515745,FU19 - Demais Subfunções,40000.0
+2025,1500800,Ananindeua,515745,20 - Agricultura,2314315.33
+2025,1500800,Ananindeua,515745,20.608 - Promoção da Produção Agropecuária,2233417.5
+2025,1500800,Ananindeua,515745,20.122 - Administração Geral,80897.83
+2025,1500800,Ananindeua,515745,23 - Comércio e Serviços,902409.95
+2025,1500800,Ananindeua,515745,23.691 - Promoção Comercial,815447.75
+2025,1500800,Ananindeua,515745,23.695 - Turismo,86962.2
+2025,1500800,Ananindeua,515745,26 - Transporte,1148490.0
+2025,1500800,Ananindeua,515745,FU26 - Demais Subfunções,1148490.0
+2025,1500800,Ananindeua,515745,27 - Desporto e Lazer,1870686.98
+2025,1500800,Ananindeua,515745,27.812 - Desporto Comunitário,413150.44
+2025,1500800,Ananindeua,515745,27.122 - Administração Geral,1457536.54
+2025,1500800,Ananindeua,515745,28 - Encargos Especiais,211757970.21
+2025,1500800,Ananindeua,515745,28.843 - Serviço da Dívida Interna,196142195.39
+2025,1500800,Ananindeua,515745,28.846 - Outros Encargos Especiais,15615774.82
